@@ -1,0 +1,28 @@
+{
+  "index.html": {
+    "comp-mm9019vs13": {
+      "after": 10,
+      "color": "#222222",
+      "bold": true
+    },
+    "comp-mm9019vr": {
+      "after": 60,
+      "before": 0,
+      "size": 48
+    },
+    "comp-mm9019vx": {
+      "color": "#222222"
+    }
+  },
+  "about.html": {
+    "about-intro-section": {
+      "background": "#fff1cc"
+    },
+    "about-toolkit-section": {
+      "background": "#fff9f2"
+    },
+    "about-interests-section": {
+      "background": "#fff9f2"
+    }
+  }
+}

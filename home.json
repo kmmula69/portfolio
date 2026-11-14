@@ -1,0 +1,142 @@
+{
+  "name": "Ang Kai Ming",
+  "title": "UX & Game Designer",
+  "intro": "Hey, I’m Kai Ming, a student focusing on UX and Game Design. Here is a look at some of my projects.",
+  "about": [
+    "I am Kai Ming, a game designer obsessed with how systems work. Currently in my third year at DigiPen Institute of Technology Singapore, I’ve moved from making games that 'just work' to designing games that 'feel right.'",
+    "I specialise in C# Scripting and UI/UX Prototyping. I love the challenge of taking complex data like an RPG inventory or a strategy game’s HUD, and distilling it into a clean, accessible interface. I’m a firm believer that good UX is invisible; it allows the player to stay immersed in the world I've built.",
+    "Currently looking for Internship opportunities where I can break (and then fix) complex problems."
+  ],
+  "tools": "Figma · Unity / C# · Adobe Illustrator · Photoshop · Aseprite · GitHub",
+  "learning": "Currently learning Unreal Engine 5 & Blueprints.",
+  "interests": "Beyond design: fitness, hiking, bouldering, games and animated shows.",
+  "contact": "Have an opportunity or a project in mind? I’d love to hear from you.",
+  "email": "mingkaiang69@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/profile-angkaiming/",
+  "instagram": "https://www.instagram.com/ux_gato",
+  "portrait": "ae24a9_54c6c4fe32d84abe968b0d0bbc28b435~mv2.jpg",
+  "homeAbout": [
+    "I enjoy the challenge of taking complex ideas and making them easy for players to understand. My background in UX helps me focus on usability, while my game design studies allow me to think about mechanics and fun.",
+    "When I’m not designing, I’m usually expanding my game engine knowledge like Unity and Unreal Engine. I’m currently looking for opportunities to grow and contribute to a team."
+  ],
+  "heroImage": "homepage-gameplay-poster.jpg",
+  "bannerImage": "ae24a9_b690ca5cf12b425098d7d79e8c7eca25~mv2.png",
+  "heroVideo": "homepage-gameplay.mp4",
+  "behindTitle": "Behind the Design",
+  "aboutTitle": "More About Me",
+  "exactToolkit": [
+    {
+      "headingId": "comp-m3d2e7mh16",
+      "textId": "comp-m3d2e7mi3",
+      "heading": "UX & Interface Design",
+      "text": "I enjoy the challenge of making complex systems easy to use. I focus on creating clean, helpful interfaces that guide the user and look great.",
+      "items": [
+        {
+          "headingId": "comp-mkawtu3n__item1",
+          "textId": "comp-mkawtu3n3__item1",
+          "heading": "Figma",
+          "text": "Used for high-fidelity UI wireframing and mapping out complex menu flows.",
+          "icon": "wix-ae24a9_136a03ae04d74fbf9cc7bd98281ec762~mv2.png"
+        },
+        {
+          "headingId": "comp-mkawtu3n__item-ker6vlu0",
+          "textId": "comp-mkawtu3n3__item-ker6vlu0",
+          "heading": "Adobe Illustrator",
+          "text": "Used for creating vector icons, HUD elements, and custom 2D assets to maintain a cohesive visual identity.",
+          "icon": "wix-ae24a9_f4e3e1f9bbab4db980a5d83649c51a8a~mv2.png"
+        },
+        {
+          "headingId": "comp-mkawtu3n__item-ker6vlz9",
+          "textId": "comp-mkawtu3n3__item-ker6vlz9",
+          "heading": "Aseprite",
+          "text": "My go-to for pixel art and frame-by-frame animation, used to create expressive character sprites and 2D environmental assets.",
+          "icon": "wix-ae24a9_3ffbc0ec28a340beac66d7b96688ce42~mv2.png"
+        }
+      ]
+    },
+    {
+      "headingId": "comp-mkax0a4u",
+      "textId": "comp-mkax0a4v8",
+      "heading": "Technical Implementation",
+      "text": "I bridge the gap between concept and reality through technical implementation. My development focus is on building scalable systems and clean, efficient code. I specialise in turning high-level design documents into functional, bug-free gameplay systems that feel responsive and polished.",
+      "items": [
+        {
+          "headingId": "comp-mkax0a4z3__item1",
+          "textId": "comp-mkax0a50__item1",
+          "heading": "Unity (C#)",
+          "text": "My strongest engine for gameplay scripting. I use it to build 2D/3D prototypes and implement complex systems like inventory and AI.",
+          "icon": "wix-ae24a9_bdbbb19a51be4c1f900e85a4c0e241ae~mv2.png"
+        },
+        {
+          "headingId": "comp-mkax0a4z3__item-ker6vlu0",
+          "textId": "comp-mkax0a50__item-ker6vlu0",
+          "heading": "Unreal Engine 5 (Currently Advancing)",
+          "text": "Currently mastering the fundamentals of Blueprints and the Enhanced Input System to expand into high-fidelity 3D development.",
+          "icon": "wix-ae24a9_e47536885e094d19a4bf17c99f7f041e~mv2.png"
+        },
+        {
+          "headingId": "comp-mkax0a4z3__item-ker6vlz9",
+          "textId": "comp-mkax0a50__item-ker6vlz9",
+          "heading": "Github",
+          "text": "Utilised for version control, collaborative workflows, and maintaining a transparent, organised development history.",
+          "icon": "wix-ae24a9_ec894da21343489eb4072d30020f129f~mv2.png"
+        }
+      ]
+    },
+    {
+      "headingId": "comp-mkax0dd58",
+      "textId": "comp-mkax0dd612",
+      "heading": "Systems & Mechanic Design",
+      "text": "I focus on the intentionality of play. My design process is rooted in player psychology, defining the core loops, balancing combat systems, and scripting narrative beats that keep players engaged. I don't just ask what the mechanic is, but why it matters to the player's journey.",
+      "items": [
+        {
+          "headingId": "comp-mkax0dda__item1",
+          "textId": "comp-mkax0dda5__item1",
+          "heading": "Core Loops",
+          "text": "Designing engaging gameplay systems and progression paths.",
+          "icon": "lucide-repeat-2.png"
+        },
+        {
+          "headingId": "comp-mkax0dda__item-ker6vlu0",
+          "textId": "comp-mkax0dda5__item-ker6vlu0",
+          "heading": "Player Psychology",
+          "text": "Applying UX principles to game design to ensure clear feedback and rewarding challenges.",
+          "icon": "lucide-chess-pawn.png"
+        },
+        {
+          "headingId": "comp-mkax0dda__item-ker6vlz9",
+          "textId": "comp-mkax0dda5__item-ker6vlz9",
+          "heading": "Narrative Design",
+          "text": "Building immersive worlds through environmental storytelling and interactive systems.",
+          "icon": "lucide-speech.png"
+        }
+      ]
+    }
+  ],
+  "exactInterests": [
+    {
+      "headingId": "comp-mkba0gjy9__item1",
+      "textId": "comp-mkba0gjz4__item1",
+      "heading": "Video Games",
+      "text": "Maplestory (Since 2010)\n\nLeague of Legends\n\nResident Evil 7"
+    },
+    {
+      "headingId": "comp-mkba0gjy9__item-ker6vlu0",
+      "textId": "comp-mkba0gjz4__item-ker6vlu0",
+      "heading": "Animated Shows",
+      "text": "Rick and Morty\n\nAdventure Time\n\nJujutsu Kaisen"
+    },
+    {
+      "headingId": "comp-mkba0gjy9__item-ker6vlz9",
+      "textId": "comp-mkba0gjz4__item-ker6vlz9",
+      "heading": "Hobbies",
+      "text": "Fitness\n\nHiking\n\nBouldering"
+    },
+    {
+      "headingId": "comp-mkba0gjy9__item-ker6vm4a",
+      "textId": "comp-mkba0gjz4__item-ker6vm4a",
+      "heading": "Learning",
+      "text": "Unreal Engine\n\nMaplestory Worlds Creator"
+    }
+  ]
+}

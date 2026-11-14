@@ -1,0 +1,570 @@
+{
+  "projects": {
+    "gruntsmith": {
+      "source": "game-gruntsmith",
+      "media": [
+        {
+          "id": "comp-mlxs56aa",
+          "type": "video"
+        },
+        {
+          "id": "comp-mlxs5jri6",
+          "type": "video"
+        },
+        {
+          "id": "img_comp-mlxs5jrl",
+          "type": "image"
+        },
+        {
+          "id": "comp-mlxs5jrn2",
+          "type": "video"
+        },
+        {
+          "id": "comp-mlxs5jrq",
+          "type": "video"
+        },
+        {
+          "id": "comp-mlxs5jrs6",
+          "type": "video"
+        }
+      ]
+    },
+    "halfblood": {
+      "source": "game-halfblood",
+      "media": [
+        {
+          "id": "comp-mlxy4av0",
+          "type": "video"
+        },
+        {
+          "id": "comp-mlxy4jfh",
+          "type": "video"
+        },
+        {
+          "id": "comp-mlxy4f4o",
+          "type": "video"
+        },
+        {
+          "id": "comp-mlxy4ovt",
+          "type": "video"
+        }
+      ]
+    },
+    "pirates-pocket": {
+      "source": "game-pirates-pocket",
+      "media": [
+        {
+          "id": "comp-mlyl1n6c",
+          "type": "gallery"
+        },
+        {
+          "id": "img_comp-mlyqkub6",
+          "type": "image"
+        },
+        {
+          "id": "img_comp-mlxsmsxc9",
+          "type": "image"
+        },
+        {
+          "id": "img_comp-mlys0e3r",
+          "type": "image"
+        },
+        {
+          "id": "img_comp-mlyqwt4v",
+          "type": "image"
+        }
+      ]
+    },
+    "nibble-cookies": {
+      "source": "design-nibble-cookies",
+      "media": [
+        {
+          "id": "img_comp-mlysptp7",
+          "type": "image"
+        },
+        {
+          "id": "comp-mlyti26w",
+          "type": "gallery"
+        },
+        {
+          "id": "comp-mlyu07ca",
+          "type": "gallery"
+        },
+        {
+          "id": "comp-mlyvxd8r",
+          "type": "gallery"
+        },
+        {
+          "id": "comp-mlyu2kf9",
+          "type": "gallery"
+        }
+      ]
+    },
+    "mytransport-sg": {
+      "source": "copy-of-project-4-nibble-cookies",
+      "media": [
+        {
+          "id": "img_comp-mlywuhwf",
+          "type": "image"
+        },
+        {
+          "id": "comp-mlywuhwq6",
+          "type": "gallery"
+        },
+        {
+          "id": "comp-mlzbqm69",
+          "type": "gallery"
+        },
+        {
+          "id": "comp-mlzbr7o0",
+          "type": "gallery"
+        },
+        {
+          "id": "comp-mlzbra3q",
+          "type": "gallery"
+        }
+      ]
+    },
+    "innav": {
+      "source": "copy-of-project-5-mytransport-sg",
+      "media": [
+        {
+          "id": "img_comp-mvhxeetl",
+          "type": "image"
+        },
+        {
+          "id": "comp-mvhxeeu95",
+          "type": "gallery"
+        },
+        {
+          "id": "comp-mvhxeeub1",
+          "type": "gallery"
+        }
+      ]
+    }
+  },
+  "galleries": {
+    "comp-mlyti26w": [
+      {
+        "alt": "Primary Palette",
+        "index": 0,
+        "src": "https://static.wixstatic.com/media/ae24a9_dd16bdf023e447ad96078d483a1f90c1~mv2.jpg"
+      },
+      {
+        "alt": "Accent Palette",
+        "index": 1,
+        "src": "https://static.wixstatic.com/media/ae24a9_6a12d4aaef2a4ef7a43e9d54d688f98f~mv2.jpg"
+      },
+      {
+        "alt": "Typography & Icongraphy",
+        "index": 2,
+        "src": "https://static.wixstatic.com/media/ae24a9_67c69644385e47dea97efa64cafbfd59~mv2.jpg"
+      },
+      {
+        "alt": "Sketches & AI",
+        "index": 3,
+        "src": "https://static.wixstatic.com/media/ae24a9_81ea66eb0bd9411ea425430bf1e54d3f~mv2.jpg"
+      },
+      {
+        "alt": "Moodboard: Logotypes",
+        "index": 4,
+        "src": "https://static.wixstatic.com/media/ae24a9_efa011094bc34d048245f1976e4d5542~mv2.jpg"
+      },
+      {
+        "alt": "Moodboard: Logomarks",
+        "index": 5,
+        "src": "https://static.wixstatic.com/media/ae24a9_eb80f0de0b214978b3d4f961bcd37657~mv2.jpg"
+      },
+      {
+        "alt": "Moodboard: Combinations",
+        "index": 6,
+        "src": "https://static.wixstatic.com/media/ae24a9_ccaf10c87f244a5484d2966b08740ef5~mv2.jpg"
+      },
+      {
+        "alt": "Option 1",
+        "index": 7,
+        "src": "https://static.wixstatic.com/media/ae24a9_89490a835fc844efb9c78984b30975b1~mv2.jpg"
+      },
+      {
+        "alt": "Option 2",
+        "index": 8,
+        "src": "https://static.wixstatic.com/media/ae24a9_63106b98e3ee420e8666729376399784~mv2.jpg"
+      },
+      {
+        "alt": "Chosen Option",
+        "index": 9,
+        "src": "https://static.wixstatic.com/media/ae24a9_6feb25a9934e430b80ca6debf133e9d7~mv2.jpg"
+      },
+      {
+        "alt": "Monochrome",
+        "index": 10,
+        "src": "https://static.wixstatic.com/media/ae24a9_195252140dad48c4a914a3cd0e9d1aec~mv2.jpg"
+      },
+      {
+        "alt": "Logo Variations",
+        "index": 11,
+        "src": "https://static.wixstatic.com/media/ae24a9_d49699d1328940089f731b6b3c3b66f5~mv2.jpg"
+      }
+    ],
+    "comp-mlyu07ca": [
+      {
+        "alt": "Wireframe: Home Page",
+        "index": 0,
+        "src": "https://static.wixstatic.com/media/ae24a9_2cd320de91d94013a550d8043d11b1bc~mv2.jpg"
+      },
+      {
+        "alt": "Wireframe: Shop Page",
+        "index": 1,
+        "src": "https://static.wixstatic.com/media/ae24a9_9538e65998ee4ec08f11057c011b9c7c~mv2.jpg"
+      },
+      {
+        "alt": "Wireframe: Flavours Page",
+        "index": 2,
+        "src": "https://static.wixstatic.com/media/ae24a9_74287eed637b4b41aeb769ff75d36457~mv2.jpg"
+      },
+      {
+        "alt": "Wireframe: About Us Page",
+        "index": 3,
+        "src": "https://static.wixstatic.com/media/ae24a9_da14f6b970cd4a319d88afc7b6df1d6f~mv2.jpg"
+      },
+      {
+        "alt": "Wireframe: Location Page",
+        "index": 4,
+        "src": "https://static.wixstatic.com/media/ae24a9_f0234331f0fb4527bc389bf4edc1d9e2~mv2.jpg"
+      },
+      {
+        "alt": "Wireframe: Contact Us Page",
+        "index": 5,
+        "src": "https://static.wixstatic.com/media/ae24a9_90deb56a339545a88819fa8e828a4e94~mv2.jpg"
+      },
+      {
+        "alt": "Wireframe: Sign In Page",
+        "index": 6,
+        "src": "https://static.wixstatic.com/media/ae24a9_8166c3be3f274a3ca794c58a0163f069~mv2.jpg"
+      },
+      {
+        "alt": "Wireframe: Create Account Page",
+        "index": 7,
+        "src": "https://static.wixstatic.com/media/ae24a9_1fbc9f6f306247bd866718172ab666f3~mv2.jpg"
+      }
+    ],
+    "comp-mlyvxd8r": [
+      {
+        "alt": "Home Page",
+        "index": 0,
+        "src": "https://static.wixstatic.com/media/ae24a9_75b61684bb95437b96140b111957772b~mv2.jpg"
+      },
+      {
+        "alt": "Shop Page",
+        "index": 1,
+        "src": "https://static.wixstatic.com/media/ae24a9_e52520e8534d426f981c12deef7009a8~mv2.jpg"
+      },
+      {
+        "alt": "Flavours Page",
+        "index": 2,
+        "src": "https://static.wixstatic.com/media/ae24a9_b2ee017318934f38a87a2dbaefbf2189~mv2.jpg"
+      },
+      {
+        "alt": "About Us Page",
+        "index": 3,
+        "src": "https://static.wixstatic.com/media/ae24a9_7e6dbfe8da2540d1ad38fb98867d0460~mv2.jpg"
+      },
+      {
+        "alt": "Location Page",
+        "index": 4,
+        "src": "https://static.wixstatic.com/media/ae24a9_bd38b79816c94abe853112c53279aa22~mv2.jpg"
+      },
+      {
+        "alt": "Contact Us Page",
+        "index": 5,
+        "src": "https://static.wixstatic.com/media/ae24a9_c049958bcea344e5b7dbd754eba2f6ec~mv2.jpg"
+      },
+      {
+        "alt": "Sign In Page",
+        "index": 6,
+        "src": "https://static.wixstatic.com/media/ae24a9_c92d35d5ca1e42bca6188df7bcfd8822~mv2.jpg"
+      },
+      {
+        "alt": "Create Account Page",
+        "index": 7,
+        "src": "https://static.wixstatic.com/media/ae24a9_8510f008e280481abc2f979d3d8259b3~mv2.jpg"
+      }
+    ],
+    "comp-mlyu2kf9": [
+      {
+        "alt": "Mobile App: Home Page",
+        "index": 0,
+        "src": "https://static.wixstatic.com/media/ae24a9_f7fc3f2483494a43a360926cd4649ec2~mv2.jpg"
+      },
+      {
+        "alt": "Mobile App: Order Page",
+        "index": 1,
+        "src": "https://static.wixstatic.com/media/ae24a9_7aab592a3f18433d811a11b0a2388d8a~mv2.jpg"
+      },
+      {
+        "alt": "Mobile App: Flavours Page",
+        "index": 2,
+        "src": "https://static.wixstatic.com/media/ae24a9_67d8a352a8144c468352d72a0706e6fa~mv2.jpg"
+      },
+      {
+        "alt": "Mobile App: Store Page",
+        "index": 3,
+        "src": "https://static.wixstatic.com/media/ae24a9_cdddaec722394d4e8ac53cb5820efd25~mv2.jpg"
+      },
+      {
+        "alt": "Mobile App: More Page",
+        "index": 4,
+        "src": "https://static.wixstatic.com/media/ae24a9_32f3abfb051b43538f037a0c1fe37c76~mv2.jpg"
+      },
+      {
+        "alt": "Mobile App: A/B Testing 1",
+        "index": 5,
+        "src": "https://static.wixstatic.com/media/ae24a9_e832ae43db0744e0a539e56fe4d325c8~mv2.jpg"
+      },
+      {
+        "alt": "Mobile App: A/B Testing 2",
+        "index": 6,
+        "src": "https://static.wixstatic.com/media/ae24a9_23c16539130442c4875fee0daf25ca92~mv2.jpg"
+      },
+      {
+        "alt": "Mobile App: A/B Testing 3",
+        "index": 7,
+        "src": "https://static.wixstatic.com/media/ae24a9_05c197eba1904243acc7f7e72d8b6f20~mv2.jpg"
+      }
+    ],
+    "comp-mlywuhwq6": [
+      {
+        "alt": "Chosen User Demographic",
+        "index": 0,
+        "src": "https://static.wixstatic.com/media/ae24a9_b58e6a6d28c84524a0b5b92b6c1779c6~mv2.jpg"
+      },
+      {
+        "alt": "Heuristic Evaluation 1",
+        "index": 1,
+        "src": "https://static.wixstatic.com/media/ae24a9_a075035c63c048b893c16a241cf32b1f~mv2.jpg"
+      },
+      {
+        "alt": "Heuristic Evaluation 2",
+        "index": 2,
+        "src": "https://static.wixstatic.com/media/ae24a9_f2b85e860a6d4b818f3594d0d3a3813d~mv2.jpg"
+      },
+      {
+        "alt": "Heuristic Evaluation 3",
+        "index": 3,
+        "src": "https://static.wixstatic.com/media/ae24a9_b57988d980594b059c65ec9834472b0b~mv2.jpg"
+      },
+      {
+        "alt": "Heuristic Evaluation 4",
+        "index": 4,
+        "src": "https://static.wixstatic.com/media/ae24a9_3bed056e7722412d8341b06995f59cb2~mv2.jpg"
+      },
+      {
+        "alt": "Heuristic Evaluation 5",
+        "index": 5,
+        "src": "https://static.wixstatic.com/media/ae24a9_76be2a62d7fd4473bb0fdbd0f8cf8582~mv2.jpg"
+      },
+      {
+        "alt": "Heuristic Evaluation 6",
+        "index": 6,
+        "src": "https://static.wixstatic.com/media/ae24a9_14807fcd864b41faa50a9c8226cb2714~mv2.jpg"
+      },
+      {
+        "alt": "Heuristic Evaluation 7",
+        "index": 7,
+        "src": "https://static.wixstatic.com/media/ae24a9_dc7ea355ac164d669c9f78759eb849ba~mv2.jpg"
+      },
+      {
+        "alt": "Heuristic Evaluation 8",
+        "index": 8,
+        "src": "https://static.wixstatic.com/media/ae24a9_30fdeac4ae00497eaba0d314b5329f81~mv2.jpg"
+      },
+      {
+        "alt": "Heuristic Evaluation 9",
+        "index": 9,
+        "src": "https://static.wixstatic.com/media/ae24a9_98b811860748490ebf7d613096a2a71e~mv2.jpg"
+      },
+      {
+        "alt": "Heuristic Evaluation 10",
+        "index": 10,
+        "src": "https://static.wixstatic.com/media/ae24a9_2480f56199704a11aafc35d07ff7462a~mv2.jpg"
+      },
+      {
+        "alt": "User Feedback Analysis",
+        "index": 11,
+        "src": "https://static.wixstatic.com/media/ae24a9_aff473d30c974d1581874205a07e8d4c~mv2.jpg"
+      },
+      {
+        "alt": "User Feedback Analysis",
+        "index": 12,
+        "src": "https://static.wixstatic.com/media/ae24a9_5f9b151c51414a41b055871920db2d02~mv2.jpg"
+      }
+    ],
+    "comp-mlzbqm69": [
+      {
+        "alt": "User Story",
+        "index": 0,
+        "src": "https://static.wixstatic.com/media/ae24a9_89a08c2fafe7431192a5d02a9e2146ac~mv2.jpg"
+      },
+      {
+        "alt": "Persona",
+        "index": 1,
+        "src": "https://static.wixstatic.com/media/ae24a9_f1ae3531ab594f31bd3990bae46ecc23~mv2.jpg"
+      },
+      {
+        "alt": "Persona",
+        "index": 2,
+        "src": "https://static.wixstatic.com/media/ae24a9_bf36ae97013d42348398e0674b529414~mv2.jpg"
+      },
+      {
+        "alt": "Empathy Map",
+        "index": 3,
+        "src": "https://static.wixstatic.com/media/ae24a9_94e2480a42424de58038f8ceb12457ea~mv2.jpg"
+      },
+      {
+        "alt": "Empathy Map",
+        "index": 4,
+        "src": "https://static.wixstatic.com/media/ae24a9_d4f0d413621341eca9bf13bc208ac3e6~mv2.jpg"
+      },
+      {
+        "alt": "User Journey Mapping",
+        "index": 5,
+        "src": "https://static.wixstatic.com/media/ae24a9_ad0ee299f5c34f3db411c2be32fa9e3a~mv2.jpg"
+      },
+      {
+        "alt": "User Journey Mapping",
+        "index": 6,
+        "src": "https://static.wixstatic.com/media/ae24a9_8dea8a1907a0437b8a5317b8df0470ea~mv2.jpg"
+      },
+      {
+        "alt": "User Taskflow",
+        "index": 7,
+        "src": "https://static.wixstatic.com/media/ae24a9_cba7d9e4461141d496470ed4543a9e68~mv2.jpg"
+      },
+      {
+        "alt": "User Taskflow",
+        "index": 8,
+        "src": "https://static.wixstatic.com/media/ae24a9_0b484200555d4f87bd6bc0c347d2d06e~mv2.jpg"
+      }
+    ],
+    "comp-mlzbr7o0": [
+      {
+        "alt": "Style Guide",
+        "index": 0,
+        "src": "https://static.wixstatic.com/media/ae24a9_4e87ab50f21049bf9cc49e9fc877a43e~mv2.jpg"
+      },
+      {
+        "alt": "Style Guide",
+        "index": 1,
+        "src": "https://static.wixstatic.com/media/ae24a9_1ce07347f9f048268ab1449398b22197~mv2.jpg"
+      },
+      {
+        "alt": "Style Guide",
+        "index": 2,
+        "src": "https://static.wixstatic.com/media/ae24a9_93c0990814c343b4a2f5377bf643e659~mv2.jpg"
+      }
+    ],
+    "comp-mlzbra3q": [
+      {
+        "alt": "Iteration & Refinement",
+        "index": 0,
+        "src": "https://static.wixstatic.com/media/ae24a9_ac4b9bd2f6cd4412a056ca2b03693455~mv2.jpg"
+      },
+      {
+        "alt": "Iteration & Refinement",
+        "index": 1,
+        "src": "https://static.wixstatic.com/media/ae24a9_31e478ec94d9450d9316203ec436e069~mv2.jpg"
+      },
+      {
+        "alt": "Iteration & Refinement",
+        "index": 2,
+        "src": "https://static.wixstatic.com/media/ae24a9_29c9553dfa8e430ea219e03dfa93b227~mv2.jpg"
+      },
+      {
+        "alt": "Iteration & Refinement",
+        "index": 3,
+        "src": "https://static.wixstatic.com/media/ae24a9_688f55ffb4ce496086d75d4187c7855c~mv2.jpg"
+      },
+      {
+        "alt": "Iteration & Refinement",
+        "index": 4,
+        "src": "https://static.wixstatic.com/media/ae24a9_c7dac8e4fb0e40258257204861910017~mv2.jpg"
+      },
+      {
+        "alt": "Iteration & Refinement",
+        "index": 5,
+        "src": "https://static.wixstatic.com/media/ae24a9_99ad990c1d104aee9b5c825e336c797f~mv2.jpg"
+      }
+    ],
+    "comp-mvhxeeu95": [
+      {
+        "alt": "editor1",
+        "index": 0,
+        "src": "https://static.wixstatic.com/media/ae24a9_e5d36b3191bb44b49c31991add623c8f~mv2.jpg"
+      },
+      {
+        "alt": "editor2",
+        "index": 1,
+        "src": "https://static.wixstatic.com/media/ae24a9_e87503b5d94e4acea50054fc0f4b1275~mv2.jpg"
+      },
+      {
+        "alt": "editor3",
+        "index": 2,
+        "src": "https://static.wixstatic.com/media/ae24a9_dff9f843d1264aa2a6a4196169a68a26~mv2.jpg"
+      },
+      {
+        "alt": "editor4",
+        "index": 3,
+        "src": "https://static.wixstatic.com/media/ae24a9_55fdfda4af0a41efa03d310df7a1f524~mv2.jpg"
+      },
+      {
+        "alt": "editor5",
+        "index": 4,
+        "src": "https://static.wixstatic.com/media/ae24a9_5741fa15bd9844ce9cf8526e7d3f42ea~mv2.jpg"
+      },
+      {
+        "alt": "editor6",
+        "index": 5,
+        "src": "https://static.wixstatic.com/media/ae24a9_88aa8986558b4547b8dfb2a8c4f67604~mv2.jpg"
+      },
+      {
+        "alt": "editor7",
+        "index": 6,
+        "src": "https://static.wixstatic.com/media/ae24a9_099f7fd65867433aa08867051a7cdb0c~mv2.jpg"
+      },
+      {
+        "alt": "app1",
+        "index": 7,
+        "src": "https://static.wixstatic.com/media/ae24a9_419d6d7d1fc04404938e85966541f7ce~mv2.jpg"
+      },
+      {
+        "alt": "app2",
+        "index": 8,
+        "src": "https://static.wixstatic.com/media/ae24a9_1e40502e65134e43993976dda8276cc4~mv2.jpg"
+      },
+      {
+        "alt": "app3",
+        "index": 9,
+        "src": "https://static.wixstatic.com/media/ae24a9_c8cec430e44e416aa25e804e70162b5c~mv2.jpg"
+      }
+    ],
+    "comp-mvhxeeub1": [
+      {
+        "alt": "Prototype",
+        "index": 0,
+        "src": "https://static.wixstatic.com/media/ae24a9_9d4f74a06f954d3bb03a037aeb7b878e~mv2.png"
+      }
+    ],
+    "comp-mlyl1n6c": [
+      {
+        "alt": "Front Cover",
+        "index": 0,
+        "src": "https://static.wixstatic.com/media/ae24a9_69fb72968ba846f6b04aa11df5e38e33~mv2.png"
+      },
+      {
+        "alt": "Back Cover",
+        "index": 1,
+        "src": "https://static.wixstatic.com/media/ae24a9_2bf086f5faf44f65a5f1b320a78c2439~mv2.png"
+      }
+    ]
+  }
+}

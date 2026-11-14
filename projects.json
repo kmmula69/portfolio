@@ -1,0 +1,1757 @@
+[
+  {
+    "slug": "gruntsmith",
+    "title": "Gruntsmith",
+    "category": "Game Design",
+    "year": "2025",
+    "role": "Game Designer | Programmer | Project Manager",
+    "tools": "Unity Engine | Github",
+    "source": "game-gruntsmith",
+    "summary": "Gruntsmith is a high-intensity blend of factory simulation and survival combat, where players rapidly assemble weapons and defend their outpost against relentless waves of intruders.",
+    "intro": "In a world of FPS games, someone supplies the guns. As the sole worker in a rundown factory, you race between workstations, meeting tight quotas to satisfy demanding bosses. It’s dangerous, gruelling work, but the company’s profits depend on your relentless effort to arm thrifty players with their virtual firepower.",
+    "sections": [
+      [
+        "Cinematic Direction",
+        "Leveraged Unity Timeline to author scripted cutscenes that bridge gameplay segments."
+      ],
+      [
+        "Character Switching Logic Dynamic Camera Systems",
+        "Engineered a robust single-player swap system, allowing players to toggle between two unique characters with persistent state management.\n\nDesigned and implemented custom camera controllers to maintain framing during both exploration and character transitions."
+      ],
+      [
+        "Iterative Puzzle Design",
+        "Built modular puzzle mechanics, including a high-complexity system that was ultimately deprecated following playtesting to prioritise player flow and game balance."
+      ],
+      [
+        "Integrated Dialogue System",
+        "Developed a flexible dialogue framework that triggers based on world interactions and narrative milestones, ensuring character-specific lines are delivered correctly regardless of which character the player is currently controlling."
+      ]
+    ],
+    "note": "",
+    "cover": "wix-ae24a9_b6dbe15df7ec45d2871fe185195d0cf7~mv2.png",
+    "gallery": [],
+    "videos": [],
+    "mediaGroups": [],
+    "theme": "Action | Top-Down |Frenzy Management",
+    "status": "",
+    "overviewHeading": "About the Game",
+    "contributionsHeading": "My Contributions",
+    "documents": [],
+    "layout": {
+      "sourcePage": "game-gruntsmith",
+      "ids": {
+        "page": "game-gruntsmith",
+        "title": "comp-mlxs4pvk6",
+        "role": "comp-mlxs4pvl5",
+        "theme": "comp-mlxs4pvn",
+        "tools": "comp-mlxs4pvp",
+        "overview": "comp-mlxs56a9",
+        "intro": "comp-mlxs56ac7",
+        "contrib": "comp-mlxs5jr93",
+        "overviewMedia": [
+          {
+            "type": "video",
+            "name": "gruntsmith-gameplay.mp4",
+            "poster": "gruntsmith-gameplay-poster.jpg",
+            "title": "",
+            "sourceId": "comp-mlxs56aa"
+          }
+        ],
+        "rows": [
+          [
+            "comp-mlxs5jrb",
+            "comp-mlxs5jri",
+            [
+              {
+                "type": "video",
+                "name": "gruntsmith-timeline.mp4",
+                "poster": "gruntsmith-timeline-poster.jpg",
+                "title": "",
+                "sourceId": "comp-mlxs5jri6"
+              },
+              {
+                "type": "image",
+                "name": "wix-ae24a9_f27739cff9ae423b8d8b558db771fb29~mv2.png",
+                "alt": "",
+                "sourceId": "img_comp-mlxs5jrl"
+              }
+            ]
+          ],
+          [
+            "comp-mlxs5jrb6",
+            "comp-mlxs5jrm2",
+            [
+              {
+                "type": "video",
+                "name": "gruntsmith-camera-switching.mp4",
+                "poster": "gruntsmith-camera-switching-poster.jpg",
+                "title": "",
+                "sourceId": "comp-mlxs5jrn2"
+              }
+            ]
+          ],
+          [
+            "comp-mlxs5jrc3",
+            "comp-mlxs5jrp4",
+            [
+              {
+                "type": "video",
+                "name": "gruntsmith-puzzle.mp4",
+                "poster": "gruntsmith-puzzle-poster.jpg",
+                "title": "",
+                "sourceId": "comp-mlxs5jrq"
+              }
+            ]
+          ],
+          [
+            "comp-mlxs5jrd",
+            "comp-mlxs5jrs",
+            [
+              {
+                "type": "video",
+                "name": "gruntsmith-dialogue.mp4",
+                "poster": "gruntsmith-dialogue-poster.jpg",
+                "title": "",
+                "sourceId": "comp-mlxs5jrs6"
+              }
+            ]
+          ]
+        ]
+      },
+      "overviewMedia": [
+        {
+          "type": "video",
+          "name": "gruntsmith-gameplay.mp4",
+          "poster": "gruntsmith-gameplay-poster.jpg",
+          "title": "",
+          "sourceId": "comp-mlxs56aa",
+          "width": 721,
+          "height": 407,
+          "gap": 0
+        }
+      ],
+      "rows": [
+        {
+          "headingId": "comp-mlxs5jrb",
+          "textId": "comp-mlxs5jri",
+          "media": [
+            {
+              "type": "video",
+              "name": "gruntsmith-timeline.mp4",
+              "poster": "gruntsmith-timeline-poster.jpg",
+              "title": "",
+              "sourceId": "comp-mlxs5jri6",
+              "width": 499,
+              "height": 279,
+              "gap": 5
+            },
+            {
+              "type": "image",
+              "name": "wix-ae24a9_f27739cff9ae423b8d8b558db771fb29~mv2.png",
+              "alt": "",
+              "sourceId": "img_comp-mlxs5jrl",
+              "width": 499,
+              "height": 297,
+              "gap": 24
+            }
+          ]
+        },
+        {
+          "headingId": "comp-mlxs5jrb6",
+          "textId": "comp-mlxs5jrm2",
+          "media": [
+            {
+              "type": "video",
+              "name": "gruntsmith-camera-switching.mp4",
+              "poster": "gruntsmith-camera-switching-poster.jpg",
+              "title": "",
+              "sourceId": "comp-mlxs5jrn2",
+              "width": 499,
+              "height": 281,
+              "gap": 6
+            }
+          ]
+        },
+        {
+          "headingId": "comp-mlxs5jrc3",
+          "textId": "comp-mlxs5jrp4",
+          "media": [
+            {
+              "type": "video",
+              "name": "gruntsmith-puzzle.mp4",
+              "poster": "gruntsmith-puzzle-poster.jpg",
+              "title": "",
+              "sourceId": "comp-mlxs5jrq",
+              "width": 499,
+              "height": 281,
+              "gap": 2
+            }
+          ]
+        },
+        {
+          "headingId": "comp-mlxs5jrd",
+          "textId": "comp-mlxs5jrs",
+          "media": [
+            {
+              "type": "video",
+              "name": "gruntsmith-dialogue.mp4",
+              "poster": "gruntsmith-dialogue-poster.jpg",
+              "title": "",
+              "sourceId": "comp-mlxs5jrs6",
+              "width": 499,
+              "height": 281,
+              "gap": 0
+            }
+          ]
+        }
+      ]
+    },
+    "background": "wix-ae24a9_7d7f8dd098a248c6a55bf2d299185f62~mv2.jpg",
+    "homeTitle": "Gruntsmith",
+    "homeTitleId": "comp-mm9019wu",
+    "homeCover": "wix-ae24a9_b6dbe15df7ec45d2871fe185195d0cf7~mv2.png",
+    "listItem": "item1",
+    "listTitle": "Gruntsmith",
+    "listLabel": "Game | 2025"
+  },
+  {
+    "slug": "halfblood",
+    "title": "Halfblood",
+    "category": "Game Design",
+    "year": "2025",
+    "role": "Game Designer | Programmer | Data Architect",
+    "tools": "Unity Engine | Github",
+    "source": "game-halfblood",
+    "summary": "Halfblood is a high-stakes, wave-based roguelite that centers on a volatile risk-reward combat system, where players must balance devastating lineage-based powers against their own dwindling stability to survive.",
+    "intro": "Halfblood is a high-intensity survival combat school project focusing on the implementation of dynamic data systems and persistent player progression. I engineered a scalable architecture to manage the \"one-more-run\" gameplay loop, integrating a robust multi-slot save/load engine with a decoupled, event-driven achievement and unlock system. By bridging real-time session tracking, such as after-battle analytics, with global meta-progression like stat upgrades and inventory management, the project demonstrates a technical proficiency in handling complex, interconnected data structures within a live game environment.",
+    "sections": [
+      [
+        "Persistent Save/Load Framework",
+        "Engineered a multi-slot Save/Load framework from scratch, utilising JSON serialisation to manage persistent data for player progression, inventory states, and character statistics."
+      ],
+      [
+        "Deeper Session Tracking",
+        "Engineered a Session Data Engine to capture and aggregate granular combat metrics, enabling detailed after-battle analysis and performance-based rewards."
+      ],
+      [
+        "Scalable Achievement System",
+        "Architected a decoupled, event-driven achievement framework that monitors game triggers and manages unlocks, progress bars, and icon loading via a modular UI suite."
+      ]
+    ],
+    "cover": "wix-ae24a9_65f9fceac39f4492a1f8487d5b840c64~mv2.png",
+    "gallery": [],
+    "videos": [],
+    "theme": "Endless | Roguelike |Combat",
+    "status": "",
+    "overviewHeading": "About the Game",
+    "contributionsHeading": "My Contributions",
+    "note": "",
+    "mediaGroups": [],
+    "documents": [],
+    "layout": {
+      "sourcePage": "game-halfblood",
+      "ids": {
+        "page": "game-halfblood",
+        "title": "comp-mlxs7tox1",
+        "role": "comp-mlxs7toy",
+        "theme": "comp-mlxs7toz4",
+        "tools": "comp-mlxs7tp05",
+        "overview": "comp-mlxs7tp3",
+        "intro": "comp-mlxs7tp6",
+        "contrib": "comp-mlxs7tp85",
+        "overviewMedia": [
+          {
+            "type": "video",
+            "name": "halfblood-gameplay.mp4",
+            "poster": "halfblood-gameplay-poster.jpg",
+            "title": "",
+            "sourceId": "comp-mlxy4av0"
+          }
+        ],
+        "rows": [
+          [
+            "comp-mlxs7tpa6",
+            "comp-mlxs7tpk2",
+            [
+              {
+                "type": "video",
+                "name": "halfblood-save-load.mp4",
+                "poster": "halfblood-save-load-poster.jpg",
+                "title": "",
+                "sourceId": "comp-mlxy4jfh"
+              }
+            ]
+          ],
+          [
+            "comp-mlxs7tpb3",
+            "comp-mlxs7tpn",
+            [
+              {
+                "type": "video",
+                "name": "halfblood-session-tracking.mp4",
+                "poster": "halfblood-session-tracking-poster.jpg",
+                "title": "",
+                "sourceId": "comp-mlxy4f4o"
+              }
+            ]
+          ],
+          [
+            "comp-mlxs7tpc",
+            "comp-mlxs7tps",
+            [
+              {
+                "type": "video",
+                "name": "halfblood-achievements.mp4",
+                "poster": "halfblood-achievements-poster.jpg",
+                "title": "",
+                "sourceId": "comp-mlxy4ovt"
+              }
+            ]
+          ]
+        ]
+      },
+      "overviewMedia": [
+        {
+          "type": "video",
+          "name": "halfblood-gameplay.mp4",
+          "poster": "halfblood-gameplay-poster.jpg",
+          "title": "",
+          "sourceId": "comp-mlxy4av0",
+          "width": 721,
+          "height": 401,
+          "gap": 0
+        }
+      ],
+      "rows": [
+        {
+          "headingId": "comp-mlxs7tpa6",
+          "textId": "comp-mlxs7tpk2",
+          "media": [
+            {
+              "type": "video",
+              "name": "halfblood-save-load.mp4",
+              "poster": "halfblood-save-load-poster.jpg",
+              "title": "",
+              "sourceId": "comp-mlxy4jfh",
+              "width": 499,
+              "height": 281,
+              "gap": 2
+            }
+          ]
+        },
+        {
+          "headingId": "comp-mlxs7tpb3",
+          "textId": "comp-mlxs7tpn",
+          "media": [
+            {
+              "type": "video",
+              "name": "halfblood-session-tracking.mp4",
+              "poster": "halfblood-session-tracking-poster.jpg",
+              "title": "",
+              "sourceId": "comp-mlxy4f4o",
+              "width": 499,
+              "height": 281,
+              "gap": 2
+            }
+          ]
+        },
+        {
+          "headingId": "comp-mlxs7tpc",
+          "textId": "comp-mlxs7tps",
+          "media": [
+            {
+              "type": "video",
+              "name": "halfblood-achievements.mp4",
+              "poster": "halfblood-achievements-poster.jpg",
+              "title": "",
+              "sourceId": "comp-mlxy4ovt",
+              "width": 499,
+              "height": 281,
+              "gap": 2
+            }
+          ]
+        }
+      ]
+    },
+    "background": "wix-ae24a9_7d7f8dd098a248c6a55bf2d299185f62~mv2.jpg",
+    "homeTitle": "Halfblood",
+    "homeTitleId": "comp-mm9019wx21",
+    "homeCover": "wix-ae24a9_65f9fceac39f4492a1f8487d5b840c64~mv2.png",
+    "listItem": "item-j9r9uz7e",
+    "listTitle": "Halfblood",
+    "listLabel": "Game | 2025"
+  },
+  {
+    "slug": "pirates-pocket",
+    "title": "Pirate's Pocket",
+    "category": "Game Design",
+    "year": "2025",
+    "role": "System Designer | Production Manager",
+    "tools": "Canva | Adobe Illustrator",
+    "source": "game-pirates-pocket",
+    "summary": "Pirate’s Pocket Pirate’s Pocket is a competitive tabletop card game that blends tactical hand management with dice-based combat, challenging players to master the balance of risk and reward while stealing treasure.",
+    "intro": "Pirate’s Pocket puts you in the boots of a rogue captain on the high seas. Your goal is simple: collect the most treasure. The execution is anything but. By combining strategic hand management with a dynamic \"Shield & Parry\" defence system, players must decide when to play it safe and when to risk their last doubloon on a desperate dice roll. It’s a game of calculated risks, sudden betrayals, and the constant hunt for the ultimate haul.",
+    "sections": [
+      [
+        "Balanced Resource Economy",
+        "Designed the \"Risk vs. Reward\" loop for buried treasure to ensure players must tactically trade victory points for survival."
+      ],
+      [
+        "Iterative Design Refinement",
+        "Facilitated frequent playtest sessions to identify \"friction points,\" leading to a complete redesign of the parry system for better game flow."
+      ],
+      [
+        "Rulebook Optimisation",
+        "Streamlined complex technical jargon into an intuitive \"Thematic UX\" to reduce the learning curve for new players."
+      ]
+    ],
+    "cover": "wix-ae24a9_2d17b6bdd10f4f3aa7dd436753972cf0~mv2.png",
+    "gallery": [],
+    "mediaGroups": [],
+    "documents": [],
+    "theme": "Action | Top-Down |Frenzy Management",
+    "status": "",
+    "overviewHeading": "About the Game",
+    "contributionsHeading": "My Contributions",
+    "note": "",
+    "videos": [],
+    "layout": {
+      "sourcePage": "game-pirates-pocket",
+      "ids": {
+        "page": "game-pirates-pocket",
+        "title": "comp-mlxsmswq6",
+        "role": "comp-mlxsmswr4",
+        "theme": "comp-mlxsmsws6",
+        "tools": "comp-mlxsmswu2",
+        "overview": "comp-mlxsmsww8",
+        "intro": "comp-mlxsmswz9",
+        "contrib": "comp-mlxsmsx24",
+        "overviewMedia": [
+          {
+            "type": "gallery",
+            "sourceId": "comp-mlyl1n6c",
+            "images": [
+              {
+                "name": "wix-ae24a9_69fb72968ba846f6b04aa11df5e38e33~mv2.png",
+                "alt": "Front Cover"
+              },
+              {
+                "name": "wix-ae24a9_2bf086f5faf44f65a5f1b320a78c2439~mv2.png",
+                "alt": "Back Cover"
+              }
+            ]
+          }
+        ],
+        "rows": [
+          [
+            "comp-mlxsmsx4",
+            "comp-mlxsmsxa",
+            [
+              {
+                "type": "image",
+                "name": "wix-ae24a9_a6895165be384122a7eb136849ba3509~mv2.jpg",
+                "alt": "",
+                "sourceId": "img_comp-mlyqkub6"
+              },
+              {
+                "type": "image",
+                "name": "wix-ae24a9_d52e383b27104275821ecdc63fcc8caa~mv2.jpg",
+                "alt": "",
+                "sourceId": "img_comp-mlxsmsxc9"
+              }
+            ]
+          ],
+          [
+            "comp-mlxsmsx46",
+            "comp-mlxsmsxe",
+            [
+              {
+                "type": "image",
+                "name": "wix-ae24a9_97f8f3b38b64440ebbcd3c57ab6fb3ce~mv2.png",
+                "alt": "",
+                "sourceId": "img_comp-mlys0e3r",
+                "document": "Pirates-Pocket-Rulebook.pdf"
+              }
+            ]
+          ],
+          [
+            "comp-mlxsmsx55",
+            "comp-mlys163a",
+            [
+              {
+                "type": "image",
+                "name": "wix-ae24a9_3d8ab1a6cbc244e4bd7deaccf5f991d3~mv2.png",
+                "alt": "",
+                "sourceId": "img_comp-mlyqwt4v",
+                "document": "Pirates-Pocket-Rulebook.pdf"
+              }
+            ]
+          ]
+        ]
+      },
+      "overviewMedia": [
+        {
+          "type": "gallery",
+          "sourceId": "comp-mlyl1n6c",
+          "images": [
+            {
+              "name": "wix-ae24a9_69fb72968ba846f6b04aa11df5e38e33~mv2.png",
+              "alt": "Front Cover"
+            },
+            {
+              "name": "wix-ae24a9_2bf086f5faf44f65a5f1b320a78c2439~mv2.png",
+              "alt": "Back Cover"
+            }
+          ],
+          "width": 629,
+          "height": 407,
+          "gap": 0
+        }
+      ],
+      "rows": [
+        {
+          "headingId": "comp-mlxsmsx4",
+          "textId": "comp-mlxsmsxa",
+          "media": [
+            {
+              "type": "image",
+              "name": "wix-ae24a9_a6895165be384122a7eb136849ba3509~mv2.jpg",
+              "alt": "",
+              "sourceId": "img_comp-mlyqkub6",
+              "width": 499,
+              "height": 297,
+              "gap": 0
+            },
+            {
+              "type": "image",
+              "name": "wix-ae24a9_d52e383b27104275821ecdc63fcc8caa~mv2.jpg",
+              "alt": "",
+              "sourceId": "img_comp-mlxsmsxc9",
+              "width": 499,
+              "height": 297,
+              "gap": 39
+            }
+          ]
+        },
+        {
+          "headingId": "comp-mlxsmsx46",
+          "textId": "comp-mlxsmsxe",
+          "media": [
+            {
+              "type": "image",
+              "name": "wix-ae24a9_97f8f3b38b64440ebbcd3c57ab6fb3ce~mv2.png",
+              "alt": "",
+              "sourceId": "img_comp-mlys0e3r",
+              "document": "Pirates-Pocket-Rulebook.pdf",
+              "zoomIcon": "wix-ae24a9_c1d188c4efac45bb902eabb1673c3d68~mv2.png",
+              "zoomId": "img_comp-mlys21zb",
+              "width": 499,
+              "height": 383,
+              "gap": 0
+            }
+          ]
+        },
+        {
+          "headingId": "comp-mlxsmsx55",
+          "textId": "comp-mlys163a",
+          "media": [
+            {
+              "type": "image",
+              "name": "wix-ae24a9_3d8ab1a6cbc244e4bd7deaccf5f991d3~mv2.png",
+              "alt": "",
+              "sourceId": "img_comp-mlyqwt4v",
+              "document": "Pirates-Pocket-Rulebook.pdf",
+              "zoomIcon": "wix-ae24a9_c1d188c4efac45bb902eabb1673c3d68~mv2.png",
+              "zoomId": "img_comp-mlys5cw5",
+              "width": 499,
+              "height": 378,
+              "gap": 1
+            }
+          ]
+        }
+      ]
+    },
+    "background": "wix-ae24a9_7d7f8dd098a248c6a55bf2d299185f62~mv2.jpg",
+    "homeTitle": "Pirate's Pocket",
+    "homeTitleId": "comp-mm9019x116",
+    "homeCover": "wix-ae24a9_2d17b6bdd10f4f3aa7dd436753972cf0~mv2.png",
+    "listItem": "item-j9r9uxns",
+    "listTitle": "Pirate's Pocket",
+    "listLabel": "Game | 2025"
+  },
+  {
+    "slug": "nibble-cookies",
+    "title": "Nibble Cookies",
+    "category": "UI/UX Design",
+    "year": "2025",
+    "role": "UI/UX Designer",
+    "tools": "Figma | Photoshop | Canva",
+    "source": "design-nibble-cookies",
+    "summary": "Building a cookie e-commerce site from scratch to practice the fundamentals of web design. This project helped me learn how to take a simple idea and turn it into a functional, user-friendly digital experience.",
+    "intro": "A responsive, brand-focused digital platform designed to provide a seamless transition between high-fidelity desktop browsing and optimised mobile interactions. The project emphasises visual storytelling and functional minimalism, ensuring that brand identity remains consistent across all screen resolutions.",
+    "sections": [
+      [
+        "Project Overview & Research",
+        "Before a single pixel was placed, I dove into the \"why\" behind the cookie-buying experience. I conducted competitor audits and user research to identify pain points, specifically the lack of sensory appeal in digital food shopping. I then curated a visual identity through moodboards, selecting a light pastel colour palette and choosing typography that balances modern readability with a playful, artisanal feel."
+      ],
+      [
+        "Architectural UX & Figma Prototyping",
+        "With the visual direction set, I moved into Figma to build the skeleton of the desktop experience. I focused on creating a frictionless User Flow that guides the customer from a \"hero\" product discovery to a streamlined checkout in under four clicks. This stage was about defining the hierarchy of information, ensuring that the navigation was intuitive and that the interactive components felt responsive and logical."
+      ],
+      [
+        "High-Fidelity Design & Photoshop Polish",
+        "To elevate the site from a functional tool to an immersive brand experience, I utilised Photoshop to craft high-fidelity assets. I focused on \"appetite appeal,\" retouching product photography to ensure the textures looked crisp and inviting. By applying depth, subtle shadows, and lighting effects to the UI elements, I transformed the flat wireframes into a \"tasty\" interface that mirrors the premium quality of the product."
+      ],
+      [
+        "Mobile Adaptation & Responsive Transition",
+        "The final phase involved translating the expansive desktop experience into a compact, mobile-first application. To ensure this transition was effective, I implemented A/B testing on key interface elements, such as button placement and navigation styles. By comparing user interactions across two different layouts, I was able to identify which design allowed for the most intuitive flow on a smaller screen. This process informed my redesign of the interaction model for touch—optimising for thumb-reachability and simplifying the UI while ensuring the brand’s visual \"crunch\" remained consistent and functional across all devices."
+      ]
+    ],
+    "cover": "wix-ae24a9_2109af0ca6244bbfa8a1675220e67fac~mv2.png",
+    "gallery": [],
+    "mediaGroups": [],
+    "theme": "E-commerce | Food & Business",
+    "status": "",
+    "overviewHeading": "About the Design",
+    "contributionsHeading": "My Contributions (Solo Project)",
+    "note": "",
+    "videos": [],
+    "documents": [],
+    "layout": {
+      "sourcePage": "design-nibble-cookies",
+      "ids": {
+        "page": "design-nibble-cookies",
+        "title": "comp-mlxsn52b",
+        "role": "comp-mlxsn52b6",
+        "theme": "comp-mlxsn52g",
+        "tools": "comp-mlxsn52h4",
+        "overview": "comp-mlxsn52j7",
+        "intro": "comp-mlysvtd4",
+        "contrib": "comp-mlxsn52q",
+        "overviewMedia": [
+          {
+            "type": "image",
+            "name": "wix-ae24a9_2109af0ca6244bbfa8a1675220e67fac~mv2.png",
+            "alt": "",
+            "sourceId": "img_comp-mlysptp7"
+          }
+        ],
+        "rows": [
+          [
+            "comp-mlxsn52r5",
+            "comp-mlxsn52x7",
+            [
+              {
+                "type": "gallery",
+                "sourceId": "comp-mlyti26w",
+                "images": [
+                  {
+                    "name": "wix-ae24a9_dd16bdf023e447ad96078d483a1f90c1~mv2.jpg",
+                    "alt": "Primary Palette"
+                  },
+                  {
+                    "name": "wix-ae24a9_6a12d4aaef2a4ef7a43e9d54d688f98f~mv2.jpg",
+                    "alt": "Accent Palette"
+                  },
+                  {
+                    "name": "wix-ae24a9_67c69644385e47dea97efa64cafbfd59~mv2.jpg",
+                    "alt": "Typography & Icongraphy"
+                  },
+                  {
+                    "name": "wix-ae24a9_81ea66eb0bd9411ea425430bf1e54d3f~mv2.jpg",
+                    "alt": "Sketches & AI"
+                  },
+                  {
+                    "name": "wix-ae24a9_efa011094bc34d048245f1976e4d5542~mv2.jpg",
+                    "alt": "Moodboard: Logotypes"
+                  },
+                  {
+                    "name": "wix-ae24a9_eb80f0de0b214978b3d4f961bcd37657~mv2.jpg",
+                    "alt": "Moodboard: Logomarks"
+                  },
+                  {
+                    "name": "wix-ae24a9_ccaf10c87f244a5484d2966b08740ef5~mv2.jpg",
+                    "alt": "Moodboard: Combinations"
+                  },
+                  {
+                    "name": "wix-ae24a9_89490a835fc844efb9c78984b30975b1~mv2.jpg",
+                    "alt": "Option 1"
+                  },
+                  {
+                    "name": "wix-ae24a9_63106b98e3ee420e8666729376399784~mv2.jpg",
+                    "alt": "Option 2"
+                  },
+                  {
+                    "name": "wix-ae24a9_6feb25a9934e430b80ca6debf133e9d7~mv2.jpg",
+                    "alt": "Chosen Option"
+                  },
+                  {
+                    "name": "wix-ae24a9_195252140dad48c4a914a3cd0e9d1aec~mv2.jpg",
+                    "alt": "Monochrome"
+                  },
+                  {
+                    "name": "wix-ae24a9_d49699d1328940089f731b6b3c3b66f5~mv2.jpg",
+                    "alt": "Logo Variations"
+                  }
+                ]
+              }
+            ]
+          ],
+          [
+            "comp-mlxsn52s3",
+            "comp-mlxsn5314",
+            [
+              {
+                "type": "gallery",
+                "sourceId": "comp-mlyu07ca",
+                "images": [
+                  {
+                    "name": "wix-ae24a9_2cd320de91d94013a550d8043d11b1bc~mv2.jpg",
+                    "alt": "Wireframe: Home Page"
+                  },
+                  {
+                    "name": "wix-ae24a9_9538e65998ee4ec08f11057c011b9c7c~mv2.jpg",
+                    "alt": "Wireframe: Shop Page"
+                  },
+                  {
+                    "name": "wix-ae24a9_74287eed637b4b41aeb769ff75d36457~mv2.jpg",
+                    "alt": "Wireframe: Flavours Page"
+                  },
+                  {
+                    "name": "wix-ae24a9_da14f6b970cd4a319d88afc7b6df1d6f~mv2.jpg",
+                    "alt": "Wireframe: About Us Page"
+                  },
+                  {
+                    "name": "wix-ae24a9_f0234331f0fb4527bc389bf4edc1d9e2~mv2.jpg",
+                    "alt": "Wireframe: Location Page"
+                  },
+                  {
+                    "name": "wix-ae24a9_90deb56a339545a88819fa8e828a4e94~mv2.jpg",
+                    "alt": "Wireframe: Contact Us Page"
+                  },
+                  {
+                    "name": "wix-ae24a9_8166c3be3f274a3ca794c58a0163f069~mv2.jpg",
+                    "alt": "Wireframe: Sign In Page"
+                  },
+                  {
+                    "name": "wix-ae24a9_1fbc9f6f306247bd866718172ab666f3~mv2.jpg",
+                    "alt": "Wireframe: Create Account Page"
+                  }
+                ]
+              }
+            ]
+          ],
+          [
+            "comp-mlxsn52s9",
+            "comp-mlxsn534",
+            [
+              {
+                "type": "gallery",
+                "sourceId": "comp-mlyvxd8r",
+                "images": [
+                  {
+                    "name": "wix-ae24a9_75b61684bb95437b96140b111957772b~mv2.jpg",
+                    "alt": "Home Page"
+                  },
+                  {
+                    "name": "wix-ae24a9_e52520e8534d426f981c12deef7009a8~mv2.jpg",
+                    "alt": "Shop Page"
+                  },
+                  {
+                    "name": "wix-ae24a9_b2ee017318934f38a87a2dbaefbf2189~mv2.jpg",
+                    "alt": "Flavours Page"
+                  },
+                  {
+                    "name": "wix-ae24a9_7e6dbfe8da2540d1ad38fb98867d0460~mv2.jpg",
+                    "alt": "About Us Page"
+                  },
+                  {
+                    "name": "wix-ae24a9_bd38b79816c94abe853112c53279aa22~mv2.jpg",
+                    "alt": "Location Page"
+                  },
+                  {
+                    "name": "wix-ae24a9_c049958bcea344e5b7dbd754eba2f6ec~mv2.jpg",
+                    "alt": "Contact Us Page"
+                  },
+                  {
+                    "name": "wix-ae24a9_c92d35d5ca1e42bca6188df7bcfd8822~mv2.jpg",
+                    "alt": "Sign In Page"
+                  },
+                  {
+                    "name": "wix-ae24a9_8510f008e280481abc2f979d3d8259b3~mv2.jpg",
+                    "alt": "Create Account Page"
+                  }
+                ]
+              }
+            ]
+          ],
+          [
+            "comp-mlxsn52t5",
+            "comp-mlxsn537",
+            [
+              {
+                "type": "gallery",
+                "sourceId": "comp-mlyu2kf9",
+                "images": [
+                  {
+                    "name": "wix-ae24a9_f7fc3f2483494a43a360926cd4649ec2~mv2.jpg",
+                    "alt": "Mobile App: Home Page"
+                  },
+                  {
+                    "name": "wix-ae24a9_7aab592a3f18433d811a11b0a2388d8a~mv2.jpg",
+                    "alt": "Mobile App: Order Page"
+                  },
+                  {
+                    "name": "wix-ae24a9_67d8a352a8144c468352d72a0706e6fa~mv2.jpg",
+                    "alt": "Mobile App: Flavours Page"
+                  },
+                  {
+                    "name": "wix-ae24a9_cdddaec722394d4e8ac53cb5820efd25~mv2.jpg",
+                    "alt": "Mobile App: Store Page"
+                  },
+                  {
+                    "name": "wix-ae24a9_32f3abfb051b43538f037a0c1fe37c76~mv2.jpg",
+                    "alt": "Mobile App: More Page"
+                  },
+                  {
+                    "name": "wix-ae24a9_e832ae43db0744e0a539e56fe4d325c8~mv2.jpg",
+                    "alt": "Mobile App: A/B Testing 1"
+                  },
+                  {
+                    "name": "wix-ae24a9_23c16539130442c4875fee0daf25ca92~mv2.jpg",
+                    "alt": "Mobile App: A/B Testing 2"
+                  },
+                  {
+                    "name": "wix-ae24a9_05c197eba1904243acc7f7e72d8b6f20~mv2.jpg",
+                    "alt": "Mobile App: A/B Testing 3"
+                  }
+                ]
+              }
+            ]
+          ]
+        ]
+      },
+      "overviewMedia": [
+        {
+          "type": "image",
+          "name": "wix-ae24a9_2109af0ca6244bbfa8a1675220e67fac~mv2.png",
+          "alt": "",
+          "sourceId": "img_comp-mlysptp7",
+          "width": 717,
+          "height": 505,
+          "gap": 0
+        }
+      ],
+      "rows": [
+        {
+          "headingId": "comp-mlxsn52r5",
+          "textId": "comp-mlxsn52x7",
+          "media": [
+            {
+              "type": "gallery",
+              "sourceId": "comp-mlyti26w",
+              "images": [
+                {
+                  "name": "wix-ae24a9_dd16bdf023e447ad96078d483a1f90c1~mv2.jpg",
+                  "alt": "Primary Palette"
+                },
+                {
+                  "name": "wix-ae24a9_6a12d4aaef2a4ef7a43e9d54d688f98f~mv2.jpg",
+                  "alt": "Accent Palette"
+                },
+                {
+                  "name": "wix-ae24a9_67c69644385e47dea97efa64cafbfd59~mv2.jpg",
+                  "alt": "Typography & Icongraphy"
+                },
+                {
+                  "name": "wix-ae24a9_81ea66eb0bd9411ea425430bf1e54d3f~mv2.jpg",
+                  "alt": "Sketches & AI"
+                },
+                {
+                  "name": "wix-ae24a9_efa011094bc34d048245f1976e4d5542~mv2.jpg",
+                  "alt": "Moodboard: Logotypes"
+                },
+                {
+                  "name": "wix-ae24a9_eb80f0de0b214978b3d4f961bcd37657~mv2.jpg",
+                  "alt": "Moodboard: Logomarks"
+                },
+                {
+                  "name": "wix-ae24a9_ccaf10c87f244a5484d2966b08740ef5~mv2.jpg",
+                  "alt": "Moodboard: Combinations"
+                },
+                {
+                  "name": "wix-ae24a9_89490a835fc844efb9c78984b30975b1~mv2.jpg",
+                  "alt": "Option 1"
+                },
+                {
+                  "name": "wix-ae24a9_63106b98e3ee420e8666729376399784~mv2.jpg",
+                  "alt": "Option 2"
+                },
+                {
+                  "name": "wix-ae24a9_6feb25a9934e430b80ca6debf133e9d7~mv2.jpg",
+                  "alt": "Chosen Option"
+                },
+                {
+                  "name": "wix-ae24a9_195252140dad48c4a914a3cd0e9d1aec~mv2.jpg",
+                  "alt": "Monochrome"
+                },
+                {
+                  "name": "wix-ae24a9_d49699d1328940089f731b6b3c3b66f5~mv2.jpg",
+                  "alt": "Logo Variations"
+                }
+              ],
+              "width": 499,
+              "height": 323,
+              "gap": 30
+            }
+          ]
+        },
+        {
+          "headingId": "comp-mlxsn52s3",
+          "textId": "comp-mlxsn5314",
+          "media": [
+            {
+              "type": "gallery",
+              "sourceId": "comp-mlyu07ca",
+              "images": [
+                {
+                  "name": "wix-ae24a9_2cd320de91d94013a550d8043d11b1bc~mv2.jpg",
+                  "alt": "Wireframe: Home Page"
+                },
+                {
+                  "name": "wix-ae24a9_9538e65998ee4ec08f11057c011b9c7c~mv2.jpg",
+                  "alt": "Wireframe: Shop Page"
+                },
+                {
+                  "name": "wix-ae24a9_74287eed637b4b41aeb769ff75d36457~mv2.jpg",
+                  "alt": "Wireframe: Flavours Page"
+                },
+                {
+                  "name": "wix-ae24a9_da14f6b970cd4a319d88afc7b6df1d6f~mv2.jpg",
+                  "alt": "Wireframe: About Us Page"
+                },
+                {
+                  "name": "wix-ae24a9_f0234331f0fb4527bc389bf4edc1d9e2~mv2.jpg",
+                  "alt": "Wireframe: Location Page"
+                },
+                {
+                  "name": "wix-ae24a9_90deb56a339545a88819fa8e828a4e94~mv2.jpg",
+                  "alt": "Wireframe: Contact Us Page"
+                },
+                {
+                  "name": "wix-ae24a9_8166c3be3f274a3ca794c58a0163f069~mv2.jpg",
+                  "alt": "Wireframe: Sign In Page"
+                },
+                {
+                  "name": "wix-ae24a9_1fbc9f6f306247bd866718172ab666f3~mv2.jpg",
+                  "alt": "Wireframe: Create Account Page"
+                }
+              ],
+              "width": 499,
+              "height": 323,
+              "gap": 1
+            }
+          ]
+        },
+        {
+          "headingId": "comp-mlxsn52s9",
+          "textId": "comp-mlxsn534",
+          "media": [
+            {
+              "type": "gallery",
+              "sourceId": "comp-mlyvxd8r",
+              "images": [
+                {
+                  "name": "wix-ae24a9_75b61684bb95437b96140b111957772b~mv2.jpg",
+                  "alt": "Home Page"
+                },
+                {
+                  "name": "wix-ae24a9_e52520e8534d426f981c12deef7009a8~mv2.jpg",
+                  "alt": "Shop Page"
+                },
+                {
+                  "name": "wix-ae24a9_b2ee017318934f38a87a2dbaefbf2189~mv2.jpg",
+                  "alt": "Flavours Page"
+                },
+                {
+                  "name": "wix-ae24a9_7e6dbfe8da2540d1ad38fb98867d0460~mv2.jpg",
+                  "alt": "About Us Page"
+                },
+                {
+                  "name": "wix-ae24a9_bd38b79816c94abe853112c53279aa22~mv2.jpg",
+                  "alt": "Location Page"
+                },
+                {
+                  "name": "wix-ae24a9_c049958bcea344e5b7dbd754eba2f6ec~mv2.jpg",
+                  "alt": "Contact Us Page"
+                },
+                {
+                  "name": "wix-ae24a9_c92d35d5ca1e42bca6188df7bcfd8822~mv2.jpg",
+                  "alt": "Sign In Page"
+                },
+                {
+                  "name": "wix-ae24a9_8510f008e280481abc2f979d3d8259b3~mv2.jpg",
+                  "alt": "Create Account Page"
+                }
+              ],
+              "width": 499,
+              "height": 323,
+              "gap": 0
+            }
+          ]
+        },
+        {
+          "headingId": "comp-mlxsn52t5",
+          "textId": "comp-mlxsn537",
+          "media": [
+            {
+              "type": "gallery",
+              "sourceId": "comp-mlyu2kf9",
+              "images": [
+                {
+                  "name": "wix-ae24a9_f7fc3f2483494a43a360926cd4649ec2~mv2.jpg",
+                  "alt": "Mobile App: Home Page"
+                },
+                {
+                  "name": "wix-ae24a9_7aab592a3f18433d811a11b0a2388d8a~mv2.jpg",
+                  "alt": "Mobile App: Order Page"
+                },
+                {
+                  "name": "wix-ae24a9_67d8a352a8144c468352d72a0706e6fa~mv2.jpg",
+                  "alt": "Mobile App: Flavours Page"
+                },
+                {
+                  "name": "wix-ae24a9_cdddaec722394d4e8ac53cb5820efd25~mv2.jpg",
+                  "alt": "Mobile App: Store Page"
+                },
+                {
+                  "name": "wix-ae24a9_32f3abfb051b43538f037a0c1fe37c76~mv2.jpg",
+                  "alt": "Mobile App: More Page"
+                },
+                {
+                  "name": "wix-ae24a9_e832ae43db0744e0a539e56fe4d325c8~mv2.jpg",
+                  "alt": "Mobile App: A/B Testing 1"
+                },
+                {
+                  "name": "wix-ae24a9_23c16539130442c4875fee0daf25ca92~mv2.jpg",
+                  "alt": "Mobile App: A/B Testing 2"
+                },
+                {
+                  "name": "wix-ae24a9_05c197eba1904243acc7f7e72d8b6f20~mv2.jpg",
+                  "alt": "Mobile App: A/B Testing 3"
+                }
+              ],
+              "width": 499,
+              "height": 323,
+              "gap": 0
+            }
+          ]
+        }
+      ]
+    },
+    "background": "wix-ae24a9_7d7f8dd098a248c6a55bf2d299185f62~mv2.jpg",
+    "homeTitle": "Nibble Cookies",
+    "homeTitleId": "comp-mm9019x78",
+    "homeCover": "wix-ae24a9_2109af0ca6244bbfa8a1675220e67fac~mv2.png",
+    "listItem": "item-724300e1-b7ed-4259-b251-f5c2f7fbf13c",
+    "listTitle": "Nibble Cookies",
+    "listLabel": "UI/UX | 2025"
+  },
+  {
+    "slug": "mytransport-sg",
+    "title": "MyTransport.SG",
+    "category": "UI/UX Design",
+    "year": "2025",
+    "role": "UI/UX Designer",
+    "tools": "Figma | Photoshop | Canva",
+    "source": "copy-of-project-4-nibble-cookies",
+    "summary": "Redesigning MyTransport.SG to reduce cognitive load for daily commuters. By auditing the app’s information architecture and refining its visual hierarchy, I streamlined the journey-planning process for a more intuitive user experience.",
+    "intro": "MyTransport.SG is a mobile application developed by the Land Transport Authority (LTA) of Singapore. It provides real-time transport information, including bus arrival times, traffic conditions, parking availability, and journey planning. The app is primarily aimed at daily commuters, drivers, and tourists, offering a one-stop solution for navigating the island's public transport network.\n\nIn this study, I will focus on evaluating the app's navigation structure, information clarity, and accessibility features, particularly for elderly users and those with limited familiarity with transport-related terminology. By conducting a heuristic evaluation, user research, and competitive analysis, I aim to identify key design improvements that enhance the app’s usability and overall user experience. UX Evaluation Focus",
+    "sections": [
+      [
+        "Research, Personas & Heuristic Evaluation",
+        "I began by conducting a Heuristic Evaluation of the existing MyTransport.SG app to identify usability gaps. To ground my design in reality, I developed a User Persona and Empathy Map based on a Chosen User Demographic, allowing me to draft a specific User Story that addressed real-world commuting frustrations. This phase concluded with a User Feedback Analysis, where I synthesised pain points into a clear strategic direction for the redesign."
+      ],
+      [
+        "UX Architecture & Taskflow Design",
+        "Moving into the structural phase, I mapped out a comprehensive User Taskflow in Figma to streamline the journey-planning process. I focused on creating an intuitive hierarchy that leads the user from \"Point A\" to \"Point B\" with minimal cognitive load. This blueprint served as the foundation for my initial wireframes, ensuring that every interactive element was placed with purpose and backed by the logical requirements of the user's journey."
+      ],
+      [
+        "High-Fidelity Design & Style Guide",
+        "To elevate the experience, I established a formal Style Guide, including a curated colour palette and typography, that balances professional utility with a modern aesthetic. I used Photoshop to create high-fidelity examples, applying depth and visual polish to ensure the interface felt premium. This stage was defined by Iteration & Refinement, where I polished every icon and UI component to ensure the brand felt cohesive, accessible, and visually engaging."
+      ],
+      [
+        "Iteration, Mobile Adaptation & Prototype",
+        "The final phase involved translating the expansive desktop concepts into a compact, mobile-first application. This wasn't just about shrinking elements; it required redesigning the interaction model for touch-based on Iteration & Refinement from my initial testing. I optimised for thumb-reachability and simplified the UI to ensure the interface remained consistent and functional for on-the-go commuting. The project concludes with a fully interactive Prototype Link, demonstrating a seamless, responsive transition across all devices."
+      ]
+    ],
+    "cover": "wix-ae24a9_c82b0239ff6d40f8af10542613e50acc~mv2.png",
+    "gallery": [],
+    "mediaGroups": [],
+    "theme": "E-commerce | Food & Business",
+    "status": "",
+    "overviewHeading": "About the Design",
+    "contributionsHeading": "My Contributions (Solo Project)",
+    "note": "",
+    "videos": [],
+    "documents": [],
+    "layout": {
+      "sourcePage": "copy-of-project-4-nibble-cookies",
+      "ids": {
+        "page": "copy-of-project-4-nibble-cookies",
+        "title": "comp-mlywuhw85",
+        "role": "comp-mlywuhw91",
+        "theme": "comp-mlywuhwa6",
+        "tools": "comp-mlywuhwb9",
+        "overview": "comp-mlywuhwe7",
+        "intro": "comp-mlywuhwg",
+        "contrib": "comp-mlywuhwi5",
+        "overviewMedia": [
+          {
+            "type": "image",
+            "name": "wix-ae24a9_c82b0239ff6d40f8af10542613e50acc~mv2.png",
+            "alt": "mytransport.png",
+            "sourceId": "img_comp-mlywuhwf"
+          }
+        ],
+        "rows": [
+          [
+            "comp-mlywuhwk",
+            "comp-mlywuhwq",
+            [
+              {
+                "type": "gallery",
+                "sourceId": "comp-mlywuhwq6",
+                "images": [
+                  {
+                    "name": "wix-ae24a9_b58e6a6d28c84524a0b5b92b6c1779c6~mv2.jpg",
+                    "alt": "Chosen User Demographic"
+                  },
+                  {
+                    "name": "wix-ae24a9_a075035c63c048b893c16a241cf32b1f~mv2.jpg",
+                    "alt": "Heuristic Evaluation 1"
+                  },
+                  {
+                    "name": "wix-ae24a9_f2b85e860a6d4b818f3594d0d3a3813d~mv2.jpg",
+                    "alt": "Heuristic Evaluation 2"
+                  },
+                  {
+                    "name": "wix-ae24a9_b57988d980594b059c65ec9834472b0b~mv2.jpg",
+                    "alt": "Heuristic Evaluation 3"
+                  },
+                  {
+                    "name": "wix-ae24a9_3bed056e7722412d8341b06995f59cb2~mv2.jpg",
+                    "alt": "Heuristic Evaluation 4"
+                  },
+                  {
+                    "name": "wix-ae24a9_76be2a62d7fd4473bb0fdbd0f8cf8582~mv2.jpg",
+                    "alt": "Heuristic Evaluation 5"
+                  },
+                  {
+                    "name": "wix-ae24a9_14807fcd864b41faa50a9c8226cb2714~mv2.jpg",
+                    "alt": "Heuristic Evaluation 6"
+                  },
+                  {
+                    "name": "wix-ae24a9_dc7ea355ac164d669c9f78759eb849ba~mv2.jpg",
+                    "alt": "Heuristic Evaluation 7"
+                  },
+                  {
+                    "name": "wix-ae24a9_30fdeac4ae00497eaba0d314b5329f81~mv2.jpg",
+                    "alt": "Heuristic Evaluation 8"
+                  },
+                  {
+                    "name": "wix-ae24a9_98b811860748490ebf7d613096a2a71e~mv2.jpg",
+                    "alt": "Heuristic Evaluation 9"
+                  },
+                  {
+                    "name": "wix-ae24a9_2480f56199704a11aafc35d07ff7462a~mv2.jpg",
+                    "alt": "Heuristic Evaluation 10"
+                  },
+                  {
+                    "name": "wix-ae24a9_aff473d30c974d1581874205a07e8d4c~mv2.jpg",
+                    "alt": "User Feedback Analysis"
+                  },
+                  {
+                    "name": "wix-ae24a9_5f9b151c51414a41b055871920db2d02~mv2.jpg",
+                    "alt": "User Feedback Analysis"
+                  }
+                ]
+              }
+            ]
+          ],
+          [
+            "comp-mlywuhwk6",
+            "comp-mlywuhwr17",
+            [
+              {
+                "type": "gallery",
+                "sourceId": "comp-mlzbqm69",
+                "images": [
+                  {
+                    "name": "wix-ae24a9_89a08c2fafe7431192a5d02a9e2146ac~mv2.jpg",
+                    "alt": "User Story"
+                  },
+                  {
+                    "name": "wix-ae24a9_f1ae3531ab594f31bd3990bae46ecc23~mv2.jpg",
+                    "alt": "Persona"
+                  },
+                  {
+                    "name": "wix-ae24a9_bf36ae97013d42348398e0674b529414~mv2.jpg",
+                    "alt": "Persona"
+                  },
+                  {
+                    "name": "wix-ae24a9_94e2480a42424de58038f8ceb12457ea~mv2.jpg",
+                    "alt": "Empathy Map"
+                  },
+                  {
+                    "name": "wix-ae24a9_d4f0d413621341eca9bf13bc208ac3e6~mv2.jpg",
+                    "alt": "Empathy Map"
+                  },
+                  {
+                    "name": "wix-ae24a9_ad0ee299f5c34f3db411c2be32fa9e3a~mv2.jpg",
+                    "alt": "User Journey Mapping"
+                  },
+                  {
+                    "name": "wix-ae24a9_8dea8a1907a0437b8a5317b8df0470ea~mv2.jpg",
+                    "alt": "User Journey Mapping"
+                  },
+                  {
+                    "name": "wix-ae24a9_cba7d9e4461141d496470ed4543a9e68~mv2.jpg",
+                    "alt": "User Taskflow"
+                  },
+                  {
+                    "name": "wix-ae24a9_0b484200555d4f87bd6bc0c347d2d06e~mv2.jpg",
+                    "alt": "User Taskflow"
+                  }
+                ]
+              }
+            ]
+          ],
+          [
+            "comp-mlywuhwl5",
+            "comp-mlywuhwt10",
+            [
+              {
+                "type": "gallery",
+                "sourceId": "comp-mlzbr7o0",
+                "images": [
+                  {
+                    "name": "wix-ae24a9_4e87ab50f21049bf9cc49e9fc877a43e~mv2.jpg",
+                    "alt": "Style Guide"
+                  },
+                  {
+                    "name": "wix-ae24a9_1ce07347f9f048268ab1449398b22197~mv2.jpg",
+                    "alt": "Style Guide"
+                  },
+                  {
+                    "name": "wix-ae24a9_93c0990814c343b4a2f5377bf643e659~mv2.jpg",
+                    "alt": "Style Guide"
+                  }
+                ]
+              }
+            ]
+          ],
+          [
+            "comp-mlywuhwm",
+            "comp-mlywuhwv2",
+            [
+              {
+                "type": "gallery",
+                "sourceId": "comp-mlzbra3q",
+                "images": [
+                  {
+                    "name": "wix-ae24a9_ac4b9bd2f6cd4412a056ca2b03693455~mv2.jpg",
+                    "alt": "Iteration & Refinement"
+                  },
+                  {
+                    "name": "wix-ae24a9_31e478ec94d9450d9316203ec436e069~mv2.jpg",
+                    "alt": "Iteration & Refinement"
+                  },
+                  {
+                    "name": "wix-ae24a9_29c9553dfa8e430ea219e03dfa93b227~mv2.jpg",
+                    "alt": "Iteration & Refinement"
+                  },
+                  {
+                    "name": "wix-ae24a9_688f55ffb4ce496086d75d4187c7855c~mv2.jpg",
+                    "alt": "Iteration & Refinement"
+                  },
+                  {
+                    "name": "wix-ae24a9_c7dac8e4fb0e40258257204861910017~mv2.jpg",
+                    "alt": "Iteration & Refinement"
+                  },
+                  {
+                    "name": "wix-ae24a9_99ad990c1d104aee9b5c825e336c797f~mv2.jpg",
+                    "alt": "Iteration & Refinement"
+                  }
+                ]
+              }
+            ]
+          ]
+        ]
+      },
+      "overviewMedia": [
+        {
+          "type": "image",
+          "name": "wix-ae24a9_c82b0239ff6d40f8af10542613e50acc~mv2.png",
+          "alt": "mytransport.png",
+          "sourceId": "img_comp-mlywuhwf",
+          "width": 717,
+          "height": 505,
+          "gap": 0
+        }
+      ],
+      "rows": [
+        {
+          "headingId": "comp-mlywuhwk",
+          "textId": "comp-mlywuhwq",
+          "media": [
+            {
+              "type": "gallery",
+              "sourceId": "comp-mlywuhwq6",
+              "images": [
+                {
+                  "name": "wix-ae24a9_b58e6a6d28c84524a0b5b92b6c1779c6~mv2.jpg",
+                  "alt": "Chosen User Demographic"
+                },
+                {
+                  "name": "wix-ae24a9_a075035c63c048b893c16a241cf32b1f~mv2.jpg",
+                  "alt": "Heuristic Evaluation 1"
+                },
+                {
+                  "name": "wix-ae24a9_f2b85e860a6d4b818f3594d0d3a3813d~mv2.jpg",
+                  "alt": "Heuristic Evaluation 2"
+                },
+                {
+                  "name": "wix-ae24a9_b57988d980594b059c65ec9834472b0b~mv2.jpg",
+                  "alt": "Heuristic Evaluation 3"
+                },
+                {
+                  "name": "wix-ae24a9_3bed056e7722412d8341b06995f59cb2~mv2.jpg",
+                  "alt": "Heuristic Evaluation 4"
+                },
+                {
+                  "name": "wix-ae24a9_76be2a62d7fd4473bb0fdbd0f8cf8582~mv2.jpg",
+                  "alt": "Heuristic Evaluation 5"
+                },
+                {
+                  "name": "wix-ae24a9_14807fcd864b41faa50a9c8226cb2714~mv2.jpg",
+                  "alt": "Heuristic Evaluation 6"
+                },
+                {
+                  "name": "wix-ae24a9_dc7ea355ac164d669c9f78759eb849ba~mv2.jpg",
+                  "alt": "Heuristic Evaluation 7"
+                },
+                {
+                  "name": "wix-ae24a9_30fdeac4ae00497eaba0d314b5329f81~mv2.jpg",
+                  "alt": "Heuristic Evaluation 8"
+                },
+                {
+                  "name": "wix-ae24a9_98b811860748490ebf7d613096a2a71e~mv2.jpg",
+                  "alt": "Heuristic Evaluation 9"
+                },
+                {
+                  "name": "wix-ae24a9_2480f56199704a11aafc35d07ff7462a~mv2.jpg",
+                  "alt": "Heuristic Evaluation 10"
+                },
+                {
+                  "name": "wix-ae24a9_aff473d30c974d1581874205a07e8d4c~mv2.jpg",
+                  "alt": "User Feedback Analysis"
+                },
+                {
+                  "name": "wix-ae24a9_5f9b151c51414a41b055871920db2d02~mv2.jpg",
+                  "alt": "User Feedback Analysis"
+                }
+              ],
+              "width": 499,
+              "height": 265,
+              "gap": 0
+            }
+          ]
+        },
+        {
+          "headingId": "comp-mlywuhwk6",
+          "textId": "comp-mlywuhwr17",
+          "media": [
+            {
+              "type": "gallery",
+              "sourceId": "comp-mlzbqm69",
+              "images": [
+                {
+                  "name": "wix-ae24a9_89a08c2fafe7431192a5d02a9e2146ac~mv2.jpg",
+                  "alt": "User Story"
+                },
+                {
+                  "name": "wix-ae24a9_f1ae3531ab594f31bd3990bae46ecc23~mv2.jpg",
+                  "alt": "Persona"
+                },
+                {
+                  "name": "wix-ae24a9_bf36ae97013d42348398e0674b529414~mv2.jpg",
+                  "alt": "Persona"
+                },
+                {
+                  "name": "wix-ae24a9_94e2480a42424de58038f8ceb12457ea~mv2.jpg",
+                  "alt": "Empathy Map"
+                },
+                {
+                  "name": "wix-ae24a9_d4f0d413621341eca9bf13bc208ac3e6~mv2.jpg",
+                  "alt": "Empathy Map"
+                },
+                {
+                  "name": "wix-ae24a9_ad0ee299f5c34f3db411c2be32fa9e3a~mv2.jpg",
+                  "alt": "User Journey Mapping"
+                },
+                {
+                  "name": "wix-ae24a9_8dea8a1907a0437b8a5317b8df0470ea~mv2.jpg",
+                  "alt": "User Journey Mapping"
+                },
+                {
+                  "name": "wix-ae24a9_cba7d9e4461141d496470ed4543a9e68~mv2.jpg",
+                  "alt": "User Taskflow"
+                },
+                {
+                  "name": "wix-ae24a9_0b484200555d4f87bd6bc0c347d2d06e~mv2.jpg",
+                  "alt": "User Taskflow"
+                }
+              ],
+              "width": 499,
+              "height": 265,
+              "gap": 0
+            }
+          ]
+        },
+        {
+          "headingId": "comp-mlywuhwl5",
+          "textId": "comp-mlywuhwt10",
+          "media": [
+            {
+              "type": "gallery",
+              "sourceId": "comp-mlzbr7o0",
+              "images": [
+                {
+                  "name": "wix-ae24a9_4e87ab50f21049bf9cc49e9fc877a43e~mv2.jpg",
+                  "alt": "Style Guide"
+                },
+                {
+                  "name": "wix-ae24a9_1ce07347f9f048268ab1449398b22197~mv2.jpg",
+                  "alt": "Style Guide"
+                },
+                {
+                  "name": "wix-ae24a9_93c0990814c343b4a2f5377bf643e659~mv2.jpg",
+                  "alt": "Style Guide"
+                }
+              ],
+              "width": 499,
+              "height": 265,
+              "gap": 0
+            }
+          ]
+        },
+        {
+          "headingId": "comp-mlywuhwm",
+          "textId": "comp-mlywuhwv2",
+          "media": [
+            {
+              "type": "gallery",
+              "sourceId": "comp-mlzbra3q",
+              "images": [
+                {
+                  "name": "wix-ae24a9_ac4b9bd2f6cd4412a056ca2b03693455~mv2.jpg",
+                  "alt": "Iteration & Refinement"
+                },
+                {
+                  "name": "wix-ae24a9_31e478ec94d9450d9316203ec436e069~mv2.jpg",
+                  "alt": "Iteration & Refinement"
+                },
+                {
+                  "name": "wix-ae24a9_29c9553dfa8e430ea219e03dfa93b227~mv2.jpg",
+                  "alt": "Iteration & Refinement"
+                },
+                {
+                  "name": "wix-ae24a9_688f55ffb4ce496086d75d4187c7855c~mv2.jpg",
+                  "alt": "Iteration & Refinement"
+                },
+                {
+                  "name": "wix-ae24a9_c7dac8e4fb0e40258257204861910017~mv2.jpg",
+                  "alt": "Iteration & Refinement"
+                },
+                {
+                  "name": "wix-ae24a9_99ad990c1d104aee9b5c825e336c797f~mv2.jpg",
+                  "alt": "Iteration & Refinement"
+                }
+              ],
+              "width": 499,
+              "height": 265,
+              "gap": 0
+            }
+          ]
+        }
+      ]
+    },
+    "background": "wix-ae24a9_7d7f8dd098a248c6a55bf2d299185f62~mv2.jpg",
+    "homeTitle": "MyTransport.SG",
+    "homeTitleId": "comp-mm9019xb12",
+    "homeCover": "wix-ae24a9_c82b0239ff6d40f8af10542613e50acc~mv2.png",
+    "listItem": "item-d7c3ae4b-1e30-4afe-acf9-5ffae74767c1",
+    "listTitle": "MyTransport.SG",
+    "listLabel": "UI/UX | 2025"
+  },
+  {
+    "slug": "innav",
+    "title": "InNav",
+    "category": "UI/UX Design",
+    "year": "2026-2027 (WIP)",
+    "status": "Work in Progress",
+    "role": "Project Manager | UX & Product Design",
+    "tools": "Jira | Photoshop | Canva | ChatGPT",
+    "source": "copy-of-project-5-mytransport-sg",
+    "summary": "Designing InNav, an indoor navigation system that simplifies wayfinding in multi-storey buildings. Leading project planning, UX design, and team coordination to develop an intuitive Environment Editor and Navigation Runtime.",
+    "intro": "InNav is an indoor navigation system designed to help users navigate complex multi-storey buildings, such as educational institutions, offices, and public facilities. Unlike conventional navigation applications that primarily focus on outdoor routes, InNav aims to bridge the gap between outdoor and indoor navigation by providing intuitive wayfinding across rooms, corridors, and multiple floors.\n\nThe project consists of two main components: an Environment Editor, which allows building layouts to be created and configured, and a Navigation Runtime, which enables users to explore indoor environments and find routes to their destinations. Developed using Unreal Engine 5, the system is designed to be flexible and adaptable to different buildings, with future plans to explore augmented reality (AR) navigation.\n\nAs an ongoing team project, my focus is on project management, user experience design, product planning, and coordinating development to ensure the system remains intuitive, accessible, and technically feasible.",
+    "sections": [
+      [
+        "Research & Product Planning",
+        "I began by identifying the challenges of navigating unfamiliar indoor environments, particularly in large, multi-storey buildings. Working with my team, I helped establish the project's problem statement, target audiences, and core objectives. We focused on the needs of students, visitors, and staff, identifying common difficulties such as locating specific rooms and navigating between floors. These findings guided our product requirements and helped define InNav as a flexible indoor navigation system adaptable to different buildings."
+      ],
+      [
+        "UX Architecture & Wireframing",
+        "Moving into the design phase, I contributed to planning the user experience for both the Environment Editor and Navigation Runtime. I explored how users would interact with essential features, including building selection, environment editing, destination searching, and multi-floor navigation. Through paper prototypes, I helped establish intuitive layouts and interaction flows that prioritised usability and simplicity. These designs provided the foundation for our high-fidelity prototypes and served as references for the technical team."
+      ],
+      [
+        "Visual Design & High-Fidelity Prototyping",
+        "I contributed to establishing InNav's visual identity through style guide development, interface design, and interactive prototyping. My focus was on creating a modern, clean, and consistent interface that balanced visual appeal with functionality. I also worked on refining the interface layouts to ensure that the Navigation Runtime remained intuitive."
+      ],
+      [
+        "Project Management & Team Coordination",
+        "As the project manager, I oversee the team's progress, coordinate responsibilities, and ensure development remains aligned with our objectives and milestone requirements. I help break down project requirements into manageable tasks, establish priorities, and monitor implementation progress across the design and technical teams. A key responsibility involves managing project scope, ensuring essential MVP features are prioritised while balancing technical feasibility, available resources, and deadlines. I also facilitate discussions and coordinate feedback to maintain a consistent product direction."
+      ],
+      [
+        "Prototype Review & Design Iteration",
+        "Throughout development, I review the team's implementations to evaluate their consistency with our intended user experience and design requirements. This includes comparing our interactive web prototypes with the Unreal Engine application, identifying missing functionality, unnecessary interface elements, and opportunities for improvement. Based on these observations, I help refine the interface structure, editing workflows, and overall interaction design. This iterative approach allows us to progressively improve the product while ensuring design decisions remain practical for implementation."
+      ]
+    ],
+    "cover": "wix-ae24a9_9d4f74a06f954d3bb03a037aeb7b878e~mv2.png",
+    "gallery": [],
+    "theme": "Platform | Ecosystem",
+    "overviewHeading": "About the Design",
+    "contributionsHeading": "My Contributions",
+    "note": "",
+    "videos": [],
+    "mediaGroups": [],
+    "documents": [],
+    "layout": {
+      "sourcePage": "copy-of-project-5-mytransport-sg",
+      "ids": {
+        "page": "copy-of-project-5-mytransport-sg",
+        "title": "comp-mvhxeetc",
+        "role": "comp-mvhxeetd",
+        "theme": "comp-mvhxeete6",
+        "tools": "comp-mvhxeetg2",
+        "status": "comp-mvhxv2a3",
+        "overview": "comp-mvhxeetk2",
+        "intro": "comp-mvhxeetm",
+        "contrib": "comp-mvhxeetp",
+        "overviewMedia": [
+          {
+            "type": "image",
+            "name": "wix-ae24a9_9d4f74a06f954d3bb03a037aeb7b878e~mv2.png",
+            "alt": "Screenshot 2026-10-21 175933.png",
+            "sourceId": "img_comp-mvhxeetl"
+          }
+        ],
+        "rows": [
+          [
+            "comp-mvhxeetq4",
+            "comp-mvhxeeu31",
+            []
+          ],
+          [
+            "comp-mvhxeetr2",
+            "comp-mvhxeeu87",
+            [
+              {
+                "type": "gallery",
+                "sourceId": "comp-mvhxeeu95",
+                "images": [
+                  {
+                    "name": "wix-ae24a9_e5d36b3191bb44b49c31991add623c8f~mv2.jpg",
+                    "alt": "editor1"
+                  },
+                  {
+                    "name": "wix-ae24a9_e87503b5d94e4acea50054fc0f4b1275~mv2.jpg",
+                    "alt": "editor2"
+                  },
+                  {
+                    "name": "wix-ae24a9_dff9f843d1264aa2a6a4196169a68a26~mv2.jpg",
+                    "alt": "editor3"
+                  },
+                  {
+                    "name": "wix-ae24a9_55fdfda4af0a41efa03d310df7a1f524~mv2.jpg",
+                    "alt": "editor4"
+                  },
+                  {
+                    "name": "wix-ae24a9_5741fa15bd9844ce9cf8526e7d3f42ea~mv2.jpg",
+                    "alt": "editor5"
+                  },
+                  {
+                    "name": "wix-ae24a9_88aa8986558b4547b8dfb2a8c4f67604~mv2.jpg",
+                    "alt": "editor6"
+                  },
+                  {
+                    "name": "wix-ae24a9_099f7fd65867433aa08867051a7cdb0c~mv2.jpg",
+                    "alt": "editor7"
+                  },
+                  {
+                    "name": "wix-ae24a9_419d6d7d1fc04404938e85966541f7ce~mv2.jpg",
+                    "alt": "app1"
+                  },
+                  {
+                    "name": "wix-ae24a9_1e40502e65134e43993976dda8276cc4~mv2.jpg",
+                    "alt": "app2"
+                  },
+                  {
+                    "name": "wix-ae24a9_c8cec430e44e416aa25e804e70162b5c~mv2.jpg",
+                    "alt": "app3"
+                  }
+                ]
+              }
+            ]
+          ],
+          [
+            "comp-mvhxeets",
+            "comp-mvhxeeua8",
+            [
+              {
+                "type": "gallery",
+                "sourceId": "comp-mvhxeeub1",
+                "images": [
+                  {
+                    "name": "wix-ae24a9_9d4f74a06f954d3bb03a037aeb7b878e~mv2.png",
+                    "alt": "Prototype"
+                  }
+                ]
+              }
+            ]
+          ],
+          [
+            "comp-mvhxeets6",
+            "comp-mvhxeeuc",
+            []
+          ],
+          [
+            "comp-mvixn3ax",
+            "comp-mvixnkoh",
+            []
+          ]
+        ]
+      },
+      "overviewMedia": [
+        {
+          "type": "image",
+          "name": "wix-ae24a9_9d4f74a06f954d3bb03a037aeb7b878e~mv2.png",
+          "alt": "Screenshot 2026-10-21 175933.png",
+          "sourceId": "img_comp-mvhxeetl",
+          "width": 717,
+          "height": 505,
+          "gap": 0
+        }
+      ],
+      "rows": [
+        {
+          "headingId": "comp-mvhxeetq4",
+          "textId": "comp-mvhxeeu31",
+          "media": []
+        },
+        {
+          "headingId": "comp-mvhxeetr2",
+          "textId": "comp-mvhxeeu87",
+          "media": [
+            {
+              "type": "gallery",
+              "sourceId": "comp-mvhxeeu95",
+              "images": [
+                {
+                  "name": "wix-ae24a9_e5d36b3191bb44b49c31991add623c8f~mv2.jpg",
+                  "alt": "editor1"
+                },
+                {
+                  "name": "wix-ae24a9_e87503b5d94e4acea50054fc0f4b1275~mv2.jpg",
+                  "alt": "editor2"
+                },
+                {
+                  "name": "wix-ae24a9_dff9f843d1264aa2a6a4196169a68a26~mv2.jpg",
+                  "alt": "editor3"
+                },
+                {
+                  "name": "wix-ae24a9_55fdfda4af0a41efa03d310df7a1f524~mv2.jpg",
+                  "alt": "editor4"
+                },
+                {
+                  "name": "wix-ae24a9_5741fa15bd9844ce9cf8526e7d3f42ea~mv2.jpg",
+                  "alt": "editor5"
+                },
+                {
+                  "name": "wix-ae24a9_88aa8986558b4547b8dfb2a8c4f67604~mv2.jpg",
+                  "alt": "editor6"
+                },
+                {
+                  "name": "wix-ae24a9_099f7fd65867433aa08867051a7cdb0c~mv2.jpg",
+                  "alt": "editor7"
+                },
+                {
+                  "name": "wix-ae24a9_419d6d7d1fc04404938e85966541f7ce~mv2.jpg",
+                  "alt": "app1"
+                },
+                {
+                  "name": "wix-ae24a9_1e40502e65134e43993976dda8276cc4~mv2.jpg",
+                  "alt": "app2"
+                },
+                {
+                  "name": "wix-ae24a9_c8cec430e44e416aa25e804e70162b5c~mv2.jpg",
+                  "alt": "app3"
+                }
+              ],
+              "width": 499,
+              "height": 265,
+              "gap": 0
+            }
+          ]
+        },
+        {
+          "headingId": "comp-mvhxeets",
+          "textId": "comp-mvhxeeua8",
+          "media": [
+            {
+              "type": "gallery",
+              "sourceId": "comp-mvhxeeub1",
+              "images": [
+                {
+                  "name": "wix-ae24a9_9d4f74a06f954d3bb03a037aeb7b878e~mv2.png",
+                  "alt": "Prototype"
+                }
+              ],
+              "width": 499,
+              "height": 265,
+              "gap": 0
+            }
+          ]
+        },
+        {
+          "headingId": "comp-mvhxeets6",
+          "textId": "comp-mvhxeeuc",
+          "media": []
+        },
+        {
+          "headingId": "comp-mvixn3ax",
+          "textId": "comp-mvixnkoh",
+          "media": []
+        }
+      ]
+    },
+    "background": "wix-ae24a9_7d7f8dd098a248c6a55bf2d299185f62~mv2.jpg",
+    "homeTitle": "InNav (Work in Progress)",
+    "homeTitleId": "comp-mvhxd0kl",
+    "homeCover": "wix-ae24a9_c6ad18c56d51484f9ed9715b3bef0109~mv2.png",
+    "listItem": "item-a444d961-d8a7-427c-825f-326887b79ed1",
+    "listTitle": "InNav (WIP)",
+    "listLabel": "UI/UX | 2026"
+  }
+]

@@ -1,0 +1,9 @@
+.local/
+_site/
+dist/server/
+node_modules/
+.env
+.env.*
+*.log
+*.zip
+*.tar.gz

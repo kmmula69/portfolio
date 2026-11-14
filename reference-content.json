@@ -1,0 +1,2736 @@
+{
+  "about": {
+    "blocks": {
+      "comp-m3d2e4qn6": {
+        "id": "comp-m3d2e4qn6",
+        "paragraphs": [
+          "Ang Kai Ming"
+        ],
+        "text": "Ang Kai Ming",
+        "html": "<p><span style=\"text-decoration:underline\"><a href=\"https://mingkaiang69.wixsite.com/portfolio\" target=\"_blank\" rel=\"noopener\"><span>Ang Kai Ming</span></a></span></p>"
+      },
+      "comp-m3d2e7m811": {
+        "id": "comp-m3d2e7m811",
+        "paragraphs": [
+          "About Me"
+        ],
+        "text": "About Me",
+        "html": "<h1><span>About Me</span></h1>"
+      },
+      "comp-mkb9ttrl": {
+        "id": "comp-mkb9ttrl",
+        "paragraphs": [
+          "I am Kai Ming, a game designer obsessed with how systems work. Currently in my third year at DigiPen Institute of Technology Singapore, I’ve moved from making games that 'just work' to designing games that 'feel right.'",
+          "I specialise in C# Scripting and UI/UX Prototyping. I love the challenge of taking complex data like an RPG inventory or a strategy game’s HUD, and distilling it into a clean, accessible interface. I’m a firm believer that good UX is invisible; it allows the player to stay immersed in the world I've built.",
+          "Currently looking for Internship opportunities where I can break (and then fix) complex problems."
+        ],
+        "text": "I am Kai Ming, a game designer obsessed with how systems work. Currently in my third year at DigiPen Institute of Technology Singapore, I’ve moved from making games that 'just work' to designing games that 'feel right.'\n\nI specialise in C# Scripting and UI/UX Prototyping. I love the challenge of taking complex data like an RPG inventory or a strategy game’s HUD, and distilling it into a clean, accessible interface. I’m a firm believer that good UX is invisible; it allows the player to stay immersed in the world I've built.\n\nCurrently looking for Internship opportunities where I can break (and then fix) complex problems.",
+        "html": "<p>I am Kai Ming, a game designer obsessed with how systems work. Currently in my third year at DigiPen Institute of Technology Singapore, I’ve moved from making games that &#x27;just work&#x27; to designing games that &#x27;feel right.&#x27;</p>\n\n<p><span>​</span></p>\n\n<p>I specialise in C# Scripting and UI/UX Prototyping. I love the challenge of taking complex data like an RPG inventory or a strategy game’s HUD, and distilling it into a clean, accessible interface. I’m a firm believer that good UX is invisible; it allows the player to stay immersed in the world I&#x27;ve built.</p>\n\n<p><span>​</span></p>\n\n<p>Currently looking for Internship opportunities where I can break (and then fix) complex problems.</p>"
+      },
+      "comp-m3d2e7me14": {
+        "id": "comp-m3d2e7me14",
+        "paragraphs": [
+          "Technical Toolkit"
+        ],
+        "text": "Technical Toolkit",
+        "html": "<h2>Technical Toolkit</h2>"
+      },
+      "comp-m3d2e7mh16": {
+        "id": "comp-m3d2e7mh16",
+        "paragraphs": [
+          "UX & Interface Design"
+        ],
+        "text": "UX & Interface Design",
+        "html": "<h3><span>UX &amp; Interface Design</span></h3>"
+      },
+      "comp-m3d2e7mi3": {
+        "id": "comp-m3d2e7mi3",
+        "paragraphs": [
+          "I enjoy the challenge of making complex systems easy to use. I focus on creating clean, helpful interfaces that guide the user and look great."
+        ],
+        "text": "I enjoy the challenge of making complex systems easy to use. I focus on creating clean, helpful interfaces that guide the user and look great.",
+        "html": "<p><span>I enjoy the challenge of making complex systems easy to use. I focus on creating clean, helpful interfaces that guide the user and look great.</span></p>"
+      },
+      "comp-mkawtu3n__item1": {
+        "id": "comp-mkawtu3n__item1",
+        "paragraphs": [
+          "Figma"
+        ],
+        "text": "Figma",
+        "html": "<p>Figma</p>"
+      },
+      "comp-mkawtu3n3__item1": {
+        "id": "comp-mkawtu3n3__item1",
+        "paragraphs": [
+          "Used for high-fidelity UI wireframing and mapping out complex menu flows."
+        ],
+        "text": "Used for high-fidelity UI wireframing and mapping out complex menu flows.",
+        "html": "<p><span>Used for high-fidelity UI wireframing and mapping out complex menu flows.</span></p>"
+      },
+      "comp-mkawtu3n__item-ker6vlu0": {
+        "id": "comp-mkawtu3n__item-ker6vlu0",
+        "paragraphs": [
+          "Adobe Illustrator"
+        ],
+        "text": "Adobe Illustrator",
+        "html": "<p><span><span>Adobe Illustrator</span></span></p>"
+      },
+      "comp-mkawtu3n3__item-ker6vlu0": {
+        "id": "comp-mkawtu3n3__item-ker6vlu0",
+        "paragraphs": [
+          "Used for creating vector icons, HUD elements, and custom 2D assets to maintain a cohesive visual identity."
+        ],
+        "text": "Used for creating vector icons, HUD elements, and custom 2D assets to maintain a cohesive visual identity.",
+        "html": "<p><span>Used for creating vector icons, HUD elements, and custom 2D assets to maintain a cohesive visual identity.</span></p>"
+      },
+      "comp-mkawtu3n__item-ker6vlz9": {
+        "id": "comp-mkawtu3n__item-ker6vlz9",
+        "paragraphs": [
+          "Aseprite"
+        ],
+        "text": "Aseprite",
+        "html": "<p><span><span>Aseprite</span></span></p>"
+      },
+      "comp-mkawtu3n3__item-ker6vlz9": {
+        "id": "comp-mkawtu3n3__item-ker6vlz9",
+        "paragraphs": [
+          "My go-to for pixel art and frame-by-frame animation, used to create expressive character sprites and 2D environmental assets."
+        ],
+        "text": "My go-to for pixel art and frame-by-frame animation, used to create expressive character sprites and 2D environmental assets.",
+        "html": "<p><span>My go-to for pixel art and frame-by-frame animation, used to create expressive character sprites and 2D environmental assets.</span></p>"
+      },
+      "comp-mkax0a4u": {
+        "id": "comp-mkax0a4u",
+        "paragraphs": [
+          "Technical Implementation"
+        ],
+        "text": "Technical Implementation",
+        "html": "<h3><span>Technical Implementation</span></h3>"
+      },
+      "comp-mkax0a4v8": {
+        "id": "comp-mkax0a4v8",
+        "paragraphs": [
+          "I bridge the gap between concept and reality through technical implementation. My development focus is on building scalable systems and clean, efficient code. I specialise in turning high-level design documents into functional, bug-free gameplay systems that feel responsive and polished."
+        ],
+        "text": "I bridge the gap between concept and reality through technical implementation. My development focus is on building scalable systems and clean, efficient code. I specialise in turning high-level design documents into functional, bug-free gameplay systems that feel responsive and polished.",
+        "html": "<p><span>I bridge the gap between concept and reality through technical implementation. My development focus is on building scalable systems and clean, efficient code. I specialise in turning high-level design documents into functional, bug-free gameplay systems that feel responsive and polished.</span></p>"
+      },
+      "comp-mkax0a4z3__item1": {
+        "id": "comp-mkax0a4z3__item1",
+        "paragraphs": [
+          "Unity (C#)"
+        ],
+        "text": "Unity (C#)",
+        "html": "<p>Unity (C#)</p>"
+      },
+      "comp-mkax0a50__item1": {
+        "id": "comp-mkax0a50__item1",
+        "paragraphs": [
+          "My strongest engine for gameplay scripting. I use it to build 2D/3D prototypes and implement complex systems like inventory and AI."
+        ],
+        "text": "My strongest engine for gameplay scripting. I use it to build 2D/3D prototypes and implement complex systems like inventory and AI.",
+        "html": "<p><span>My strongest engine for gameplay scripting. I use it to build 2D/3D prototypes and implement complex systems like inventory and AI.</span></p>"
+      },
+      "comp-mkax0a4z3__item-ker6vlu0": {
+        "id": "comp-mkax0a4z3__item-ker6vlu0",
+        "paragraphs": [
+          "Unreal Engine 5 (Currently Advancing)"
+        ],
+        "text": "Unreal Engine 5 (Currently Advancing)",
+        "html": "<p><span><span>Unreal Engine 5 (Currently Advancing)</span></span></p>"
+      },
+      "comp-mkax0a50__item-ker6vlu0": {
+        "id": "comp-mkax0a50__item-ker6vlu0",
+        "paragraphs": [
+          "Currently mastering the fundamentals of Blueprints and the Enhanced Input System to expand into high-fidelity 3D development."
+        ],
+        "text": "Currently mastering the fundamentals of Blueprints and the Enhanced Input System to expand into high-fidelity 3D development.",
+        "html": "<p><span>Currently mastering the fundamentals of Blueprints and the Enhanced Input System to expand into high-fidelity 3D development.</span></p>"
+      },
+      "comp-mkax0a4z3__item-ker6vlz9": {
+        "id": "comp-mkax0a4z3__item-ker6vlz9",
+        "paragraphs": [
+          "Github"
+        ],
+        "text": "Github",
+        "html": "<p><span><span>Github</span></span></p>"
+      },
+      "comp-mkax0a50__item-ker6vlz9": {
+        "id": "comp-mkax0a50__item-ker6vlz9",
+        "paragraphs": [
+          "Utilised for version control, collaborative workflows, and maintaining a transparent, organised development history."
+        ],
+        "text": "Utilised for version control, collaborative workflows, and maintaining a transparent, organised development history.",
+        "html": "<p><span>Utilised for version control, collaborative workflows, and maintaining a transparent, organised development history.</span></p>"
+      },
+      "comp-mkax0dd58": {
+        "id": "comp-mkax0dd58",
+        "paragraphs": [
+          "Systems & Mechanic Design"
+        ],
+        "text": "Systems & Mechanic Design",
+        "html": "<h3><span>Systems &amp; Mechanic Design</span></h3>"
+      },
+      "comp-mkax0dd612": {
+        "id": "comp-mkax0dd612",
+        "paragraphs": [
+          "I focus on the intentionality of play. My design process is rooted in player psychology, defining the core loops, balancing combat systems, and scripting narrative beats that keep players engaged. I don't just ask what the mechanic is, but why it matters to the player's journey."
+        ],
+        "text": "I focus on the intentionality of play. My design process is rooted in player psychology, defining the core loops, balancing combat systems, and scripting narrative beats that keep players engaged. I don't just ask what the mechanic is, but why it matters to the player's journey.",
+        "html": "<p><span>I focus on the intentionality of play. My design process is rooted in player psychology, defining the core loops, balancing combat systems, and scripting narrative beats that keep players engaged. I don&#x27;t just ask what the mechanic is, but why it matters to the player&#x27;s journey.</span></p>"
+      },
+      "comp-mkax0dda__item1": {
+        "id": "comp-mkax0dda__item1",
+        "paragraphs": [
+          "Core Loops"
+        ],
+        "text": "Core Loops",
+        "html": "<p>Core Loops</p>"
+      },
+      "comp-mkax0dda5__item1": {
+        "id": "comp-mkax0dda5__item1",
+        "paragraphs": [
+          "Designing engaging gameplay systems and progression paths."
+        ],
+        "text": "Designing engaging gameplay systems and progression paths.",
+        "html": "<p><span>Designing engaging gameplay systems and progression paths.</span></p>"
+      },
+      "comp-mkax0dda__item-ker6vlu0": {
+        "id": "comp-mkax0dda__item-ker6vlu0",
+        "paragraphs": [
+          "Player Psychology"
+        ],
+        "text": "Player Psychology",
+        "html": "<p><span><span>Player Psychology</span></span></p>"
+      },
+      "comp-mkax0dda5__item-ker6vlu0": {
+        "id": "comp-mkax0dda5__item-ker6vlu0",
+        "paragraphs": [
+          "Applying UX principles to game design to ensure clear feedback and rewarding challenges."
+        ],
+        "text": "Applying UX principles to game design to ensure clear feedback and rewarding challenges.",
+        "html": "<p><span>Applying UX principles to game design to ensure clear feedback and rewarding challenges.</span></p>"
+      },
+      "comp-mkax0dda__item-ker6vlz9": {
+        "id": "comp-mkax0dda__item-ker6vlz9",
+        "paragraphs": [
+          "Narrative Design"
+        ],
+        "text": "Narrative Design",
+        "html": "<p><span><span>Narrative Design</span></span></p>"
+      },
+      "comp-mkax0dda5__item-ker6vlz9": {
+        "id": "comp-mkax0dda5__item-ker6vlz9",
+        "paragraphs": [
+          "Building immersive worlds through environmental storytelling and interactive systems."
+        ],
+        "text": "Building immersive worlds through environmental storytelling and interactive systems.",
+        "html": "<p><span>Building immersive worlds through environmental storytelling and interactive systems.</span></p>"
+      },
+      "comp-mkba0gjv6": {
+        "id": "comp-mkba0gjv6",
+        "paragraphs": [
+          "Beyond the Screen"
+        ],
+        "text": "Beyond the Screen",
+        "html": "<h2><span>Beyond the Screen</span></h2>"
+      },
+      "comp-mkba0gjy9__item1": {
+        "id": "comp-mkba0gjy9__item1",
+        "paragraphs": [
+          "Video Games"
+        ],
+        "text": "Video Games",
+        "html": "<p><span>Video Games</span></p>"
+      },
+      "comp-mkba0gjz4__item1": {
+        "id": "comp-mkba0gjz4__item1",
+        "paragraphs": [
+          "Maplestory (Since 2010)",
+          "League of Legends",
+          "Resident Evil 7"
+        ],
+        "text": "Maplestory (Since 2010)\n\nLeague of Legends\n\nResident Evil 7",
+        "html": "<ul>\n<li>\n<p><span>Maplestory (Since 2010)</span></p>\n</li>\n<li>\n<p><span>League of Legends</span></p>\n</li>\n<li>\n<p><span>Resident Evil 7</span></p>\n</li>\n</ul>"
+      },
+      "comp-mkba0gjy9__item-ker6vlu0": {
+        "id": "comp-mkba0gjy9__item-ker6vlu0",
+        "paragraphs": [
+          "Animated Shows"
+        ],
+        "text": "Animated Shows",
+        "html": "<p><span><span>Animated Shows</span></span></p>"
+      },
+      "comp-mkba0gjz4__item-ker6vlu0": {
+        "id": "comp-mkba0gjz4__item-ker6vlu0",
+        "paragraphs": [
+          "Rick and Morty",
+          "Adventure Time",
+          "Jujutsu Kaisen"
+        ],
+        "text": "Rick and Morty\n\nAdventure Time\n\nJujutsu Kaisen",
+        "html": "<ul>\n<li>\n<p><span>Rick and Morty</span><span>​</span></p>\n</li>\n<li>\n<p><span><span>Adventure Time</span></span></p>\n</li>\n<li>\n<p><span><span>Jujutsu Kaisen</span></span></p>\n</li>\n</ul>"
+      },
+      "comp-mkba0gjy9__item-ker6vlz9": {
+        "id": "comp-mkba0gjy9__item-ker6vlz9",
+        "paragraphs": [
+          "Hobbies"
+        ],
+        "text": "Hobbies",
+        "html": "<p><span><span>Hobbies</span></span></p>"
+      },
+      "comp-mkba0gjz4__item-ker6vlz9": {
+        "id": "comp-mkba0gjz4__item-ker6vlz9",
+        "paragraphs": [
+          "Fitness",
+          "Hiking",
+          "Bouldering"
+        ],
+        "text": "Fitness\n\nHiking\n\nBouldering",
+        "html": "<ul>\n<li>\n<p><span>Fitness</span></p>\n</li>\n<li>\n<p><span>Hiking</span></p>\n</li>\n<li>\n<p><span>Bouldering</span></p>\n</li>\n</ul>"
+      },
+      "comp-mkba0gjy9__item-ker6vm4a": {
+        "id": "comp-mkba0gjy9__item-ker6vm4a",
+        "paragraphs": [
+          "Learning"
+        ],
+        "text": "Learning",
+        "html": "<p><span><span>Learning</span></span></p>"
+      },
+      "comp-mkba0gjz4__item-ker6vm4a": {
+        "id": "comp-mkba0gjz4__item-ker6vm4a",
+        "paragraphs": [
+          "Unreal Engine",
+          "Maplestory Worlds Creator"
+        ],
+        "text": "Unreal Engine\n\nMaplestory Worlds Creator",
+        "html": "<ul>\n<li>\n<p><span>Unreal Engine</span></p>\n</li>\n<li>\n<p><span>Maplestory Worlds Creator</span></p>\n</li>\n</ul>"
+      },
+      "comp-m3d2e4qw6": {
+        "id": "comp-m3d2e4qw6",
+        "paragraphs": [
+          "Ang Kai Ming"
+        ],
+        "text": "Ang Kai Ming",
+        "html": "<p><span><a href=\"https://mingkaiang69.wixsite.com/portfolio/home\" target=\"_blank\" rel=\"noopener\">Ang Kai Ming</a></span></p>"
+      },
+      "comp-mk729d14": {
+        "id": "comp-mk729d14",
+        "paragraphs": [
+          "Follow"
+        ],
+        "text": "Follow",
+        "html": "<h3><span>Follow</span></h3>"
+      },
+      "comp-mk72qq68": {
+        "id": "comp-mk72qq68",
+        "paragraphs": [
+          "Contact Me"
+        ],
+        "text": "Contact Me",
+        "html": "<h3><span>Contact Me</span></h3>"
+      },
+      "comp-mk72wb29": {
+        "id": "comp-mk72wb29",
+        "paragraphs": [
+          "mingkaiang69@gmail.com"
+        ],
+        "text": "mingkaiang69@gmail.com",
+        "html": "<p><a href=\"mailto:mingkaiang69@gmail.com\" target=\"_blank\" rel=\"noopener\">mingkaiang69@gmail.com</a></p>"
+      },
+      "comp-m3d2jg1c": {
+        "id": "comp-m3d2jg1c",
+        "paragraphs": [
+          "© 2026 by Ang Kai Ming"
+        ],
+        "text": "© 2026 by Ang Kai Ming",
+        "html": "<p>© 2026 by Ang Kai Ming</p>"
+      },
+      "comp-mkco6agd": {
+        "id": "comp-mkco6agd",
+        "paragraphs": [
+          "More"
+        ],
+        "text": "More",
+        "html": "<h3><span>More</span></h3>"
+      },
+      "comp-mkco6agx": {
+        "id": "comp-mkco6agx",
+        "paragraphs": [
+          "About"
+        ],
+        "text": "About",
+        "html": "<p><span style=\"text-decoration:underline\"><a href=\"https://mingkaiang69.wixsite.com/portfolio/about\" target=\"_blank\" rel=\"noopener\">About</a></span></p>"
+      },
+      "comp-mkco6ahk": {
+        "id": "comp-mkco6ahk",
+        "paragraphs": [
+          "Resume"
+        ],
+        "text": "Resume",
+        "html": "<p><span style=\"text-decoration:underline\"><a href=\"https://cc435e8b-2b08-4a59-99e6-2c1532577d3f.filesusr.com/ugd/ae24a9_e8f758d4d06f4537bbf628da630b28cb.pdf\" target=\"_blank\" rel=\"noopener\">Resume</a></span></p>"
+      }
+    },
+    "images": [
+      {
+        "id": "img_comp-mkb9tjha",
+        "name": "wix-ae24a9_54c6c4fe32d84abe968b0d0bbc28b435~mv2.jpg",
+        "alt": "photo_2026-01-08_22-26-14_edited.jpg",
+        "url": "https://static.wixstatic.com/media/ae24a9_54c6c4fe32d84abe968b0d0bbc28b435~mv2.jpg"
+      },
+      {
+        "id": "img_comp-mkb7s5a8__item1",
+        "name": "wix-ae24a9_136a03ae04d74fbf9cc7bd98281ec762~mv2.png",
+        "alt": "figma.com logo15.png",
+        "url": "https://static.wixstatic.com/media/ae24a9_136a03ae04d74fbf9cc7bd98281ec762~mv2.png"
+      },
+      {
+        "id": "img_comp-mkb7s5a8__item-ker6vlu0",
+        "name": "wix-ae24a9_f4e3e1f9bbab4db980a5d83649c51a8a~mv2.png",
+        "alt": "256px-Adobe_Illustrator_CC_icon.svg.png",
+        "url": "https://static.wixstatic.com/media/ae24a9_f4e3e1f9bbab4db980a5d83649c51a8a~mv2.png"
+      },
+      {
+        "id": "img_comp-mkb7s5a8__item-ker6vlz9",
+        "name": "wix-ae24a9_3ffbc0ec28a340beac66d7b96688ce42~mv2.png",
+        "alt": "ase256.png",
+        "url": "https://static.wixstatic.com/media/ae24a9_3ffbc0ec28a340beac66d7b96688ce42~mv2.png"
+      },
+      {
+        "id": "img_comp-mkb8yo1o__item1",
+        "name": "wix-ae24a9_bdbbb19a51be4c1f900e85a4c0e241ae~mv2.png",
+        "alt": "LargeUnityIcon.png",
+        "url": "https://static.wixstatic.com/media/ae24a9_bdbbb19a51be4c1f900e85a4c0e241ae~mv2.png"
+      },
+      {
+        "id": "img_comp-mkb8yo1o__item-ker6vlu0",
+        "name": "wix-ae24a9_e47536885e094d19a4bf17c99f7f041e~mv2.png",
+        "alt": "icon_256x256.png",
+        "url": "https://static.wixstatic.com/media/ae24a9_e47536885e094d19a4bf17c99f7f041e~mv2.png"
+      },
+      {
+        "id": "img_comp-mkb8yo1o__item-ker6vlz9",
+        "name": "wix-ae24a9_ec894da21343489eb4072d30020f129f~mv2.png",
+        "alt": "github.com logo13.png",
+        "url": "https://static.wixstatic.com/media/ae24a9_ec894da21343489eb4072d30020f129f~mv2.png"
+      },
+      {
+        "id": "img_0_comp-mk8i752z",
+        "name": "wix-01c3aff52f2a4dffa526d7a9843d46ea.png",
+        "alt": "Instagram",
+        "url": "https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png"
+      },
+      {
+        "id": "img_1_comp-mk8i752z",
+        "name": "wix-6ea5b4a88f0b4f91945b40499aa0af00.png",
+        "alt": "LinkedIn",
+        "url": "https://static.wixstatic.com/media/6ea5b4a88f0b4f91945b40499aa0af00.png"
+      }
+    ]
+  },
+  "copy-of-my-projects": {
+    "blocks": {
+      "comp-m3d2e4qn6": {
+        "id": "comp-m3d2e4qn6",
+        "paragraphs": [
+          "Ang Kai Ming"
+        ],
+        "text": "Ang Kai Ming",
+        "html": "<p><span style=\"text-decoration:underline\"><a href=\"https://mingkaiang69.wixsite.com/portfolio\" target=\"_blank\" rel=\"noopener\"><span>Ang Kai Ming</span></a></span></p>"
+      },
+      "comp-mm901ji05": {
+        "id": "comp-mm901ji05",
+        "paragraphs": [
+          "My Projects"
+        ],
+        "text": "My Projects",
+        "html": "<h1><span>My Projects</span></h1>"
+      },
+      "comp-mm901jiu7__item1": {
+        "id": "comp-mm901jiu7__item1",
+        "paragraphs": [
+          "Game | 2025"
+        ],
+        "text": "Game | 2025",
+        "html": "<p><span><span><span>Game | 2025</span></span></span></p>"
+      },
+      "comp-mm901jiv2__item1": {
+        "id": "comp-mm901jiv2__item1",
+        "paragraphs": [
+          "Gruntsmith"
+        ],
+        "text": "Gruntsmith",
+        "html": "<p><span><span><span style=\"color:#000000\">Gruntsmith</span></span></span></p>"
+      },
+      "comp-mm901jiw6__item1": {
+        "id": "comp-mm901jiw6__item1",
+        "paragraphs": [
+          "Gruntsmith is a high-intensity blend of factory simulation and survival combat, where players rapidly assemble weapons and defend their outpost against relentless waves of intruders."
+        ],
+        "text": "Gruntsmith is a high-intensity blend of factory simulation and survival combat, where players rapidly assemble weapons and defend their outpost against relentless waves of intruders.",
+        "html": "<p><span style=\"color:#000000\"><span style=\"font-style:normal\"><span><span style=\"font-weight:400\"><span>Gruntsmith is a high-intensity blend of factory simulation and survival combat, where players rapidly assemble weapons and defend their outpost against relentless waves of intruders.</span></span></span></span></span></p>\n\n<p><span style=\"color:#000000\"><span style=\"font-style:normal\"><span><span style=\"font-weight:400\"><span><span><span>​</span>​</span></span></span></span></span></span></p>"
+      },
+      "comp-mm901jiu7__item-724300e1-b7ed-4259-b251-f5c2f7fbf13c": {
+        "id": "comp-mm901jiu7__item-724300e1-b7ed-4259-b251-f5c2f7fbf13c",
+        "paragraphs": [
+          "UI/UX | 2025"
+        ],
+        "text": "UI/UX | 2025",
+        "html": "<p><span><span><span>UI/UX | 2025</span></span></span></p>"
+      },
+      "comp-mm901jiv2__item-724300e1-b7ed-4259-b251-f5c2f7fbf13c": {
+        "id": "comp-mm901jiv2__item-724300e1-b7ed-4259-b251-f5c2f7fbf13c",
+        "paragraphs": [
+          "Nibble Cookies"
+        ],
+        "text": "Nibble Cookies",
+        "html": "<p><span><span><span style=\"color:#000000\">Nibble Cookies</span></span></span></p>"
+      },
+      "comp-mm901jiw6__item-724300e1-b7ed-4259-b251-f5c2f7fbf13c": {
+        "id": "comp-mm901jiw6__item-724300e1-b7ed-4259-b251-f5c2f7fbf13c",
+        "paragraphs": [
+          "Building a cookie e-commerce site from scratch to practice the fundamentals of web design. This project helped me learn how to take a simple idea and turn it into a functional, user-friendly digital experience."
+        ],
+        "text": "Building a cookie e-commerce site from scratch to practice the fundamentals of web design. This project helped me learn how to take a simple idea and turn it into a functional, user-friendly digital experience.",
+        "html": "<p><span style=\"color:#000000\"><span style=\"font-style:normal\"><span><span style=\"font-weight:400\"><span>Building a cookie e-commerce site from scratch to practice the fundamentals of web design. This project helped me learn how to take a simple idea and turn it into a functional, user-friendly digital experience.</span></span></span></span></span></p>\n\n<p><span style=\"color:#000000\"><span style=\"font-style:normal\"><span><span style=\"font-weight:400\"><span><span><span>​</span>​</span></span></span></span></span></span></p>"
+      },
+      "comp-mm901jiu7__item-j9r9uz7e": {
+        "id": "comp-mm901jiu7__item-j9r9uz7e",
+        "paragraphs": [
+          "Game | 2025"
+        ],
+        "text": "Game | 2025",
+        "html": "<p><span><span><span>Game | 2025</span></span></span></p>"
+      },
+      "comp-mm901jiv2__item-j9r9uz7e": {
+        "id": "comp-mm901jiv2__item-j9r9uz7e",
+        "paragraphs": [
+          "Halfblood"
+        ],
+        "text": "Halfblood",
+        "html": "<p><span><span><span><span style=\"color:#000000\">Halfblood</span></span></span></span></p>"
+      },
+      "comp-mm901jiw6__item-j9r9uz7e": {
+        "id": "comp-mm901jiw6__item-j9r9uz7e",
+        "paragraphs": [
+          "Halfblood is a high-stakes, wave-based roguelite that centers on a volatile risk-reward combat system, where players must balance devastating lineage-based powers against their own dwindling stability to survive."
+        ],
+        "text": "Halfblood is a high-stakes, wave-based roguelite that centers on a volatile risk-reward combat system, where players must balance devastating lineage-based powers against their own dwindling stability to survive.",
+        "html": "<p><span style=\"color:#000000\"><span style=\"font-style:normal\"><span><span style=\"font-weight:400\"><span>Halfblood is a high-stakes, wave-based roguelite that centers on a volatile risk-reward combat system, where players must balance devastating lineage-based powers against their own dwindling stability to survive.</span></span></span></span></span></p>"
+      },
+      "comp-mm901jiu7__item-d7c3ae4b-1e30-4afe-acf9-5ffae74767c1": {
+        "id": "comp-mm901jiu7__item-d7c3ae4b-1e30-4afe-acf9-5ffae74767c1",
+        "paragraphs": [
+          "UI/UX | 2025"
+        ],
+        "text": "UI/UX | 2025",
+        "html": "<p><span><span><span>UI/UX | 2025</span></span></span></p>"
+      },
+      "comp-mm901jiv2__item-d7c3ae4b-1e30-4afe-acf9-5ffae74767c1": {
+        "id": "comp-mm901jiv2__item-d7c3ae4b-1e30-4afe-acf9-5ffae74767c1",
+        "paragraphs": [
+          "MyTransport.SG"
+        ],
+        "text": "MyTransport.SG",
+        "html": "<p><span><span><span style=\"color:#000000\">MyTransport.SG</span></span></span></p>"
+      },
+      "comp-mm901jiw6__item-d7c3ae4b-1e30-4afe-acf9-5ffae74767c1": {
+        "id": "comp-mm901jiw6__item-d7c3ae4b-1e30-4afe-acf9-5ffae74767c1",
+        "paragraphs": [
+          "Redesigning MyTransport.SG to reduce cognitive load for daily commuters. By auditing the app’s information architecture and refining its visual hierarchy, I streamlined the journey-planning process for a more intuitive user experience."
+        ],
+        "text": "Redesigning MyTransport.SG to reduce cognitive load for daily commuters. By auditing the app’s information architecture and refining its visual hierarchy, I streamlined the journey-planning process for a more intuitive user experience.",
+        "html": "<p><span style=\"color:#000000\"><span style=\"font-style:normal\"><span><span style=\"font-weight:400\"><span>Redesigning MyTransport.SG to reduce cognitive load for daily commuters. By auditing the app’s information architecture and refining its visual hierarchy, I streamlined the journey-planning process for a more intuitive user experience.</span></span></span></span></span></p>"
+      },
+      "comp-mm901jiu7__item-j9r9uxns": {
+        "id": "comp-mm901jiu7__item-j9r9uxns",
+        "paragraphs": [
+          "Game | 2025"
+        ],
+        "text": "Game | 2025",
+        "html": "<p><span><span><span>Game | 2025</span></span></span></p>"
+      },
+      "comp-mm901jiv2__item-j9r9uxns": {
+        "id": "comp-mm901jiv2__item-j9r9uxns",
+        "paragraphs": [
+          "Pirate's Pocket"
+        ],
+        "text": "Pirate's Pocket",
+        "html": "<p><span><span><span style=\"color:#000000\">Pirate&#x27;s Pocket</span></span></span></p>"
+      },
+      "comp-mm901jiw6__item-j9r9uxns": {
+        "id": "comp-mm901jiw6__item-j9r9uxns",
+        "paragraphs": [
+          "Pirate’s Pocket Pirate’s Pocket is a competitive tabletop card game that blends tactical hand management with dice-based combat, challenging players to master the balance of risk and reward while stealing treasure."
+        ],
+        "text": "Pirate’s Pocket Pirate’s Pocket is a competitive tabletop card game that blends tactical hand management with dice-based combat, challenging players to master the balance of risk and reward while stealing treasure.",
+        "html": "<p><span style=\"color:#000000\"><span style=\"font-style:normal\"><span><span style=\"font-weight:400\"><span>Pirate’s Pocket Pirate’s Pocket is a competitive tabletop card game that blends tactical hand management with dice-based combat, challenging players to master the balance of risk and reward while stealing treasure.</span></span></span></span></span></p>"
+      },
+      "comp-mm901jiu7__item-a444d961-d8a7-427c-825f-326887b79ed1": {
+        "id": "comp-mm901jiu7__item-a444d961-d8a7-427c-825f-326887b79ed1",
+        "paragraphs": [
+          "UI/UX | 2026"
+        ],
+        "text": "UI/UX | 2026",
+        "html": "<p><span><span><span>UI/UX | 2026</span></span></span></p>"
+      },
+      "comp-mm901jiv2__item-a444d961-d8a7-427c-825f-326887b79ed1": {
+        "id": "comp-mm901jiv2__item-a444d961-d8a7-427c-825f-326887b79ed1",
+        "paragraphs": [
+          "InNav (WIP)"
+        ],
+        "text": "InNav (WIP)",
+        "html": "<p><span><span><span style=\"color:#000000\">InNav (WIP)</span></span></span></p>"
+      },
+      "comp-mm901jiw6__item-a444d961-d8a7-427c-825f-326887b79ed1": {
+        "id": "comp-mm901jiw6__item-a444d961-d8a7-427c-825f-326887b79ed1",
+        "paragraphs": [
+          "Designing InNav, an indoor navigation system that simplifies wayfinding in multi-storey buildings. Leading project planning, UX design, and team coordination to develop an intuitive Environment Editor and Navigation Runtime."
+        ],
+        "text": "Designing InNav, an indoor navigation system that simplifies wayfinding in multi-storey buildings. Leading project planning, UX design, and team coordination to develop an intuitive Environment Editor and Navigation Runtime.",
+        "html": "<p>Designing InNav, an indoor navigation system that simplifies wayfinding in multi-storey buildings. Leading project planning, UX design, and team coordination to develop an intuitive Environment Editor and Navigation Runtime.</p>"
+      },
+      "comp-m3d2e4qw6": {
+        "id": "comp-m3d2e4qw6",
+        "paragraphs": [
+          "Ang Kai Ming"
+        ],
+        "text": "Ang Kai Ming",
+        "html": "<p><span><a href=\"https://mingkaiang69.wixsite.com/portfolio/home\" target=\"_blank\" rel=\"noopener\">Ang Kai Ming</a></span></p>"
+      },
+      "comp-mk729d14": {
+        "id": "comp-mk729d14",
+        "paragraphs": [
+          "Follow"
+        ],
+        "text": "Follow",
+        "html": "<h3><span>Follow</span></h3>"
+      },
+      "comp-mk72qq68": {
+        "id": "comp-mk72qq68",
+        "paragraphs": [
+          "Contact Me"
+        ],
+        "text": "Contact Me",
+        "html": "<h3><span>Contact Me</span></h3>"
+      },
+      "comp-mk72wb29": {
+        "id": "comp-mk72wb29",
+        "paragraphs": [
+          "mingkaiang69@gmail.com"
+        ],
+        "text": "mingkaiang69@gmail.com",
+        "html": "<p><a href=\"mailto:mingkaiang69@gmail.com\" target=\"_blank\" rel=\"noopener\">mingkaiang69@gmail.com</a></p>"
+      },
+      "comp-m3d2jg1c": {
+        "id": "comp-m3d2jg1c",
+        "paragraphs": [
+          "© 2026 by Ang Kai Ming"
+        ],
+        "text": "© 2026 by Ang Kai Ming",
+        "html": "<p>© 2026 by Ang Kai Ming</p>"
+      },
+      "comp-mkco6agd": {
+        "id": "comp-mkco6agd",
+        "paragraphs": [
+          "More"
+        ],
+        "text": "More",
+        "html": "<h3><span>More</span></h3>"
+      },
+      "comp-mkco6agx": {
+        "id": "comp-mkco6agx",
+        "paragraphs": [
+          "About"
+        ],
+        "text": "About",
+        "html": "<p><span style=\"text-decoration:underline\"><a href=\"https://mingkaiang69.wixsite.com/portfolio/about\" target=\"_blank\" rel=\"noopener\">About</a></span></p>"
+      },
+      "comp-mkco6ahk": {
+        "id": "comp-mkco6ahk",
+        "paragraphs": [
+          "Resume"
+        ],
+        "text": "Resume",
+        "html": "<p><span style=\"text-decoration:underline\"><a href=\"https://cc435e8b-2b08-4a59-99e6-2c1532577d3f.filesusr.com/ugd/ae24a9_e8f758d4d06f4537bbf628da630b28cb.pdf\" target=\"_blank\" rel=\"noopener\">Resume</a></span></p>"
+      }
+    },
+    "images": [
+      {
+        "id": "img_comp-mm901jir1__item1",
+        "name": "wix-ae24a9_b6dbe15df7ec45d2871fe185195d0cf7~mv2.png",
+        "alt": "gam100 poster.png",
+        "url": "https://static.wixstatic.com/media/ae24a9_b6dbe15df7ec45d2871fe185195d0cf7~mv2.png"
+      },
+      {
+        "id": "img_comp-mm901jir1__item-724300e1-b7ed-4259-b251-f5c2f7fbf13c",
+        "name": "wix-ae24a9_2109af0ca6244bbfa8a1675220e67fac~mv2.png",
+        "alt": "nibble.png",
+        "url": "https://static.wixstatic.com/media/ae24a9_2109af0ca6244bbfa8a1675220e67fac~mv2.png"
+      },
+      {
+        "id": "img_comp-mm901jir1__item-j9r9uz7e",
+        "name": "wix-ae24a9_65f9fceac39f4492a1f8487d5b840c64~mv2.png",
+        "alt": "halfblood poster.png",
+        "url": "https://static.wixstatic.com/media/ae24a9_65f9fceac39f4492a1f8487d5b840c64~mv2.png"
+      },
+      {
+        "id": "img_comp-mm901jir1__item-d7c3ae4b-1e30-4afe-acf9-5ffae74767c1",
+        "name": "wix-ae24a9_c82b0239ff6d40f8af10542613e50acc~mv2.png",
+        "alt": "mytransport.png",
+        "url": "https://static.wixstatic.com/media/ae24a9_c82b0239ff6d40f8af10542613e50acc~mv2.png"
+      },
+      {
+        "id": "img_comp-mm901jir1__item-j9r9uxns",
+        "name": "wix-ae24a9_2d17b6bdd10f4f3aa7dd436753972cf0~mv2.png",
+        "alt": "pirates pocket poster.png",
+        "url": "https://static.wixstatic.com/media/ae24a9_2d17b6bdd10f4f3aa7dd436753972cf0~mv2.png"
+      },
+      {
+        "id": "img_comp-mm901jir1__item-a444d961-d8a7-427c-825f-326887b79ed1",
+        "name": "wix-ae24a9_c6ad18c56d51484f9ed9715b3bef0109~mv2.png",
+        "alt": "favicon.png",
+        "url": "https://static.wixstatic.com/media/ae24a9_c6ad18c56d51484f9ed9715b3bef0109~mv2.png"
+      },
+      {
+        "id": "img_0_comp-mk8i752z",
+        "name": "wix-01c3aff52f2a4dffa526d7a9843d46ea.png",
+        "alt": "Instagram",
+        "url": "https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png"
+      },
+      {
+        "id": "img_1_comp-mk8i752z",
+        "name": "wix-6ea5b4a88f0b4f91945b40499aa0af00.png",
+        "alt": "LinkedIn",
+        "url": "https://static.wixstatic.com/media/6ea5b4a88f0b4f91945b40499aa0af00.png"
+      }
+    ]
+  },
+  "copy-of-project-4-nibble-cookies": {
+    "blocks": {
+      "comp-m3d2e4qn6": {
+        "id": "comp-m3d2e4qn6",
+        "paragraphs": [
+          "Ang Kai Ming"
+        ],
+        "text": "Ang Kai Ming",
+        "html": "<p><span style=\"text-decoration:underline\"><a href=\"https://mingkaiang69.wixsite.com/portfolio\" target=\"_blank\" rel=\"noopener\"><span>Ang Kai Ming</span></a></span></p>"
+      },
+      "comp-mlywuhw85": {
+        "id": "comp-mlywuhw85",
+        "paragraphs": [
+          "MyTransport.SG | 2025"
+        ],
+        "text": "MyTransport.SG | 2025",
+        "html": "<h1><span style=\"color:#3D9BE9\"><span><span>MyTransport.SG | 2025</span></span></span></h1>"
+      },
+      "comp-mlywuhw91": {
+        "id": "comp-mlywuhw91",
+        "paragraphs": [
+          "UI/UX Designer"
+        ],
+        "text": "UI/UX Designer",
+        "html": "<p><span><span style=\"color:#3D9BE9\"><span>UI/UX Designer</span></span></span></p>"
+      },
+      "comp-mlywuhwa": {
+        "id": "comp-mlywuhwa",
+        "paragraphs": [
+          "Theme"
+        ],
+        "text": "Theme",
+        "html": "<p><span style=\"color:#3D9BE9\"><span><span>Theme</span></span></span></p>"
+      },
+      "comp-mlywuhwa6": {
+        "id": "comp-mlywuhwa6",
+        "paragraphs": [
+          "E-commerce | Food & Business"
+        ],
+        "text": "E-commerce | Food & Business",
+        "html": "<p><span><span><span style=\"font-weight:normal\">E-commerce | Food &amp; Business</span></span></span></p>"
+      },
+      "comp-mlywuhwb3": {
+        "id": "comp-mlywuhwb3",
+        "paragraphs": [
+          "Tools"
+        ],
+        "text": "Tools",
+        "html": "<p><span style=\"color:rgb(61, 155, 233)\">Tools</span></p>"
+      },
+      "comp-mlywuhwb9": {
+        "id": "comp-mlywuhwb9",
+        "paragraphs": [
+          "Figma | Photoshop | Canva"
+        ],
+        "text": "Figma | Photoshop | Canva",
+        "html": "<p><span><span><span style=\"font-weight:normal\">Figma | Photoshop | Canva</span></span></span></p>"
+      },
+      "comp-mlywuhwe7": {
+        "id": "comp-mlywuhwe7",
+        "paragraphs": [
+          "About the Design"
+        ],
+        "text": "About the Design",
+        "html": "<h2><span><span>About the Design</span></span></h2>"
+      },
+      "comp-mlywuhwg": {
+        "id": "comp-mlywuhwg",
+        "paragraphs": [
+          "MyTransport.SG is a mobile application developed by the Land Transport Authority (LTA) of Singapore. It provides real-time transport information, including bus arrival times, traffic conditions, parking availability, and journey planning. The app is primarily aimed at daily commuters, drivers, and tourists, offering a one-stop solution for navigating the island's public transport network.",
+          "In this study, I will focus on evaluating the app's navigation structure, information clarity, and accessibility features, particularly for elderly users and those with limited familiarity with transport-related terminology. By conducting a heuristic evaluation, user research, and competitive analysis, I aim to identify key design improvements that enhance the app’s usability and overall user experience. UX Evaluation Focus"
+        ],
+        "text": "MyTransport.SG is a mobile application developed by the Land Transport Authority (LTA) of Singapore. It provides real-time transport information, including bus arrival times, traffic conditions, parking availability, and journey planning. The app is primarily aimed at daily commuters, drivers, and tourists, offering a one-stop solution for navigating the island's public transport network.\n\nIn this study, I will focus on evaluating the app's navigation structure, information clarity, and accessibility features, particularly for elderly users and those with limited familiarity with transport-related terminology. By conducting a heuristic evaluation, user research, and competitive analysis, I aim to identify key design improvements that enhance the app’s usability and overall user experience. UX Evaluation Focus",
+        "html": "<p><span><span>MyTransport.SG is a mobile application developed by the Land Transport Authority (LTA) of Singapore. It provides real-time<br>\ntransport information, including bus arrival times, traffic conditions, parking availability, and journey planning. The<br>\napp is primarily aimed at daily commuters, drivers, and tourists, offering a one-stop solution for navigating the island&#x27;s<br>\npublic transport network.</span></span></p>\n\n<p><span><span><span>​</span></span></span></p>\n\n<p><span><span><span>​</span>In this study, I will focus on evaluating the app&#x27;s navigation structure, information clarity, and accessibility features,<br>\nparticularly for elderly users and those with limited familiarity with transport-related terminology. By conducting a<br>\nheuristic evaluation, user research, and competitive analysis, I aim to identify key design improvements that enhance<br>\nthe app’s usability and overall user experience.<br>\nUX Evaluation Focus</span></span></p>\n\n<p><span><span><span>​</span></span></span></p>\n\n<p><span><span><span>​</span></span></span></p>"
+      },
+      "comp-mlywuhwi5": {
+        "id": "comp-mlywuhwi5",
+        "paragraphs": [
+          "My Contributions (Solo Project)"
+        ],
+        "text": "My Contributions (Solo Project)",
+        "html": "<h2><span><span>My Contributions (Solo Project)</span></span></h2>"
+      },
+      "comp-mlywuhwk": {
+        "id": "comp-mlywuhwk",
+        "paragraphs": [
+          "Research, Personas & Heuristic Evaluation"
+        ],
+        "text": "Research, Personas & Heuristic Evaluation",
+        "html": "<h3><span><span style=\"font-weight:bold\"><span>Research, Personas &amp; Heuristic Evaluation</span></span></span></h3>"
+      },
+      "comp-mlywuhwk6": {
+        "id": "comp-mlywuhwk6",
+        "paragraphs": [
+          "UX Architecture & Taskflow Design"
+        ],
+        "text": "UX Architecture & Taskflow Design",
+        "html": "<h3><span><span style=\"font-weight:bold\"><span>UX Architecture &amp; Taskflow Design</span></span></span></h3>"
+      },
+      "comp-mlywuhwl5": {
+        "id": "comp-mlywuhwl5",
+        "paragraphs": [
+          "High-Fidelity Design & Style Guide"
+        ],
+        "text": "High-Fidelity Design & Style Guide",
+        "html": "<h3><span style=\"font-weight:bold\"><span><span>High-Fidelity Design &amp; Style Guide</span></span></span></h3>"
+      },
+      "comp-mlywuhwm": {
+        "id": "comp-mlywuhwm",
+        "paragraphs": [
+          "Iteration, Mobile Adaptation & Prototype"
+        ],
+        "text": "Iteration, Mobile Adaptation & Prototype",
+        "html": "<h3><span style=\"font-weight:bold\"><span><span>Iteration, Mobile Adaptation &amp; Prototype</span></span></span></h3>"
+      },
+      "comp-mlywuhwq": {
+        "id": "comp-mlywuhwq",
+        "paragraphs": [
+          "I began by conducting a Heuristic Evaluation of the existing MyTransport.SG app to identify usability gaps. To ground my design in reality, I developed a User Persona and Empathy Map based on a Chosen User Demographic, allowing me to draft a specific User Story that addressed real-world commuting frustrations. This phase concluded with a User Feedback Analysis, where I synthesised pain points into a clear strategic direction for the redesign."
+        ],
+        "text": "I began by conducting a Heuristic Evaluation of the existing MyTransport.SG app to identify usability gaps. To ground my design in reality, I developed a User Persona and Empathy Map based on a Chosen User Demographic, allowing me to draft a specific User Story that addressed real-world commuting frustrations. This phase concluded with a User Feedback Analysis, where I synthesised pain points into a clear strategic direction for the redesign.",
+        "html": "<p><span>I began by conducting a Heuristic Evaluation of the existing MyTransport.SG app to identify usability gaps. To ground my design in reality, I developed a User Persona and Empathy Map based on a Chosen User Demographic, allowing me to draft a specific User Story that addressed real-world commuting frustrations. This phase concluded with a User Feedback Analysis, where I synthesised pain points into a clear strategic direction for the redesign.</span></p>"
+      },
+      "comp-mlywuhwr17": {
+        "id": "comp-mlywuhwr17",
+        "paragraphs": [
+          "Moving into the structural phase, I mapped out a comprehensive User Taskflow in Figma to streamline the journey-planning process. I focused on creating an intuitive hierarchy that leads the user from \"Point A\" to \"Point B\" with minimal cognitive load. This blueprint served as the foundation for my initial wireframes, ensuring that every interactive element was placed with purpose and backed by the logical requirements of the user's journey."
+        ],
+        "text": "Moving into the structural phase, I mapped out a comprehensive User Taskflow in Figma to streamline the journey-planning process. I focused on creating an intuitive hierarchy that leads the user from \"Point A\" to \"Point B\" with minimal cognitive load. This blueprint served as the foundation for my initial wireframes, ensuring that every interactive element was placed with purpose and backed by the logical requirements of the user's journey.",
+        "html": "<p><span><span>Moving into the structural phase, I mapped out a comprehensive User Taskflow in Figma to streamline the journey-planning process. I focused on creating an intuitive hierarchy that leads the user from &quot;Point A&quot; to &quot;Point B&quot; with minimal cognitive load. This blueprint served as the foundation for my initial wireframes, ensuring that every interactive element was placed with purpose and backed by the logical requirements of the user&#x27;s journey.</span></span></p>\n\n<p><span><span><span>​</span></span></span></p>"
+      },
+      "comp-mlywuhwt10": {
+        "id": "comp-mlywuhwt10",
+        "paragraphs": [
+          "To elevate the experience, I established a formal Style Guide, including a curated colour palette and typography, that balances professional utility with a modern aesthetic. I used Photoshop to create high-fidelity examples, applying depth and visual polish to ensure the interface felt premium. This stage was defined by Iteration & Refinement, where I polished every icon and UI component to ensure the brand felt cohesive, accessible, and visually engaging."
+        ],
+        "text": "To elevate the experience, I established a formal Style Guide, including a curated colour palette and typography, that balances professional utility with a modern aesthetic. I used Photoshop to create high-fidelity examples, applying depth and visual polish to ensure the interface felt premium. This stage was defined by Iteration & Refinement, where I polished every icon and UI component to ensure the brand felt cohesive, accessible, and visually engaging.",
+        "html": "<p><span>To elevate the experience, I established a formal Style Guide, including a curated colour palette and typography, that balances professional utility with a modern aesthetic. I used Photoshop to create high-fidelity examples, applying depth and visual polish to ensure the interface felt premium. This stage was defined by Iteration &amp; Refinement, where I polished every icon and UI component to ensure the brand felt cohesive, accessible, and visually engaging.</span></p>\n\n<p><span><span>​</span></span></p>"
+      },
+      "comp-mlywuhwv2": {
+        "id": "comp-mlywuhwv2",
+        "paragraphs": [
+          "The final phase involved translating the expansive desktop concepts into a compact, mobile-first application. This wasn't just about shrinking elements; it required redesigning the interaction model for touch-based on Iteration & Refinement from my initial testing. I optimised for thumb-reachability and simplified the UI to ensure the interface remained consistent and functional for on-the-go commuting. The project concludes with a fully interactive Prototype Link, demonstrating a seamless, responsive transition across all devices."
+        ],
+        "text": "The final phase involved translating the expansive desktop concepts into a compact, mobile-first application. This wasn't just about shrinking elements; it required redesigning the interaction model for touch-based on Iteration & Refinement from my initial testing. I optimised for thumb-reachability and simplified the UI to ensure the interface remained consistent and functional for on-the-go commuting. The project concludes with a fully interactive Prototype Link, demonstrating a seamless, responsive transition across all devices.",
+        "html": "<p><span>The final phase involved translating the expansive desktop concepts into a compact, mobile-first application. This wasn&#x27;t just about shrinking elements; it required redesigning the interaction model for touch-based on Iteration &amp; Refinement from my initial testing. I optimised for thumb-reachability and simplified the UI to ensure the interface remained consistent and functional for on-the-go commuting. The project concludes with a fully interactive Prototype Link, demonstrating a seamless, responsive transition across all devices.</span></p>\n\n<p><span><span>​</span></span></p>"
+      },
+      "comp-m3d2e4qw6": {
+        "id": "comp-m3d2e4qw6",
+        "paragraphs": [
+          "Ang Kai Ming"
+        ],
+        "text": "Ang Kai Ming",
+        "html": "<p><span><a href=\"https://mingkaiang69.wixsite.com/portfolio/home\" target=\"_blank\" rel=\"noopener\">Ang Kai Ming</a></span></p>"
+      },
+      "comp-mk729d14": {
+        "id": "comp-mk729d14",
+        "paragraphs": [
+          "Follow"
+        ],
+        "text": "Follow",
+        "html": "<h3><span>Follow</span></h3>"
+      },
+      "comp-mk72qq68": {
+        "id": "comp-mk72qq68",
+        "paragraphs": [
+          "Contact Me"
+        ],
+        "text": "Contact Me",
+        "html": "<h3><span>Contact Me</span></h3>"
+      },
+      "comp-mk72wb29": {
+        "id": "comp-mk72wb29",
+        "paragraphs": [
+          "mingkaiang69@gmail.com"
+        ],
+        "text": "mingkaiang69@gmail.com",
+        "html": "<p><a href=\"mailto:mingkaiang69@gmail.com\" target=\"_blank\" rel=\"noopener\">mingkaiang69@gmail.com</a></p>"
+      },
+      "comp-m3d2jg1c": {
+        "id": "comp-m3d2jg1c",
+        "paragraphs": [
+          "© 2026 by Ang Kai Ming"
+        ],
+        "text": "© 2026 by Ang Kai Ming",
+        "html": "<p>© 2026 by Ang Kai Ming</p>"
+      },
+      "comp-mkco6agd": {
+        "id": "comp-mkco6agd",
+        "paragraphs": [
+          "More"
+        ],
+        "text": "More",
+        "html": "<h3><span>More</span></h3>"
+      },
+      "comp-mkco6agx": {
+        "id": "comp-mkco6agx",
+        "paragraphs": [
+          "About"
+        ],
+        "text": "About",
+        "html": "<p><span style=\"text-decoration:underline\"><a href=\"https://mingkaiang69.wixsite.com/portfolio/about\" target=\"_blank\" rel=\"noopener\">About</a></span></p>"
+      },
+      "comp-mkco6ahk": {
+        "id": "comp-mkco6ahk",
+        "paragraphs": [
+          "Resume"
+        ],
+        "text": "Resume",
+        "html": "<p><span style=\"text-decoration:underline\"><a href=\"https://cc435e8b-2b08-4a59-99e6-2c1532577d3f.filesusr.com/ugd/ae24a9_e8f758d4d06f4537bbf628da630b28cb.pdf\" target=\"_blank\" rel=\"noopener\">Resume</a></span></p>"
+      }
+    },
+    "images": [
+      {
+        "id": "",
+        "name": "wix-ae24a9_7d7f8dd098a248c6a55bf2d299185f62~mv2.jpg",
+        "alt": "arcarde style pixel game art.jpg",
+        "url": "https://static.wixstatic.com/media/ae24a9_7d7f8dd098a248c6a55bf2d299185f62~mv2.jpg"
+      },
+      {
+        "id": "img_comp-mlywuhwf",
+        "name": "wix-ae24a9_c82b0239ff6d40f8af10542613e50acc~mv2.png",
+        "alt": "mytransport.png",
+        "url": "https://static.wixstatic.com/media/ae24a9_c82b0239ff6d40f8af10542613e50acc~mv2.png"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_b58e6a6d28c84524a0b5b92b6c1779c6~mv2.jpg",
+        "alt": "Chosen User Demographic",
+        "url": "https://static.wixstatic.com/media/ae24a9_b58e6a6d28c84524a0b5b92b6c1779c6~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_a075035c63c048b893c16a241cf32b1f~mv2.jpg",
+        "alt": "Heuristic Evaluation 1",
+        "url": "https://static.wixstatic.com/media/ae24a9_a075035c63c048b893c16a241cf32b1f~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_5f9b151c51414a41b055871920db2d02~mv2.jpg",
+        "alt": "User Feedback Analysis",
+        "url": "https://static.wixstatic.com/media/ae24a9_5f9b151c51414a41b055871920db2d02~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_b58e6a6d28c84524a0b5b92b6c1779c6~mv2.jpg",
+        "alt": "Chosen User Demographic",
+        "url": "https://static.wixstatic.com/media/ae24a9_b58e6a6d28c84524a0b5b92b6c1779c6~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_89a08c2fafe7431192a5d02a9e2146ac~mv2.jpg",
+        "alt": "User Story",
+        "url": "https://static.wixstatic.com/media/ae24a9_89a08c2fafe7431192a5d02a9e2146ac~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_f1ae3531ab594f31bd3990bae46ecc23~mv2.jpg",
+        "alt": "Persona",
+        "url": "https://static.wixstatic.com/media/ae24a9_f1ae3531ab594f31bd3990bae46ecc23~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_0b484200555d4f87bd6bc0c347d2d06e~mv2.jpg",
+        "alt": "User Taskflow",
+        "url": "https://static.wixstatic.com/media/ae24a9_0b484200555d4f87bd6bc0c347d2d06e~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_89a08c2fafe7431192a5d02a9e2146ac~mv2.jpg",
+        "alt": "User Story",
+        "url": "https://static.wixstatic.com/media/ae24a9_89a08c2fafe7431192a5d02a9e2146ac~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_4e87ab50f21049bf9cc49e9fc877a43e~mv2.jpg",
+        "alt": "Style Guide",
+        "url": "https://static.wixstatic.com/media/ae24a9_4e87ab50f21049bf9cc49e9fc877a43e~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_1ce07347f9f048268ab1449398b22197~mv2.jpg",
+        "alt": "Style Guide",
+        "url": "https://static.wixstatic.com/media/ae24a9_1ce07347f9f048268ab1449398b22197~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_93c0990814c343b4a2f5377bf643e659~mv2.jpg",
+        "alt": "Style Guide",
+        "url": "https://static.wixstatic.com/media/ae24a9_93c0990814c343b4a2f5377bf643e659~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_4e87ab50f21049bf9cc49e9fc877a43e~mv2.jpg",
+        "alt": "Style Guide",
+        "url": "https://static.wixstatic.com/media/ae24a9_4e87ab50f21049bf9cc49e9fc877a43e~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_ac4b9bd2f6cd4412a056ca2b03693455~mv2.jpg",
+        "alt": "Iteration & Refinement",
+        "url": "https://static.wixstatic.com/media/ae24a9_ac4b9bd2f6cd4412a056ca2b03693455~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_31e478ec94d9450d9316203ec436e069~mv2.jpg",
+        "alt": "Iteration & Refinement",
+        "url": "https://static.wixstatic.com/media/ae24a9_31e478ec94d9450d9316203ec436e069~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_99ad990c1d104aee9b5c825e336c797f~mv2.jpg",
+        "alt": "Iteration & Refinement",
+        "url": "https://static.wixstatic.com/media/ae24a9_99ad990c1d104aee9b5c825e336c797f~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_ac4b9bd2f6cd4412a056ca2b03693455~mv2.jpg",
+        "alt": "Iteration & Refinement",
+        "url": "https://static.wixstatic.com/media/ae24a9_ac4b9bd2f6cd4412a056ca2b03693455~mv2.jpg"
+      },
+      {
+        "id": "img_0_comp-mk8i752z",
+        "name": "wix-01c3aff52f2a4dffa526d7a9843d46ea.png",
+        "alt": "Instagram",
+        "url": "https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png"
+      },
+      {
+        "id": "img_1_comp-mk8i752z",
+        "name": "wix-6ea5b4a88f0b4f91945b40499aa0af00.png",
+        "alt": "LinkedIn",
+        "url": "https://static.wixstatic.com/media/6ea5b4a88f0b4f91945b40499aa0af00.png"
+      }
+    ]
+  },
+  "copy-of-project-5-mytransport-sg": {
+    "blocks": {
+      "comp-m3d2e4qn6": {
+        "id": "comp-m3d2e4qn6",
+        "paragraphs": [
+          "Ang Kai Ming"
+        ],
+        "text": "Ang Kai Ming",
+        "html": "<p><span style=\"text-decoration:underline\"><a href=\"https://mingkaiang69.wixsite.com/portfolio\" target=\"_blank\" rel=\"noopener\"><span>Ang Kai Ming</span></a></span></p>"
+      },
+      "comp-mvhxeetc": {
+        "id": "comp-mvhxeetc",
+        "paragraphs": [
+          "InNav | 2026-2027 (WIP)"
+        ],
+        "text": "InNav | 2026-2027 (WIP)",
+        "html": "<h1><span style=\"color:#3D9BE9\"><span><span>InNav | 2026-2027 (WIP)</span></span></span></h1>"
+      },
+      "comp-mvhxeetd": {
+        "id": "comp-mvhxeetd",
+        "paragraphs": [
+          "Project Manager | UX & Product Design"
+        ],
+        "text": "Project Manager | UX & Product Design",
+        "html": "<p><span><span style=\"color:#3D9BE9\"><span>Project Manager | UX &amp; Product Design</span></span></span></p>"
+      },
+      "comp-mvhxeete": {
+        "id": "comp-mvhxeete",
+        "paragraphs": [
+          "Theme"
+        ],
+        "text": "Theme",
+        "html": "<p><span style=\"color:#3D9BE9\"><span><span>Theme</span></span></span></p>"
+      },
+      "comp-mvhxeete6": {
+        "id": "comp-mvhxeete6",
+        "paragraphs": [
+          "Platform | Ecosystem"
+        ],
+        "text": "Platform | Ecosystem",
+        "html": "<p><span><span><span style=\"font-weight:normal\">Platform | Ecosystem</span></span></span></p>"
+      },
+      "comp-mvhxunib": {
+        "id": "comp-mvhxunib",
+        "paragraphs": [
+          "Tools"
+        ],
+        "text": "Tools",
+        "html": "<p><span style=\"color:rgb(61, 155, 233)\">Tools</span></p>"
+      },
+      "comp-mvhxeetg2": {
+        "id": "comp-mvhxeetg2",
+        "paragraphs": [
+          "Jira | Photoshop | Canva | ChatGPT"
+        ],
+        "text": "Jira | Photoshop | Canva | ChatGPT",
+        "html": "<p><span><span><span style=\"font-weight:normal\">Jira | Photoshop | Canva | ChatGPT</span></span></span></p>"
+      },
+      "comp-mvhxeetf5": {
+        "id": "comp-mvhxeetf5",
+        "paragraphs": [
+          "Status"
+        ],
+        "text": "Status",
+        "html": "<p><span style=\"color:rgb(61, 155, 233)\">Status</span></p>"
+      },
+      "comp-mvhxv2a3": {
+        "id": "comp-mvhxv2a3",
+        "paragraphs": [
+          "Work in Progress"
+        ],
+        "text": "Work in Progress",
+        "html": "<p><span><span><span style=\"font-weight:normal\">Work in Progress</span></span></span></p>"
+      },
+      "comp-mvhxeetk2": {
+        "id": "comp-mvhxeetk2",
+        "paragraphs": [
+          "About the Design"
+        ],
+        "text": "About the Design",
+        "html": "<h2><span><span>About the Design</span></span></h2>"
+      },
+      "comp-mvhxeetm": {
+        "id": "comp-mvhxeetm",
+        "paragraphs": [
+          "InNav is an indoor navigation system designed to help users navigate complex multi-storey buildings, such as educational institutions, offices, and public facilities. Unlike conventional navigation applications that primarily focus on outdoor routes, InNav aims to bridge the gap between outdoor and indoor navigation by providing intuitive wayfinding across rooms, corridors, and multiple floors.",
+          "The project consists of two main components: an Environment Editor, which allows building layouts to be created and configured, and a Navigation Runtime, which enables users to explore indoor environments and find routes to their destinations. Developed using Unreal Engine 5, the system is designed to be flexible and adaptable to different buildings, with future plans to explore augmented reality (AR) navigation.",
+          "As an ongoing team project, my focus is on project management, user experience design, product planning, and coordinating development to ensure the system remains intuitive, accessible, and technically feasible."
+        ],
+        "text": "InNav is an indoor navigation system designed to help users navigate complex multi-storey buildings, such as educational institutions, offices, and public facilities. Unlike conventional navigation applications that primarily focus on outdoor routes, InNav aims to bridge the gap between outdoor and indoor navigation by providing intuitive wayfinding across rooms, corridors, and multiple floors.\n\nThe project consists of two main components: an Environment Editor, which allows building layouts to be created and configured, and a Navigation Runtime, which enables users to explore indoor environments and find routes to their destinations. Developed using Unreal Engine 5, the system is designed to be flexible and adaptable to different buildings, with future plans to explore augmented reality (AR) navigation.\n\nAs an ongoing team project, my focus is on project management, user experience design, product planning, and coordinating development to ensure the system remains intuitive, accessible, and technically feasible.",
+        "html": "<p>InNav is an indoor navigation system designed to help users navigate complex multi-storey buildings, such as educational institutions, offices, and public facilities. Unlike conventional navigation applications that primarily focus on outdoor routes, InNav aims to bridge the gap between outdoor and indoor navigation by providing intuitive wayfinding across rooms, corridors, and multiple floors.</p>\n\n<p><span>​</span></p>\n\n<p>The project consists of two main components: an Environment Editor, which allows building layouts to be created and configured, and a Navigation Runtime, which enables users to explore indoor environments and find routes to their destinations. Developed using Unreal Engine 5, the system is designed to be flexible and adaptable to different buildings, with future plans to explore augmented reality (AR) navigation.</p>\n\n<p><span>​</span></p>\n\n<p>As an ongoing team project, my focus is on project management, user experience design, product planning, and coordinating development to ensure the system remains intuitive, accessible, and technically feasible.</p>\n\n<p><span>​</span></p>"
+      },
+      "comp-mvhxeetp": {
+        "id": "comp-mvhxeetp",
+        "paragraphs": [
+          "My Contributions"
+        ],
+        "text": "My Contributions",
+        "html": "<h2><span><span>My Contributions</span></span></h2>"
+      },
+      "comp-mvhxeetq4": {
+        "id": "comp-mvhxeetq4",
+        "paragraphs": [
+          "Research & Product Planning"
+        ],
+        "text": "Research & Product Planning",
+        "html": "<h3><span><span style=\"font-weight:bold\"><span>Research &amp; Product Planning</span></span></span></h3>"
+      },
+      "comp-mvhxeetr2": {
+        "id": "comp-mvhxeetr2",
+        "paragraphs": [
+          "UX Architecture & Wireframing"
+        ],
+        "text": "UX Architecture & Wireframing",
+        "html": "<h3><span><span style=\"font-weight:bold\"><span>UX Architecture &amp; Wireframing</span></span></span></h3>"
+      },
+      "comp-mvhxeets": {
+        "id": "comp-mvhxeets",
+        "paragraphs": [
+          "Visual Design & High-Fidelity Prototyping"
+        ],
+        "text": "Visual Design & High-Fidelity Prototyping",
+        "html": "<h3><span style=\"font-weight:bold\"><span><span>Visual Design &amp; High-Fidelity Prototyping</span></span></span></h3>"
+      },
+      "comp-mvhxeets6": {
+        "id": "comp-mvhxeets6",
+        "paragraphs": [
+          "Project Management & Team Coordination"
+        ],
+        "text": "Project Management & Team Coordination",
+        "html": "<h3><span style=\"font-weight:bold\"><span><span>Project Management &amp; Team Coordination</span></span></span></h3>"
+      },
+      "comp-mvixn3ax": {
+        "id": "comp-mvixn3ax",
+        "paragraphs": [
+          "Prototype Review & Design Iteration"
+        ],
+        "text": "Prototype Review & Design Iteration",
+        "html": "<h3><span style=\"font-weight:bold\"><span><span>Prototype Review &amp; Design Iteration</span></span></span></h3>"
+      },
+      "comp-mvhxeeu31": {
+        "id": "comp-mvhxeeu31",
+        "paragraphs": [
+          "I began by identifying the challenges of navigating unfamiliar indoor environments, particularly in large, multi-storey buildings. Working with my team, I helped establish the project's problem statement, target audiences, and core objectives. We focused on the needs of students, visitors, and staff, identifying common difficulties such as locating specific rooms and navigating between floors. These findings guided our product requirements and helped define InNav as a flexible indoor navigation system adaptable to different buildings."
+        ],
+        "text": "I began by identifying the challenges of navigating unfamiliar indoor environments, particularly in large, multi-storey buildings. Working with my team, I helped establish the project's problem statement, target audiences, and core objectives. We focused on the needs of students, visitors, and staff, identifying common difficulties such as locating specific rooms and navigating between floors. These findings guided our product requirements and helped define InNav as a flexible indoor navigation system adaptable to different buildings.",
+        "html": "<p><span>I began by identifying the challenges of navigating unfamiliar indoor environments, particularly in large, multi-storey buildings. Working with my team, I helped establish the project&#x27;s problem statement, target audiences, and core objectives. We focused on the needs of students, visitors, and staff, identifying common difficulties such as locating specific rooms and navigating between floors. These findings guided our product requirements and helped define InNav as a flexible indoor navigation system adaptable to different buildings.</span></p>\n\n<p><span><span>​</span></span></p>"
+      },
+      "comp-mvhxeeu87": {
+        "id": "comp-mvhxeeu87",
+        "paragraphs": [
+          "Moving into the design phase, I contributed to planning the user experience for both the Environment Editor and Navigation Runtime. I explored how users would interact with essential features, including building selection, environment editing, destination searching, and multi-floor navigation. Through paper prototypes, I helped establish intuitive layouts and interaction flows that prioritised usability and simplicity. These designs provided the foundation for our high-fidelity prototypes and served as references for the technical team."
+        ],
+        "text": "Moving into the design phase, I contributed to planning the user experience for both the Environment Editor and Navigation Runtime. I explored how users would interact with essential features, including building selection, environment editing, destination searching, and multi-floor navigation. Through paper prototypes, I helped establish intuitive layouts and interaction flows that prioritised usability and simplicity. These designs provided the foundation for our high-fidelity prototypes and served as references for the technical team.",
+        "html": "<p><span><span>Moving into the design phase, I contributed to planning the user experience for both the Environment Editor and Navigation Runtime. I explored how users would interact with essential features, including building selection, environment editing, destination searching, and multi-floor navigation. Through paper prototypes, I helped establish intuitive layouts and interaction flows that prioritised usability and simplicity. These designs provided the foundation for our high-fidelity prototypes and served as references for the technical team.</span></span></p>\n\n<p><span><span><span>​</span></span></span></p>"
+      },
+      "comp-mvhxeeua8": {
+        "id": "comp-mvhxeeua8",
+        "paragraphs": [
+          "I contributed to establishing InNav's visual identity through style guide development, interface design, and interactive prototyping. My focus was on creating a modern, clean, and consistent interface that balanced visual appeal with functionality. I also worked on refining the interface layouts to ensure that the Navigation Runtime remained intuitive."
+        ],
+        "text": "I contributed to establishing InNav's visual identity through style guide development, interface design, and interactive prototyping. My focus was on creating a modern, clean, and consistent interface that balanced visual appeal with functionality. I also worked on refining the interface layouts to ensure that the Navigation Runtime remained intuitive.",
+        "html": "<p><span>I contributed to establishing InNav&#x27;s visual identity through style guide development, interface design, and interactive prototyping. My focus was on creating a modern, clean, and consistent interface that balanced visual appeal with functionality. I also worked on refining the interface layouts to ensure that the Navigation Runtime remained intuitive.</span></p>\n\n<p><span><span>​</span></span></p>"
+      },
+      "comp-mvhxeeuc": {
+        "id": "comp-mvhxeeuc",
+        "paragraphs": [
+          "As the project manager, I oversee the team's progress, coordinate responsibilities, and ensure development remains aligned with our objectives and milestone requirements. I help break down project requirements into manageable tasks, establish priorities, and monitor implementation progress across the design and technical teams. A key responsibility involves managing project scope, ensuring essential MVP features are prioritised while balancing technical feasibility, available resources, and deadlines. I also facilitate discussions and coordinate feedback to maintain a consistent product direction."
+        ],
+        "text": "As the project manager, I oversee the team's progress, coordinate responsibilities, and ensure development remains aligned with our objectives and milestone requirements. I help break down project requirements into manageable tasks, establish priorities, and monitor implementation progress across the design and technical teams. A key responsibility involves managing project scope, ensuring essential MVP features are prioritised while balancing technical feasibility, available resources, and deadlines. I also facilitate discussions and coordinate feedback to maintain a consistent product direction.",
+        "html": "<p><span>As the project manager, I oversee the team&#x27;s progress, coordinate responsibilities, and ensure development remains aligned with our objectives and milestone requirements. I help break down project requirements into manageable tasks, establish priorities, and monitor implementation progress across the design and technical teams. A key responsibility involves managing project scope, ensuring essential MVP features are prioritised while balancing technical feasibility, available resources, and deadlines. I also facilitate discussions and coordinate feedback to maintain a consistent product direction.</span></p>\n\n<p><span><span>​</span></span></p>"
+      },
+      "comp-mvixnkoh": {
+        "id": "comp-mvixnkoh",
+        "paragraphs": [
+          "Throughout development, I review the team's implementations to evaluate their consistency with our intended user experience and design requirements. This includes comparing our interactive web prototypes with the Unreal Engine application, identifying missing functionality, unnecessary interface elements, and opportunities for improvement. Based on these observations, I help refine the interface structure, editing workflows, and overall interaction design. This iterative approach allows us to progressively improve the product while ensuring design decisions remain practical for implementation."
+        ],
+        "text": "Throughout development, I review the team's implementations to evaluate their consistency with our intended user experience and design requirements. This includes comparing our interactive web prototypes with the Unreal Engine application, identifying missing functionality, unnecessary interface elements, and opportunities for improvement. Based on these observations, I help refine the interface structure, editing workflows, and overall interaction design. This iterative approach allows us to progressively improve the product while ensuring design decisions remain practical for implementation.",
+        "html": "<p><span>Throughout development, I review the team&#x27;s implementations to evaluate their consistency with our intended user experience and design requirements. This includes comparing our interactive web prototypes with the Unreal Engine application, identifying missing functionality, unnecessary interface elements, and opportunities for improvement. Based on these observations, I help refine the interface structure, editing workflows, and overall interaction design. This iterative approach allows us to progressively improve the product while ensuring design decisions remain practical for implementation.</span></p>"
+      },
+      "comp-m3d2e4qw6": {
+        "id": "comp-m3d2e4qw6",
+        "paragraphs": [
+          "Ang Kai Ming"
+        ],
+        "text": "Ang Kai Ming",
+        "html": "<p><span><a href=\"https://mingkaiang69.wixsite.com/portfolio/home\" target=\"_blank\" rel=\"noopener\">Ang Kai Ming</a></span></p>"
+      },
+      "comp-mk729d14": {
+        "id": "comp-mk729d14",
+        "paragraphs": [
+          "Follow"
+        ],
+        "text": "Follow",
+        "html": "<h3><span>Follow</span></h3>"
+      },
+      "comp-mk72qq68": {
+        "id": "comp-mk72qq68",
+        "paragraphs": [
+          "Contact Me"
+        ],
+        "text": "Contact Me",
+        "html": "<h3><span>Contact Me</span></h3>"
+      },
+      "comp-mk72wb29": {
+        "id": "comp-mk72wb29",
+        "paragraphs": [
+          "mingkaiang69@gmail.com"
+        ],
+        "text": "mingkaiang69@gmail.com",
+        "html": "<p><a href=\"mailto:mingkaiang69@gmail.com\" target=\"_blank\" rel=\"noopener\">mingkaiang69@gmail.com</a></p>"
+      },
+      "comp-m3d2jg1c": {
+        "id": "comp-m3d2jg1c",
+        "paragraphs": [
+          "© 2026 by Ang Kai Ming"
+        ],
+        "text": "© 2026 by Ang Kai Ming",
+        "html": "<p>© 2026 by Ang Kai Ming</p>"
+      },
+      "comp-mkco6agd": {
+        "id": "comp-mkco6agd",
+        "paragraphs": [
+          "More"
+        ],
+        "text": "More",
+        "html": "<h3><span>More</span></h3>"
+      },
+      "comp-mkco6agx": {
+        "id": "comp-mkco6agx",
+        "paragraphs": [
+          "About"
+        ],
+        "text": "About",
+        "html": "<p><span style=\"text-decoration:underline\"><a href=\"https://mingkaiang69.wixsite.com/portfolio/about\" target=\"_blank\" rel=\"noopener\">About</a></span></p>"
+      },
+      "comp-mkco6ahk": {
+        "id": "comp-mkco6ahk",
+        "paragraphs": [
+          "Resume"
+        ],
+        "text": "Resume",
+        "html": "<p><span style=\"text-decoration:underline\"><a href=\"https://cc435e8b-2b08-4a59-99e6-2c1532577d3f.filesusr.com/ugd/ae24a9_e8f758d4d06f4537bbf628da630b28cb.pdf\" target=\"_blank\" rel=\"noopener\">Resume</a></span></p>"
+      }
+    },
+    "images": [
+      {
+        "id": "",
+        "name": "wix-ae24a9_7d7f8dd098a248c6a55bf2d299185f62~mv2.jpg",
+        "alt": "arcarde style pixel game art.jpg",
+        "url": "https://static.wixstatic.com/media/ae24a9_7d7f8dd098a248c6a55bf2d299185f62~mv2.jpg"
+      },
+      {
+        "id": "img_comp-mvhxeetl",
+        "name": "wix-ae24a9_9d4f74a06f954d3bb03a037aeb7b878e~mv2.png",
+        "alt": "Screenshot 2026-10-21 175933.png",
+        "url": "https://static.wixstatic.com/media/ae24a9_9d4f74a06f954d3bb03a037aeb7b878e~mv2.png"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_e5d36b3191bb44b49c31991add623c8f~mv2.jpg",
+        "alt": "editor1",
+        "url": "https://static.wixstatic.com/media/ae24a9_e5d36b3191bb44b49c31991add623c8f~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_e87503b5d94e4acea50054fc0f4b1275~mv2.jpg",
+        "alt": "editor2",
+        "url": "https://static.wixstatic.com/media/ae24a9_e87503b5d94e4acea50054fc0f4b1275~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_c8cec430e44e416aa25e804e70162b5c~mv2.jpg",
+        "alt": "app3",
+        "url": "https://static.wixstatic.com/media/ae24a9_c8cec430e44e416aa25e804e70162b5c~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_e5d36b3191bb44b49c31991add623c8f~mv2.jpg",
+        "alt": "editor1",
+        "url": "https://static.wixstatic.com/media/ae24a9_e5d36b3191bb44b49c31991add623c8f~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_9d4f74a06f954d3bb03a037aeb7b878e~mv2.png",
+        "alt": "Prototype",
+        "url": "https://static.wixstatic.com/media/ae24a9_9d4f74a06f954d3bb03a037aeb7b878e~mv2.png"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_9d4f74a06f954d3bb03a037aeb7b878e~mv2.png",
+        "alt": "Prototype",
+        "url": "https://static.wixstatic.com/media/ae24a9_9d4f74a06f954d3bb03a037aeb7b878e~mv2.png"
+      },
+      {
+        "id": "img_0_comp-mk8i752z",
+        "name": "wix-01c3aff52f2a4dffa526d7a9843d46ea.png",
+        "alt": "Instagram",
+        "url": "https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png"
+      },
+      {
+        "id": "img_1_comp-mk8i752z",
+        "name": "wix-6ea5b4a88f0b4f91945b40499aa0af00.png",
+        "alt": "LinkedIn",
+        "url": "https://static.wixstatic.com/media/6ea5b4a88f0b4f91945b40499aa0af00.png"
+      }
+    ]
+  },
+  "design-nibble-cookies": {
+    "blocks": {
+      "comp-m3d2e4qn6": {
+        "id": "comp-m3d2e4qn6",
+        "paragraphs": [
+          "Ang Kai Ming"
+        ],
+        "text": "Ang Kai Ming",
+        "html": "<p><span style=\"text-decoration:underline\"><a href=\"https://mingkaiang69.wixsite.com/portfolio\" target=\"_blank\" rel=\"noopener\"><span>Ang Kai Ming</span></a></span></p>"
+      },
+      "comp-mlxsn52b": {
+        "id": "comp-mlxsn52b",
+        "paragraphs": [
+          "Nibble Cookies | 2025"
+        ],
+        "text": "Nibble Cookies | 2025",
+        "html": "<h1><span style=\"color:#3D9BE9\"><span><span>Nibble Cookies | 2025</span></span></span></h1>"
+      },
+      "comp-mlxsn52b6": {
+        "id": "comp-mlxsn52b6",
+        "paragraphs": [
+          "UI/UX Designer"
+        ],
+        "text": "UI/UX Designer",
+        "html": "<p><span><span style=\"color:#3D9BE9\"><span>UI/UX Designer</span></span></span></p>"
+      },
+      "comp-mlxsn52c5": {
+        "id": "comp-mlxsn52c5",
+        "paragraphs": [
+          "Theme"
+        ],
+        "text": "Theme",
+        "html": "<p><span style=\"color:#3D9BE9\"><span><span>Theme</span></span></span></p>"
+      },
+      "comp-mlxsn52g": {
+        "id": "comp-mlxsn52g",
+        "paragraphs": [
+          "E-commerce | Food & Business"
+        ],
+        "text": "E-commerce | Food & Business",
+        "html": "<p><span><span><span style=\"font-weight:normal\">E-commerce | Food &amp; Business</span></span></span></p>"
+      },
+      "comp-mlxsn52g6": {
+        "id": "comp-mlxsn52g6",
+        "paragraphs": [
+          "Tools"
+        ],
+        "text": "Tools",
+        "html": "<p><span style=\"color:rgb(61, 155, 233)\">Tools</span></p>"
+      },
+      "comp-mlxsn52h4": {
+        "id": "comp-mlxsn52h4",
+        "paragraphs": [
+          "Figma | Photoshop | Canva"
+        ],
+        "text": "Figma | Photoshop | Canva",
+        "html": "<p><span><span><span style=\"font-weight:normal\">Figma | Photoshop | Canva</span></span></span></p>"
+      },
+      "comp-mlxsn52j7": {
+        "id": "comp-mlxsn52j7",
+        "paragraphs": [
+          "About the Design"
+        ],
+        "text": "About the Design",
+        "html": "<h2><span><span>About the Design</span></span></h2>"
+      },
+      "comp-mlysvtd4": {
+        "id": "comp-mlysvtd4",
+        "paragraphs": [
+          "A responsive, brand-focused digital platform designed to provide a seamless transition between high-fidelity desktop browsing and optimised mobile interactions. The project emphasises visual storytelling and functional minimalism, ensuring that brand identity remains consistent across all screen resolutions."
+        ],
+        "text": "A responsive, brand-focused digital platform designed to provide a seamless transition between high-fidelity desktop browsing and optimised mobile interactions. The project emphasises visual storytelling and functional minimalism, ensuring that brand identity remains consistent across all screen resolutions.",
+        "html": "<p><span><span>A responsive, brand-focused digital platform designed to provide a seamless transition between high-fidelity desktop browsing and optimised mobile interactions. The project emphasises visual storytelling and functional minimalism, ensuring that brand identity remains consistent across all screen resolutions.</span></span><span><span><span>​</span></span></span><span><span><span>​</span></span></span></p>\n\n<p><span><span><span>​</span></span></span></p>\n\n<p><span><span><span>​</span></span></span></p>\n\n<p><span><span><span>​</span></span></span></p>"
+      },
+      "comp-mlxsn52q": {
+        "id": "comp-mlxsn52q",
+        "paragraphs": [
+          "My Contributions (Solo Project)"
+        ],
+        "text": "My Contributions (Solo Project)",
+        "html": "<h2><span><span>My Contributions (Solo Project)</span></span></h2>"
+      },
+      "comp-mlxsn52r5": {
+        "id": "comp-mlxsn52r5",
+        "paragraphs": [
+          "Project Overview & Research"
+        ],
+        "text": "Project Overview & Research",
+        "html": "<h3><span><span style=\"font-weight:bold\"><span>Project Overview &amp; Research</span></span></span></h3>"
+      },
+      "comp-mlxsn52s3": {
+        "id": "comp-mlxsn52s3",
+        "paragraphs": [
+          "Architectural UX & Figma Prototyping"
+        ],
+        "text": "Architectural UX & Figma Prototyping",
+        "html": "<h3><span><span style=\"font-weight:bold\"><span>Architectural UX &amp; Figma Prototyping</span></span></span></h3>"
+      },
+      "comp-mlxsn52s9": {
+        "id": "comp-mlxsn52s9",
+        "paragraphs": [
+          "High-Fidelity Design & Photoshop Polish"
+        ],
+        "text": "High-Fidelity Design & Photoshop Polish",
+        "html": "<h3><span style=\"font-weight:bold\"><span><span>High-Fidelity Design &amp; Photoshop Polish</span></span></span></h3>"
+      },
+      "comp-mlxsn52t5": {
+        "id": "comp-mlxsn52t5",
+        "paragraphs": [
+          "Mobile Adaptation & Responsive Transition"
+        ],
+        "text": "Mobile Adaptation & Responsive Transition",
+        "html": "<h3><span style=\"font-weight:bold\"><span><span>Mobile Adaptation &amp; Responsive Transition</span></span></span></h3>"
+      },
+      "comp-mlxsn52x7": {
+        "id": "comp-mlxsn52x7",
+        "paragraphs": [
+          "Before a single pixel was placed, I dove into the \"why\" behind the cookie-buying experience. I conducted competitor audits and user research to identify pain points, specifically the lack of sensory appeal in digital food shopping. I then curated a visual identity through moodboards, selecting a light pastel colour palette and choosing typography that balances modern readability with a playful, artisanal feel."
+        ],
+        "text": "Before a single pixel was placed, I dove into the \"why\" behind the cookie-buying experience. I conducted competitor audits and user research to identify pain points, specifically the lack of sensory appeal in digital food shopping. I then curated a visual identity through moodboards, selecting a light pastel colour palette and choosing typography that balances modern readability with a playful, artisanal feel.",
+        "html": "<p><span>Before a single pixel was placed, I dove into the &quot;why&quot; behind the cookie-buying experience. I conducted competitor audits and user research to identify pain points, specifically the lack of sensory appeal in digital food shopping. I then curated a visual identity through moodboards, selecting a light pastel colour palette and choosing typography that balances modern readability with a playful, artisanal feel.</span></p>"
+      },
+      "comp-mlxsn5314": {
+        "id": "comp-mlxsn5314",
+        "paragraphs": [
+          "With the visual direction set, I moved into Figma to build the skeleton of the desktop experience. I focused on creating a frictionless User Flow that guides the customer from a \"hero\" product discovery to a streamlined checkout in under four clicks. This stage was about defining the hierarchy of information, ensuring that the navigation was intuitive and that the interactive components felt responsive and logical."
+        ],
+        "text": "With the visual direction set, I moved into Figma to build the skeleton of the desktop experience. I focused on creating a frictionless User Flow that guides the customer from a \"hero\" product discovery to a streamlined checkout in under four clicks. This stage was about defining the hierarchy of information, ensuring that the navigation was intuitive and that the interactive components felt responsive and logical.",
+        "html": "<p><span><span>With the visual direction set, I moved into Figma to build the skeleton of the desktop experience. I focused on creating a frictionless User Flow that guides the customer from a &quot;hero&quot; product discovery to a streamlined checkout in under four clicks. This stage was about defining the hierarchy of information, ensuring that the navigation was intuitive and that the interactive components felt responsive and logical.</span></span></p>\n\n<p><span><span><span>​</span></span></span></p>"
+      },
+      "comp-mlxsn534": {
+        "id": "comp-mlxsn534",
+        "paragraphs": [
+          "To elevate the site from a functional tool to an immersive brand experience, I utilised Photoshop to craft high-fidelity assets. I focused on \"appetite appeal,\" retouching product photography to ensure the textures looked crisp and inviting. By applying depth, subtle shadows, and lighting effects to the UI elements, I transformed the flat wireframes into a \"tasty\" interface that mirrors the premium quality of the product."
+        ],
+        "text": "To elevate the site from a functional tool to an immersive brand experience, I utilised Photoshop to craft high-fidelity assets. I focused on \"appetite appeal,\" retouching product photography to ensure the textures looked crisp and inviting. By applying depth, subtle shadows, and lighting effects to the UI elements, I transformed the flat wireframes into a \"tasty\" interface that mirrors the premium quality of the product.",
+        "html": "<p><span>To elevate the site from a functional tool to an immersive brand experience, I utilised Photoshop to craft high-fidelity assets. I focused on &quot;appetite appeal,&quot; retouching product photography to ensure the textures looked crisp and inviting. By applying depth, subtle shadows, and lighting effects to the UI elements, I transformed the flat wireframes into a &quot;tasty&quot; interface that mirrors the premium quality of the product.</span></p>\n\n<p><span><span>​</span></span></p>"
+      },
+      "comp-mlxsn537": {
+        "id": "comp-mlxsn537",
+        "paragraphs": [
+          "The final phase involved translating the expansive desktop experience into a compact, mobile-first application. To ensure this transition was effective, I implemented A/B testing on key interface elements, such as button placement and navigation styles. By comparing user interactions across two different layouts, I was able to identify which design allowed for the most intuitive flow on a smaller screen. This process informed my redesign of the interaction model for touch—optimising for thumb-reachability and simplifying the UI while ensuring the brand’s visual \"crunch\" remained consistent and functional across all devices."
+        ],
+        "text": "The final phase involved translating the expansive desktop experience into a compact, mobile-first application. To ensure this transition was effective, I implemented A/B testing on key interface elements, such as button placement and navigation styles. By comparing user interactions across two different layouts, I was able to identify which design allowed for the most intuitive flow on a smaller screen. This process informed my redesign of the interaction model for touch—optimising for thumb-reachability and simplifying the UI while ensuring the brand’s visual \"crunch\" remained consistent and functional across all devices.",
+        "html": "<p><span>The final phase involved translating the expansive desktop experience into a compact, mobile-first application. To ensure this transition was effective, I implemented A/B testing on key interface elements, such as button placement and navigation styles. By comparing user interactions across two different layouts, I was able to identify which design allowed for the most intuitive flow on a smaller screen. This process informed my redesign of the interaction model for touch—optimising for thumb-reachability and simplifying the UI while ensuring the brand’s visual &quot;crunch&quot; remained consistent and functional across all devices.</span></p>\n\n<p><span><span>​</span></span></p>"
+      },
+      "comp-m3d2e4qw6": {
+        "id": "comp-m3d2e4qw6",
+        "paragraphs": [
+          "Ang Kai Ming"
+        ],
+        "text": "Ang Kai Ming",
+        "html": "<p><span><a href=\"https://mingkaiang69.wixsite.com/portfolio/home\" target=\"_blank\" rel=\"noopener\">Ang Kai Ming</a></span></p>"
+      },
+      "comp-mk729d14": {
+        "id": "comp-mk729d14",
+        "paragraphs": [
+          "Follow"
+        ],
+        "text": "Follow",
+        "html": "<h3><span>Follow</span></h3>"
+      },
+      "comp-mk72qq68": {
+        "id": "comp-mk72qq68",
+        "paragraphs": [
+          "Contact Me"
+        ],
+        "text": "Contact Me",
+        "html": "<h3><span>Contact Me</span></h3>"
+      },
+      "comp-mk72wb29": {
+        "id": "comp-mk72wb29",
+        "paragraphs": [
+          "mingkaiang69@gmail.com"
+        ],
+        "text": "mingkaiang69@gmail.com",
+        "html": "<p><a href=\"mailto:mingkaiang69@gmail.com\" target=\"_blank\" rel=\"noopener\">mingkaiang69@gmail.com</a></p>"
+      },
+      "comp-m3d2jg1c": {
+        "id": "comp-m3d2jg1c",
+        "paragraphs": [
+          "© 2026 by Ang Kai Ming"
+        ],
+        "text": "© 2026 by Ang Kai Ming",
+        "html": "<p>© 2026 by Ang Kai Ming</p>"
+      },
+      "comp-mkco6agd": {
+        "id": "comp-mkco6agd",
+        "paragraphs": [
+          "More"
+        ],
+        "text": "More",
+        "html": "<h3><span>More</span></h3>"
+      },
+      "comp-mkco6agx": {
+        "id": "comp-mkco6agx",
+        "paragraphs": [
+          "About"
+        ],
+        "text": "About",
+        "html": "<p><span style=\"text-decoration:underline\"><a href=\"https://mingkaiang69.wixsite.com/portfolio/about\" target=\"_blank\" rel=\"noopener\">About</a></span></p>"
+      },
+      "comp-mkco6ahk": {
+        "id": "comp-mkco6ahk",
+        "paragraphs": [
+          "Resume"
+        ],
+        "text": "Resume",
+        "html": "<p><span style=\"text-decoration:underline\"><a href=\"https://cc435e8b-2b08-4a59-99e6-2c1532577d3f.filesusr.com/ugd/ae24a9_e8f758d4d06f4537bbf628da630b28cb.pdf\" target=\"_blank\" rel=\"noopener\">Resume</a></span></p>"
+      }
+    },
+    "images": [
+      {
+        "id": "",
+        "name": "wix-ae24a9_7d7f8dd098a248c6a55bf2d299185f62~mv2.jpg",
+        "alt": "arcarde style pixel game art.jpg",
+        "url": "https://static.wixstatic.com/media/ae24a9_7d7f8dd098a248c6a55bf2d299185f62~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_2109af0ca6244bbfa8a1675220e67fac~mv2.png",
+        "alt": "nibble.png",
+        "url": "https://static.wixstatic.com/media/ae24a9_2109af0ca6244bbfa8a1675220e67fac~mv2.png"
+      },
+      {
+        "id": "img_comp-mlysptp7",
+        "name": "wix-ae24a9_2109af0ca6244bbfa8a1675220e67fac~mv2.png",
+        "alt": "",
+        "url": "https://static.wixstatic.com/media/ae24a9_2109af0ca6244bbfa8a1675220e67fac~mv2.png"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_dd16bdf023e447ad96078d483a1f90c1~mv2.jpg",
+        "alt": "Primary Palette",
+        "url": "https://static.wixstatic.com/media/ae24a9_dd16bdf023e447ad96078d483a1f90c1~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_6a12d4aaef2a4ef7a43e9d54d688f98f~mv2.jpg",
+        "alt": "Accent Palette",
+        "url": "https://static.wixstatic.com/media/ae24a9_6a12d4aaef2a4ef7a43e9d54d688f98f~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_d49699d1328940089f731b6b3c3b66f5~mv2.jpg",
+        "alt": "Logo Variations",
+        "url": "https://static.wixstatic.com/media/ae24a9_d49699d1328940089f731b6b3c3b66f5~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_dd16bdf023e447ad96078d483a1f90c1~mv2.jpg",
+        "alt": "Primary Palette",
+        "url": "https://static.wixstatic.com/media/ae24a9_dd16bdf023e447ad96078d483a1f90c1~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_2cd320de91d94013a550d8043d11b1bc~mv2.jpg",
+        "alt": "Wireframe: Home Page",
+        "url": "https://static.wixstatic.com/media/ae24a9_2cd320de91d94013a550d8043d11b1bc~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_9538e65998ee4ec08f11057c011b9c7c~mv2.jpg",
+        "alt": "Wireframe: Shop Page",
+        "url": "https://static.wixstatic.com/media/ae24a9_9538e65998ee4ec08f11057c011b9c7c~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_1fbc9f6f306247bd866718172ab666f3~mv2.jpg",
+        "alt": "Wireframe: Create Account Page",
+        "url": "https://static.wixstatic.com/media/ae24a9_1fbc9f6f306247bd866718172ab666f3~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_2cd320de91d94013a550d8043d11b1bc~mv2.jpg",
+        "alt": "Wireframe: Home Page",
+        "url": "https://static.wixstatic.com/media/ae24a9_2cd320de91d94013a550d8043d11b1bc~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_75b61684bb95437b96140b111957772b~mv2.jpg",
+        "alt": "Home Page",
+        "url": "https://static.wixstatic.com/media/ae24a9_75b61684bb95437b96140b111957772b~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_e52520e8534d426f981c12deef7009a8~mv2.jpg",
+        "alt": "Shop Page",
+        "url": "https://static.wixstatic.com/media/ae24a9_e52520e8534d426f981c12deef7009a8~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_8510f008e280481abc2f979d3d8259b3~mv2.jpg",
+        "alt": "Create Account Page",
+        "url": "https://static.wixstatic.com/media/ae24a9_8510f008e280481abc2f979d3d8259b3~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_75b61684bb95437b96140b111957772b~mv2.jpg",
+        "alt": "Home Page",
+        "url": "https://static.wixstatic.com/media/ae24a9_75b61684bb95437b96140b111957772b~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_f7fc3f2483494a43a360926cd4649ec2~mv2.jpg",
+        "alt": "Mobile App: Home Page",
+        "url": "https://static.wixstatic.com/media/ae24a9_f7fc3f2483494a43a360926cd4649ec2~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_7aab592a3f18433d811a11b0a2388d8a~mv2.jpg",
+        "alt": "Mobile App: Order Page",
+        "url": "https://static.wixstatic.com/media/ae24a9_7aab592a3f18433d811a11b0a2388d8a~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_05c197eba1904243acc7f7e72d8b6f20~mv2.jpg",
+        "alt": "Mobile App: A/B Testing 3",
+        "url": "https://static.wixstatic.com/media/ae24a9_05c197eba1904243acc7f7e72d8b6f20~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_f7fc3f2483494a43a360926cd4649ec2~mv2.jpg",
+        "alt": "Mobile App: Home Page",
+        "url": "https://static.wixstatic.com/media/ae24a9_f7fc3f2483494a43a360926cd4649ec2~mv2.jpg"
+      },
+      {
+        "id": "img_0_comp-mk8i752z",
+        "name": "wix-01c3aff52f2a4dffa526d7a9843d46ea.png",
+        "alt": "Instagram",
+        "url": "https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png"
+      },
+      {
+        "id": "img_1_comp-mk8i752z",
+        "name": "wix-6ea5b4a88f0b4f91945b40499aa0af00.png",
+        "alt": "LinkedIn",
+        "url": "https://static.wixstatic.com/media/6ea5b4a88f0b4f91945b40499aa0af00.png"
+      }
+    ]
+  },
+  "game-gruntsmith": {
+    "blocks": {
+      "comp-m3d2e4qn6": {
+        "id": "comp-m3d2e4qn6",
+        "paragraphs": [
+          "Ang Kai Ming"
+        ],
+        "text": "Ang Kai Ming",
+        "html": "<p><span style=\"text-decoration:underline\"><a href=\"https://mingkaiang69.wixsite.com/portfolio\" target=\"_blank\" rel=\"noopener\"><span>Ang Kai Ming</span></a></span></p>"
+      },
+      "comp-mlxs4pvk6": {
+        "id": "comp-mlxs4pvk6",
+        "paragraphs": [
+          "Gruntsmith | 2025"
+        ],
+        "text": "Gruntsmith | 2025",
+        "html": "<h1><span style=\"color:#3D9BE9\"><span><span>Gruntsmith | 2025</span></span></span></h1>"
+      },
+      "comp-mlxs4pvl5": {
+        "id": "comp-mlxs4pvl5",
+        "paragraphs": [
+          "Game Designer | Programmer | Project Manager"
+        ],
+        "text": "Game Designer | Programmer | Project Manager",
+        "html": "<p><span><span style=\"color:#3D9BE9\"><span>Game Designer | Programmer | Project Manager</span></span></span></p>"
+      },
+      "comp-mlxs4pvm4": {
+        "id": "comp-mlxs4pvm4",
+        "paragraphs": [
+          "Theme"
+        ],
+        "text": "Theme",
+        "html": "<p><span style=\"color:#3D9BE9\"><span><span>Theme</span></span></span></p>"
+      },
+      "comp-mlxs4pvn": {
+        "id": "comp-mlxs4pvn",
+        "paragraphs": [
+          "Action | Top-Down |Frenzy Management"
+        ],
+        "text": "Action | Top-Down |Frenzy Management",
+        "html": "<p><span><span><span style=\"font-weight:normal\">Action | Top-Down |Frenzy Management</span></span></span></p>"
+      },
+      "comp-mlxs4pvo": {
+        "id": "comp-mlxs4pvo",
+        "paragraphs": [
+          "Tools"
+        ],
+        "text": "Tools",
+        "html": "<p><span style=\"color:rgb(61, 155, 233)\">Tools</span></p>"
+      },
+      "comp-mlxs4pvp": {
+        "id": "comp-mlxs4pvp",
+        "paragraphs": [
+          "Unity Engine | Github"
+        ],
+        "text": "Unity Engine | Github",
+        "html": "<p><span><span><span style=\"font-weight:normal\">Unity Engine | Github</span></span></span></p>"
+      },
+      "comp-mlxs56a9": {
+        "id": "comp-mlxs56a9",
+        "paragraphs": [
+          "About the Game"
+        ],
+        "text": "About the Game",
+        "html": "<h2><span><span>About the Game</span></span></h2>"
+      },
+      "comp-mlxs56ac7": {
+        "id": "comp-mlxs56ac7",
+        "paragraphs": [
+          "In a world of FPS games, someone supplies the guns. As the sole worker in a rundown factory, you race between workstations, meeting tight quotas to satisfy demanding bosses. It’s dangerous, gruelling work, but the company’s profits depend on your relentless effort to arm thrifty players with their virtual firepower."
+        ],
+        "text": "In a world of FPS games, someone supplies the guns. As the sole worker in a rundown factory, you race between workstations, meeting tight quotas to satisfy demanding bosses. It’s dangerous, gruelling work, but the company’s profits depend on your relentless effort to arm thrifty players with their virtual firepower.",
+        "html": "<p><span><span>In a world of FPS games, someone supplies the guns. As the sole worker in a rundown factory, you race between workstations, meeting tight quotas to satisfy demanding bosses. It’s dangerous, gruelling work, but the company’s profits depend on your relentless effort to arm thrifty players with their virtual firepower.</span></span></p>\n\n<p><span><span><span>​</span></span></span></p>\n\n<p><span><span><span>​</span></span></span></p>"
+      },
+      "comp-mlxs5jr93": {
+        "id": "comp-mlxs5jr93",
+        "paragraphs": [
+          "My Contributions"
+        ],
+        "text": "My Contributions",
+        "html": "<h2><span><span>My Contributions</span></span></h2>"
+      },
+      "comp-mlxs5jrb": {
+        "id": "comp-mlxs5jrb",
+        "paragraphs": [
+          "Cinematic Direction"
+        ],
+        "text": "Cinematic Direction",
+        "html": "<h3><span><span style=\"font-weight:bold\"><span>Cinematic Direction</span></span></span></h3>"
+      },
+      "comp-mlxs5jrb6": {
+        "id": "comp-mlxs5jrb6",
+        "paragraphs": [
+          "Character Switching Logic Dynamic Camera Systems"
+        ],
+        "text": "Character Switching Logic Dynamic Camera Systems",
+        "html": "<h3><span><span style=\"font-weight:bold\"><span>Character Switching Logic<br>\n<br>\nDynamic Camera Systems</span></span></span></h3>"
+      },
+      "comp-mlxs5jrc3": {
+        "id": "comp-mlxs5jrc3",
+        "paragraphs": [
+          "Iterative Puzzle Design"
+        ],
+        "text": "Iterative Puzzle Design",
+        "html": "<h3><span style=\"font-weight:bold\"><span><span>Iterative Puzzle Design</span></span></span></h3>"
+      },
+      "comp-mlxs5jrd": {
+        "id": "comp-mlxs5jrd",
+        "paragraphs": [
+          "Integrated Dialogue System"
+        ],
+        "text": "Integrated Dialogue System",
+        "html": "<h3><span style=\"font-weight:bold\"><span><span>Integrated Dialogue System</span></span></span></h3>"
+      },
+      "comp-mlxs5jri": {
+        "id": "comp-mlxs5jri",
+        "paragraphs": [
+          "Leveraged Unity Timeline to author scripted cutscenes that bridge gameplay segments."
+        ],
+        "text": "Leveraged Unity Timeline to author scripted cutscenes that bridge gameplay segments.",
+        "html": "<p><span>Leveraged Unity Timeline to author scripted cutscenes that bridge gameplay segments.</span></p>"
+      },
+      "comp-mlxs5jrm2": {
+        "id": "comp-mlxs5jrm2",
+        "paragraphs": [
+          "Engineered a robust single-player swap system, allowing players to toggle between two unique characters with persistent state management.",
+          "Designed and implemented custom camera controllers to maintain framing during both exploration and character transitions."
+        ],
+        "text": "Engineered a robust single-player swap system, allowing players to toggle between two unique characters with persistent state management.\n\nDesigned and implemented custom camera controllers to maintain framing during both exploration and character transitions.",
+        "html": "<p><span><span>Engineered a robust single-player swap system, allowing players to toggle between two unique characters with persistent state management.</span></span></p>\n\n<p><br>\n<span><span>Designed and implemented custom camera controllers to maintain framing during both exploration and character transitions.</span></span></p>\n\n<p><span><span><span>​</span></span></span></p>"
+      },
+      "comp-mlxs5jrp4": {
+        "id": "comp-mlxs5jrp4",
+        "paragraphs": [
+          "Built modular puzzle mechanics, including a high-complexity system that was ultimately deprecated following playtesting to prioritise player flow and game balance."
+        ],
+        "text": "Built modular puzzle mechanics, including a high-complexity system that was ultimately deprecated following playtesting to prioritise player flow and game balance.",
+        "html": "<p><span>Built modular puzzle mechanics, including a high-complexity system that was ultimately deprecated following playtesting to prioritise player flow and game balance.</span></p>"
+      },
+      "comp-mlxs5jrs": {
+        "id": "comp-mlxs5jrs",
+        "paragraphs": [
+          "Developed a flexible dialogue framework that triggers based on world interactions and narrative milestones, ensuring character-specific lines are delivered correctly regardless of which character the player is currently controlling."
+        ],
+        "text": "Developed a flexible dialogue framework that triggers based on world interactions and narrative milestones, ensuring character-specific lines are delivered correctly regardless of which character the player is currently controlling.",
+        "html": "<p><span>Developed a flexible dialogue framework that triggers based on world interactions and narrative milestones, ensuring character-specific lines are delivered correctly regardless of which character the player is currently controlling.</span></p>\n\n<p><span><span>​</span></span></p>"
+      },
+      "comp-m3d2e4qw6": {
+        "id": "comp-m3d2e4qw6",
+        "paragraphs": [
+          "Ang Kai Ming"
+        ],
+        "text": "Ang Kai Ming",
+        "html": "<p><span><a href=\"https://mingkaiang69.wixsite.com/portfolio/home\" target=\"_blank\" rel=\"noopener\">Ang Kai Ming</a></span></p>"
+      },
+      "comp-mk729d14": {
+        "id": "comp-mk729d14",
+        "paragraphs": [
+          "Follow"
+        ],
+        "text": "Follow",
+        "html": "<h3><span>Follow</span></h3>"
+      },
+      "comp-mk72qq68": {
+        "id": "comp-mk72qq68",
+        "paragraphs": [
+          "Contact Me"
+        ],
+        "text": "Contact Me",
+        "html": "<h3><span>Contact Me</span></h3>"
+      },
+      "comp-mk72wb29": {
+        "id": "comp-mk72wb29",
+        "paragraphs": [
+          "mingkaiang69@gmail.com"
+        ],
+        "text": "mingkaiang69@gmail.com",
+        "html": "<p><a href=\"mailto:mingkaiang69@gmail.com\" target=\"_blank\" rel=\"noopener\">mingkaiang69@gmail.com</a></p>"
+      },
+      "comp-m3d2jg1c": {
+        "id": "comp-m3d2jg1c",
+        "paragraphs": [
+          "© 2026 by Ang Kai Ming"
+        ],
+        "text": "© 2026 by Ang Kai Ming",
+        "html": "<p>© 2026 by Ang Kai Ming</p>"
+      },
+      "comp-mkco6agd": {
+        "id": "comp-mkco6agd",
+        "paragraphs": [
+          "More"
+        ],
+        "text": "More",
+        "html": "<h3><span>More</span></h3>"
+      },
+      "comp-mkco6agx": {
+        "id": "comp-mkco6agx",
+        "paragraphs": [
+          "About"
+        ],
+        "text": "About",
+        "html": "<p><span style=\"text-decoration:underline\"><a href=\"https://mingkaiang69.wixsite.com/portfolio/about\" target=\"_blank\" rel=\"noopener\">About</a></span></p>"
+      },
+      "comp-mkco6ahk": {
+        "id": "comp-mkco6ahk",
+        "paragraphs": [
+          "Resume"
+        ],
+        "text": "Resume",
+        "html": "<p><span style=\"text-decoration:underline\"><a href=\"https://cc435e8b-2b08-4a59-99e6-2c1532577d3f.filesusr.com/ugd/ae24a9_e8f758d4d06f4537bbf628da630b28cb.pdf\" target=\"_blank\" rel=\"noopener\">Resume</a></span></p>"
+      }
+    },
+    "images": [
+      {
+        "id": "",
+        "name": "wix-ae24a9_7d7f8dd098a248c6a55bf2d299185f62~mv2.jpg",
+        "alt": "arcarde style pixel game art.jpg",
+        "url": "https://static.wixstatic.com/media/ae24a9_7d7f8dd098a248c6a55bf2d299185f62~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_b6dbe15df7ec45d2871fe185195d0cf7~mv2.png",
+        "alt": "gam100 poster.png",
+        "url": "https://static.wixstatic.com/media/ae24a9_b6dbe15df7ec45d2871fe185195d0cf7~mv2.png"
+      },
+      {
+        "id": "comp-mlxs56aa_img",
+        "name": "wix-ae24a9_8c1429d36c1b4cb69b7867574aa2d481f000.jpg",
+        "alt": "",
+        "url": "https://static.wixstatic.com/media/ae24a9_8c1429d36c1b4cb69b7867574aa2d481f000.jpg"
+      },
+      {
+        "id": "comp-mlxs5jri6_img",
+        "name": "wix-ae24a9_e819b3b0c6744648918fd1236cf0e44cf000.jpg",
+        "alt": "",
+        "url": "https://static.wixstatic.com/media/ae24a9_e819b3b0c6744648918fd1236cf0e44cf000.jpg"
+      },
+      {
+        "id": "img_comp-mlxs5jrl",
+        "name": "wix-ae24a9_f27739cff9ae423b8d8b558db771fb29~mv2.png",
+        "alt": "",
+        "url": "https://static.wixstatic.com/media/ae24a9_f27739cff9ae423b8d8b558db771fb29~mv2.png"
+      },
+      {
+        "id": "comp-mlxs5jrn2_img",
+        "name": "wix-ae24a9_1441486b68714aa3a0dff46687eb2b01f000.jpg",
+        "alt": "",
+        "url": "https://static.wixstatic.com/media/ae24a9_1441486b68714aa3a0dff46687eb2b01f000.jpg"
+      },
+      {
+        "id": "comp-mlxs5jrq_img",
+        "name": "wix-ae24a9_5b8338e274c742c5ba2b396de4e46a02f000.jpg",
+        "alt": "",
+        "url": "https://static.wixstatic.com/media/ae24a9_5b8338e274c742c5ba2b396de4e46a02f000.jpg"
+      },
+      {
+        "id": "comp-mlxs5jrs6_img",
+        "name": "wix-ae24a9_a7159dbc5f0e4911b2f76c5a72eb74a4f000.jpg",
+        "alt": "",
+        "url": "https://static.wixstatic.com/media/ae24a9_a7159dbc5f0e4911b2f76c5a72eb74a4f000.jpg"
+      },
+      {
+        "id": "img_0_comp-mk8i752z",
+        "name": "wix-01c3aff52f2a4dffa526d7a9843d46ea.png",
+        "alt": "Instagram",
+        "url": "https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png"
+      },
+      {
+        "id": "img_1_comp-mk8i752z",
+        "name": "wix-6ea5b4a88f0b4f91945b40499aa0af00.png",
+        "alt": "LinkedIn",
+        "url": "https://static.wixstatic.com/media/6ea5b4a88f0b4f91945b40499aa0af00.png"
+      }
+    ]
+  },
+  "game-halfblood": {
+    "blocks": {
+      "comp-m3d2e4qn6": {
+        "id": "comp-m3d2e4qn6",
+        "paragraphs": [
+          "Ang Kai Ming"
+        ],
+        "text": "Ang Kai Ming",
+        "html": "<p><span style=\"text-decoration:underline\"><a href=\"https://mingkaiang69.wixsite.com/portfolio\" target=\"_blank\" rel=\"noopener\"><span>Ang Kai Ming</span></a></span></p>"
+      },
+      "comp-mlxs7tox1": {
+        "id": "comp-mlxs7tox1",
+        "paragraphs": [
+          "Halfblood | 2025"
+        ],
+        "text": "Halfblood | 2025",
+        "html": "<h1><span style=\"color:#3D9BE9\"><span><span>Halfblood | 2025</span></span></span></h1>"
+      },
+      "comp-mlxs7toy": {
+        "id": "comp-mlxs7toy",
+        "paragraphs": [
+          "Game Designer | Programmer | Data Architect"
+        ],
+        "text": "Game Designer | Programmer | Data Architect",
+        "html": "<p><span><span style=\"color:#3D9BE9\"><span>Game Designer | Programmer | Data Architect</span></span></span></p>"
+      },
+      "comp-mlxs7toy6": {
+        "id": "comp-mlxs7toy6",
+        "paragraphs": [
+          "Theme"
+        ],
+        "text": "Theme",
+        "html": "<p><span style=\"color:#3D9BE9\"><span><span>Theme</span></span></span></p>"
+      },
+      "comp-mlxs7toz4": {
+        "id": "comp-mlxs7toz4",
+        "paragraphs": [
+          "Endless | Roguelike |Combat"
+        ],
+        "text": "Endless | Roguelike |Combat",
+        "html": "<p><span><span><span style=\"font-weight:normal\">Endless | Roguelike |Combat</span></span></span></p>"
+      },
+      "comp-mlxs7toz10": {
+        "id": "comp-mlxs7toz10",
+        "paragraphs": [
+          "Tools"
+        ],
+        "text": "Tools",
+        "html": "<p><span style=\"color:rgb(61, 155, 233)\">Tools</span></p>"
+      },
+      "comp-mlxs7tp05": {
+        "id": "comp-mlxs7tp05",
+        "paragraphs": [
+          "Unity Engine | Github"
+        ],
+        "text": "Unity Engine | Github",
+        "html": "<p><span><span><span style=\"font-weight:normal\">Unity Engine | Github</span></span></span></p>"
+      },
+      "comp-mlxs7tp3": {
+        "id": "comp-mlxs7tp3",
+        "paragraphs": [
+          "About the Game"
+        ],
+        "text": "About the Game",
+        "html": "<h2><span><span>About the Game</span></span></h2>"
+      },
+      "comp-mlxs7tp6": {
+        "id": "comp-mlxs7tp6",
+        "paragraphs": [
+          "Halfblood is a high-intensity survival combat school project focusing on the implementation of dynamic data systems and persistent player progression. I engineered a scalable architecture to manage the \"one-more-run\" gameplay loop, integrating a robust multi-slot save/load engine with a decoupled, event-driven achievement and unlock system. By bridging real-time session tracking, such as after-battle analytics, with global meta-progression like stat upgrades and inventory management, the project demonstrates a technical proficiency in handling complex, interconnected data structures within a live game environment."
+        ],
+        "text": "Halfblood is a high-intensity survival combat school project focusing on the implementation of dynamic data systems and persistent player progression. I engineered a scalable architecture to manage the \"one-more-run\" gameplay loop, integrating a robust multi-slot save/load engine with a decoupled, event-driven achievement and unlock system. By bridging real-time session tracking, such as after-battle analytics, with global meta-progression like stat upgrades and inventory management, the project demonstrates a technical proficiency in handling complex, interconnected data structures within a live game environment.",
+        "html": "<p><span><span>Halfblood is a high-intensity survival combat school project focusing on the implementation of dynamic data systems and persistent player progression. I engineered a scalable architecture to manage the &quot;one-more-run&quot; gameplay loop, integrating a robust multi-slot save/load engine with a decoupled, event-driven achievement and unlock system. By bridging real-time session tracking, such as after-battle analytics, with global meta-progression like stat upgrades and inventory management, the project demonstrates a technical proficiency in handling complex, interconnected data structures within a live game environment.</span></span></p>\n\n<p><span><span><span>​</span></span></span></p>\n\n<p><span><span><span>​</span></span></span></p>"
+      },
+      "comp-mlxs7tp85": {
+        "id": "comp-mlxs7tp85",
+        "paragraphs": [
+          "My Contributions"
+        ],
+        "text": "My Contributions",
+        "html": "<h2><span><span>My Contributions</span></span></h2>"
+      },
+      "comp-mlxs7tpa6": {
+        "id": "comp-mlxs7tpa6",
+        "paragraphs": [
+          "Persistent Save/Load Framework"
+        ],
+        "text": "Persistent Save/Load Framework",
+        "html": "<h3><span><span style=\"font-weight:bold\"><span>Persistent Save/Load Framework</span></span></span></h3>"
+      },
+      "comp-mlxs7tpb3": {
+        "id": "comp-mlxs7tpb3",
+        "paragraphs": [
+          "Deeper Session Tracking"
+        ],
+        "text": "Deeper Session Tracking",
+        "html": "<h3><span style=\"font-weight:bold\"><span><span>Deeper Session Tracking</span></span></span></h3>"
+      },
+      "comp-mlxs7tpc": {
+        "id": "comp-mlxs7tpc",
+        "paragraphs": [
+          "Scalable Achievement System"
+        ],
+        "text": "Scalable Achievement System",
+        "html": "<h3><span style=\"font-weight:bold\"><span><span>Scalable Achievement System</span></span></span></h3>"
+      },
+      "comp-mlxs7tpk2": {
+        "id": "comp-mlxs7tpk2",
+        "paragraphs": [
+          "Engineered a multi-slot Save/Load framework from scratch, utilising JSON serialisation to manage persistent data for player progression, inventory states, and character statistics."
+        ],
+        "text": "Engineered a multi-slot Save/Load framework from scratch, utilising JSON serialisation to manage persistent data for player progression, inventory states, and character statistics.",
+        "html": "<p><span><span>Engineered a multi-slot Save/Load framework from scratch, utilising JSON serialisation to manage persistent data for player progression, inventory states, and character statistics.</span></span></p>"
+      },
+      "comp-mlxs7tpn": {
+        "id": "comp-mlxs7tpn",
+        "paragraphs": [
+          "Engineered a Session Data Engine to capture and aggregate granular combat metrics, enabling detailed after-battle analysis and performance-based rewards."
+        ],
+        "text": "Engineered a Session Data Engine to capture and aggregate granular combat metrics, enabling detailed after-battle analysis and performance-based rewards.",
+        "html": "<p><span>Engineered a Session Data Engine to capture and aggregate granular combat metrics, enabling detailed after-battle analysis and performance-based rewards.</span></p>"
+      },
+      "comp-mlxs7tps": {
+        "id": "comp-mlxs7tps",
+        "paragraphs": [
+          "Architected a decoupled, event-driven achievement framework that monitors game triggers and manages unlocks, progress bars, and icon loading via a modular UI suite."
+        ],
+        "text": "Architected a decoupled, event-driven achievement framework that monitors game triggers and manages unlocks, progress bars, and icon loading via a modular UI suite.",
+        "html": "<p><span>Architected a decoupled, event-driven achievement framework that monitors game triggers and manages unlocks, progress bars, and icon loading via a modular UI suite.</span></p>"
+      },
+      "comp-m3d2e4qw6": {
+        "id": "comp-m3d2e4qw6",
+        "paragraphs": [
+          "Ang Kai Ming"
+        ],
+        "text": "Ang Kai Ming",
+        "html": "<p><span><a href=\"https://mingkaiang69.wixsite.com/portfolio/home\" target=\"_blank\" rel=\"noopener\">Ang Kai Ming</a></span></p>"
+      },
+      "comp-mk729d14": {
+        "id": "comp-mk729d14",
+        "paragraphs": [
+          "Follow"
+        ],
+        "text": "Follow",
+        "html": "<h3><span>Follow</span></h3>"
+      },
+      "comp-mk72qq68": {
+        "id": "comp-mk72qq68",
+        "paragraphs": [
+          "Contact Me"
+        ],
+        "text": "Contact Me",
+        "html": "<h3><span>Contact Me</span></h3>"
+      },
+      "comp-mk72wb29": {
+        "id": "comp-mk72wb29",
+        "paragraphs": [
+          "mingkaiang69@gmail.com"
+        ],
+        "text": "mingkaiang69@gmail.com",
+        "html": "<p><a href=\"mailto:mingkaiang69@gmail.com\" target=\"_blank\" rel=\"noopener\">mingkaiang69@gmail.com</a></p>"
+      },
+      "comp-m3d2jg1c": {
+        "id": "comp-m3d2jg1c",
+        "paragraphs": [
+          "© 2026 by Ang Kai Ming"
+        ],
+        "text": "© 2026 by Ang Kai Ming",
+        "html": "<p>© 2026 by Ang Kai Ming</p>"
+      },
+      "comp-mkco6agd": {
+        "id": "comp-mkco6agd",
+        "paragraphs": [
+          "More"
+        ],
+        "text": "More",
+        "html": "<h3><span>More</span></h3>"
+      },
+      "comp-mkco6agx": {
+        "id": "comp-mkco6agx",
+        "paragraphs": [
+          "About"
+        ],
+        "text": "About",
+        "html": "<p><span style=\"text-decoration:underline\"><a href=\"https://mingkaiang69.wixsite.com/portfolio/about\" target=\"_blank\" rel=\"noopener\">About</a></span></p>"
+      },
+      "comp-mkco6ahk": {
+        "id": "comp-mkco6ahk",
+        "paragraphs": [
+          "Resume"
+        ],
+        "text": "Resume",
+        "html": "<p><span style=\"text-decoration:underline\"><a href=\"https://cc435e8b-2b08-4a59-99e6-2c1532577d3f.filesusr.com/ugd/ae24a9_e8f758d4d06f4537bbf628da630b28cb.pdf\" target=\"_blank\" rel=\"noopener\">Resume</a></span></p>"
+      }
+    },
+    "images": [
+      {
+        "id": "",
+        "name": "wix-ae24a9_7d7f8dd098a248c6a55bf2d299185f62~mv2.jpg",
+        "alt": "arcarde style pixel game art.jpg",
+        "url": "https://static.wixstatic.com/media/ae24a9_7d7f8dd098a248c6a55bf2d299185f62~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_65f9fceac39f4492a1f8487d5b840c64~mv2.png",
+        "alt": "halfblood poster.png",
+        "url": "https://static.wixstatic.com/media/ae24a9_65f9fceac39f4492a1f8487d5b840c64~mv2.png"
+      },
+      {
+        "id": "comp-mlxy4av0_img",
+        "name": "wix-ae24a9_d804ad9fc64d4c8181e10d1b1b2ea961f000.jpg",
+        "alt": "",
+        "url": "https://static.wixstatic.com/media/ae24a9_d804ad9fc64d4c8181e10d1b1b2ea961f000.jpg"
+      },
+      {
+        "id": "comp-mlxy4jfh_img",
+        "name": "wix-ae24a9_996389b420534a56bf394e140d4acea6f000.jpg",
+        "alt": "",
+        "url": "https://static.wixstatic.com/media/ae24a9_996389b420534a56bf394e140d4acea6f000.jpg"
+      },
+      {
+        "id": "comp-mlxy4f4o_img",
+        "name": "wix-ae24a9_8771e6c42b00409ca9b107752bf30588f000.jpg",
+        "alt": "",
+        "url": "https://static.wixstatic.com/media/ae24a9_8771e6c42b00409ca9b107752bf30588f000.jpg"
+      },
+      {
+        "id": "comp-mlxy4ovt_img",
+        "name": "wix-ae24a9_8a03175d667d4dbfa40707b462f1b4d5f000.jpg",
+        "alt": "",
+        "url": "https://static.wixstatic.com/media/ae24a9_8a03175d667d4dbfa40707b462f1b4d5f000.jpg"
+      },
+      {
+        "id": "img_0_comp-mk8i752z",
+        "name": "wix-01c3aff52f2a4dffa526d7a9843d46ea.png",
+        "alt": "Instagram",
+        "url": "https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png"
+      },
+      {
+        "id": "img_1_comp-mk8i752z",
+        "name": "wix-6ea5b4a88f0b4f91945b40499aa0af00.png",
+        "alt": "LinkedIn",
+        "url": "https://static.wixstatic.com/media/6ea5b4a88f0b4f91945b40499aa0af00.png"
+      }
+    ]
+  },
+  "game-pirates-pocket": {
+    "blocks": {
+      "comp-m3d2e4qn6": {
+        "id": "comp-m3d2e4qn6",
+        "paragraphs": [
+          "Ang Kai Ming"
+        ],
+        "text": "Ang Kai Ming",
+        "html": "<p><span style=\"text-decoration:underline\"><a href=\"https://mingkaiang69.wixsite.com/portfolio\" target=\"_blank\" rel=\"noopener\"><span>Ang Kai Ming</span></a></span></p>"
+      },
+      "comp-mlxsmswq6": {
+        "id": "comp-mlxsmswq6",
+        "paragraphs": [
+          "Pirate's Pocket | 2025"
+        ],
+        "text": "Pirate's Pocket | 2025",
+        "html": "<h1><span style=\"color:#3D9BE9\"><span><span>Pirate&#x27;s Pocket | 2025</span></span></span></h1>"
+      },
+      "comp-mlxsmswr4": {
+        "id": "comp-mlxsmswr4",
+        "paragraphs": [
+          "System Designer | Production Manager"
+        ],
+        "text": "System Designer | Production Manager",
+        "html": "<p><span><span style=\"color:#3D9BE9\"><span>System Designer | Production Manager</span></span></span></p>"
+      },
+      "comp-mlxsmsws": {
+        "id": "comp-mlxsmsws",
+        "paragraphs": [
+          "Theme"
+        ],
+        "text": "Theme",
+        "html": "<p><span style=\"color:#3D9BE9\"><span><span>Theme</span></span></span></p>"
+      },
+      "comp-mlxsmsws6": {
+        "id": "comp-mlxsmsws6",
+        "paragraphs": [
+          "Action | Top-Down |Frenzy Management"
+        ],
+        "text": "Action | Top-Down |Frenzy Management",
+        "html": "<p><span><span><span style=\"font-weight:normal\">Action | Top-Down |Frenzy Management</span></span></span></p>"
+      },
+      "comp-mlxsmswt5": {
+        "id": "comp-mlxsmswt5",
+        "paragraphs": [
+          "Tools"
+        ],
+        "text": "Tools",
+        "html": "<p><span style=\"color:rgb(61, 155, 233)\">Tools</span></p>"
+      },
+      "comp-mlxsmswu2": {
+        "id": "comp-mlxsmswu2",
+        "paragraphs": [
+          "Canva | Adobe Illustrator"
+        ],
+        "text": "Canva | Adobe Illustrator",
+        "html": "<p><span><span><span style=\"font-weight:normal\">Canva | Adobe Illustrator</span></span></span></p>"
+      },
+      "comp-mlxsmsww8": {
+        "id": "comp-mlxsmsww8",
+        "paragraphs": [
+          "About the Game"
+        ],
+        "text": "About the Game",
+        "html": "<h2><span><span>About the Game</span></span></h2>"
+      },
+      "comp-mlxsmswz9": {
+        "id": "comp-mlxsmswz9",
+        "paragraphs": [
+          "Pirate’s Pocket puts you in the boots of a rogue captain on the high seas. Your goal is simple: collect the most treasure. The execution is anything but. By combining strategic hand management with a dynamic \"Shield & Parry\" defence system, players must decide when to play it safe and when to risk their last doubloon on a desperate dice roll. It’s a game of calculated risks, sudden betrayals, and the constant hunt for the ultimate haul."
+        ],
+        "text": "Pirate’s Pocket puts you in the boots of a rogue captain on the high seas. Your goal is simple: collect the most treasure. The execution is anything but. By combining strategic hand management with a dynamic \"Shield & Parry\" defence system, players must decide when to play it safe and when to risk their last doubloon on a desperate dice roll. It’s a game of calculated risks, sudden betrayals, and the constant hunt for the ultimate haul.",
+        "html": "<p><span><span>Pirate’s Pocket puts you in the boots of a rogue captain on the high seas. Your goal is simple: <span style=\"font-weight:bold\">collect the most treasure</span>. The execution is anything but. By combining strategic hand management with a dynamic &quot;Shield &amp; Parry&quot; defence system, players must decide when to play it safe and when to risk their last doubloon on a desperate dice roll. It’s a game of calculated risks, sudden betrayals, and the constant hunt for the ultimate haul.</span></span></p>\n\n<p><span><span><span>​</span></span></span></p>\n\n<p><span><span><span>​</span></span></span></p>"
+      },
+      "comp-mlxsmsx24": {
+        "id": "comp-mlxsmsx24",
+        "paragraphs": [
+          "My Contributions"
+        ],
+        "text": "My Contributions",
+        "html": "<h2><span><span>My Contributions</span></span></h2>"
+      },
+      "comp-mlxsmsx4": {
+        "id": "comp-mlxsmsx4",
+        "paragraphs": [
+          "Balanced Resource Economy"
+        ],
+        "text": "Balanced Resource Economy",
+        "html": "<h3><span><span style=\"font-weight:bold\"><span>Balanced Resource Economy</span></span></span></h3>"
+      },
+      "comp-mlxsmsx46": {
+        "id": "comp-mlxsmsx46",
+        "paragraphs": [
+          "Iterative Design Refinement"
+        ],
+        "text": "Iterative Design Refinement",
+        "html": "<h3><span><span style=\"font-weight:bold\"><span>Iterative Design Refinement</span></span></span></h3>"
+      },
+      "comp-mlxsmsx55": {
+        "id": "comp-mlxsmsx55",
+        "paragraphs": [
+          "Rulebook Optimisation"
+        ],
+        "text": "Rulebook Optimisation",
+        "html": "<h3><span style=\"font-weight:bold\"><span><span>Rulebook Optimisation</span></span></span></h3>"
+      },
+      "comp-mlxsmsxa": {
+        "id": "comp-mlxsmsxa",
+        "paragraphs": [
+          "Designed the \"Risk vs. Reward\" loop for buried treasure to ensure players must tactically trade victory points for survival."
+        ],
+        "text": "Designed the \"Risk vs. Reward\" loop for buried treasure to ensure players must tactically trade victory points for survival.",
+        "html": "<p><span>Designed the &quot;Risk vs. Reward&quot; loop for buried treasure to ensure players must tactically trade victory points for survival.</span></p>"
+      },
+      "comp-mlxsmsxe": {
+        "id": "comp-mlxsmsxe",
+        "paragraphs": [
+          "Facilitated frequent playtest sessions to identify \"friction points,\" leading to a complete redesign of the parry system for better game flow."
+        ],
+        "text": "Facilitated frequent playtest sessions to identify \"friction points,\" leading to a complete redesign of the parry system for better game flow.",
+        "html": "<p><span><span>Facilitated frequent playtest sessions to identify &quot;friction points,&quot; leading to a complete redesign of the parry system for better game flow.</span></span></p>"
+      },
+      "comp-mlys163a": {
+        "id": "comp-mlys163a",
+        "paragraphs": [
+          "Streamlined complex technical jargon into an intuitive \"Thematic UX\" to reduce the learning curve for new players."
+        ],
+        "text": "Streamlined complex technical jargon into an intuitive \"Thematic UX\" to reduce the learning curve for new players.",
+        "html": "<p><span>Streamlined complex technical jargon into an intuitive &quot;Thematic UX&quot; to reduce the learning curve for new players.</span></p>\n\n<p><span><span>​</span></span></p>"
+      },
+      "comp-m3d2e4qw6": {
+        "id": "comp-m3d2e4qw6",
+        "paragraphs": [
+          "Ang Kai Ming"
+        ],
+        "text": "Ang Kai Ming",
+        "html": "<p><span><a href=\"https://mingkaiang69.wixsite.com/portfolio/home\" target=\"_blank\" rel=\"noopener\">Ang Kai Ming</a></span></p>"
+      },
+      "comp-mk729d14": {
+        "id": "comp-mk729d14",
+        "paragraphs": [
+          "Follow"
+        ],
+        "text": "Follow",
+        "html": "<h3><span>Follow</span></h3>"
+      },
+      "comp-mk72qq68": {
+        "id": "comp-mk72qq68",
+        "paragraphs": [
+          "Contact Me"
+        ],
+        "text": "Contact Me",
+        "html": "<h3><span>Contact Me</span></h3>"
+      },
+      "comp-mk72wb29": {
+        "id": "comp-mk72wb29",
+        "paragraphs": [
+          "mingkaiang69@gmail.com"
+        ],
+        "text": "mingkaiang69@gmail.com",
+        "html": "<p><a href=\"mailto:mingkaiang69@gmail.com\" target=\"_blank\" rel=\"noopener\">mingkaiang69@gmail.com</a></p>"
+      },
+      "comp-m3d2jg1c": {
+        "id": "comp-m3d2jg1c",
+        "paragraphs": [
+          "© 2026 by Ang Kai Ming"
+        ],
+        "text": "© 2026 by Ang Kai Ming",
+        "html": "<p>© 2026 by Ang Kai Ming</p>"
+      },
+      "comp-mkco6agd": {
+        "id": "comp-mkco6agd",
+        "paragraphs": [
+          "More"
+        ],
+        "text": "More",
+        "html": "<h3><span>More</span></h3>"
+      },
+      "comp-mkco6agx": {
+        "id": "comp-mkco6agx",
+        "paragraphs": [
+          "About"
+        ],
+        "text": "About",
+        "html": "<p><span style=\"text-decoration:underline\"><a href=\"https://mingkaiang69.wixsite.com/portfolio/about\" target=\"_blank\" rel=\"noopener\">About</a></span></p>"
+      },
+      "comp-mkco6ahk": {
+        "id": "comp-mkco6ahk",
+        "paragraphs": [
+          "Resume"
+        ],
+        "text": "Resume",
+        "html": "<p><span style=\"text-decoration:underline\"><a href=\"https://cc435e8b-2b08-4a59-99e6-2c1532577d3f.filesusr.com/ugd/ae24a9_e8f758d4d06f4537bbf628da630b28cb.pdf\" target=\"_blank\" rel=\"noopener\">Resume</a></span></p>"
+      }
+    },
+    "images": [
+      {
+        "id": "",
+        "name": "wix-ae24a9_7d7f8dd098a248c6a55bf2d299185f62~mv2.jpg",
+        "alt": "arcarde style pixel game art.jpg",
+        "url": "https://static.wixstatic.com/media/ae24a9_7d7f8dd098a248c6a55bf2d299185f62~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_2d17b6bdd10f4f3aa7dd436753972cf0~mv2.png",
+        "alt": "pirates pocket poster.png",
+        "url": "https://static.wixstatic.com/media/ae24a9_2d17b6bdd10f4f3aa7dd436753972cf0~mv2.png"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_69fb72968ba846f6b04aa11df5e38e33~mv2.png",
+        "alt": "Front Cover",
+        "url": "https://static.wixstatic.com/media/ae24a9_69fb72968ba846f6b04aa11df5e38e33~mv2.png"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_2bf086f5faf44f65a5f1b320a78c2439~mv2.png",
+        "alt": "Back Cover",
+        "url": "https://static.wixstatic.com/media/ae24a9_2bf086f5faf44f65a5f1b320a78c2439~mv2.png"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_69fb72968ba846f6b04aa11df5e38e33~mv2.png",
+        "alt": "Front Cover",
+        "url": "https://static.wixstatic.com/media/ae24a9_69fb72968ba846f6b04aa11df5e38e33~mv2.png"
+      },
+      {
+        "id": "img_comp-mlyqkub6",
+        "name": "wix-ae24a9_a6895165be384122a7eb136849ba3509~mv2.jpg",
+        "alt": "",
+        "url": "https://static.wixstatic.com/media/ae24a9_a6895165be384122a7eb136849ba3509~mv2.jpg"
+      },
+      {
+        "id": "img_comp-mlxsmsxc9",
+        "name": "wix-ae24a9_d52e383b27104275821ecdc63fcc8caa~mv2.jpg",
+        "alt": "",
+        "url": "https://static.wixstatic.com/media/ae24a9_d52e383b27104275821ecdc63fcc8caa~mv2.jpg"
+      },
+      {
+        "id": "img_comp-mlys0e3r",
+        "name": "wix-ae24a9_97f8f3b38b64440ebbcd3c57ab6fb3ce~mv2.png",
+        "alt": "",
+        "url": "https://static.wixstatic.com/media/ae24a9_97f8f3b38b64440ebbcd3c57ab6fb3ce~mv2.png"
+      },
+      {
+        "id": "img_comp-mlys21zb",
+        "name": "wix-ae24a9_c1d188c4efac45bb902eabb1673c3d68~mv2.png",
+        "alt": "",
+        "url": "https://static.wixstatic.com/media/ae24a9_c1d188c4efac45bb902eabb1673c3d68~mv2.png"
+      },
+      {
+        "id": "img_comp-mlyqwt4v",
+        "name": "wix-ae24a9_3d8ab1a6cbc244e4bd7deaccf5f991d3~mv2.png",
+        "alt": "",
+        "url": "https://static.wixstatic.com/media/ae24a9_3d8ab1a6cbc244e4bd7deaccf5f991d3~mv2.png"
+      },
+      {
+        "id": "img_comp-mlys5cw5",
+        "name": "wix-ae24a9_c1d188c4efac45bb902eabb1673c3d68~mv2.png",
+        "alt": "",
+        "url": "https://static.wixstatic.com/media/ae24a9_c1d188c4efac45bb902eabb1673c3d68~mv2.png"
+      },
+      {
+        "id": "img_0_comp-mk8i752z",
+        "name": "wix-01c3aff52f2a4dffa526d7a9843d46ea.png",
+        "alt": "Instagram",
+        "url": "https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png"
+      },
+      {
+        "id": "img_1_comp-mk8i752z",
+        "name": "wix-6ea5b4a88f0b4f91945b40499aa0af00.png",
+        "alt": "LinkedIn",
+        "url": "https://static.wixstatic.com/media/6ea5b4a88f0b4f91945b40499aa0af00.png"
+      }
+    ]
+  },
+  "home": {
+    "blocks": {
+      "comp-m3d2e4qn6": {
+        "id": "comp-m3d2e4qn6",
+        "paragraphs": [
+          "Ang Kai Ming"
+        ],
+        "text": "Ang Kai Ming",
+        "html": "<p><span style=\"text-decoration:underline\"><a href=\"https://mingkaiang69.wixsite.com/portfolio\" target=\"_blank\" rel=\"noopener\"><span>Ang Kai Ming</span></a></span></p>"
+      },
+      "comp-mm9019un2": {
+        "id": "comp-mm9019un2",
+        "paragraphs": [
+          "Hey, I’m Kai Ming, a student focusing on UX and Game Design. Here is a look at some of my projects."
+        ],
+        "text": "Hey, I’m Kai Ming, a student focusing on UX and Game Design. Here is a look at some of my projects.",
+        "html": "<h1><span>Hey, I’m <span style=\"color:#3D9BE9\">Kai Ming</span>, a student focusing on UX and Game Design. Here is a look at some of my projects.</span></h1>"
+      },
+      "comp-mm9019vr": {
+        "id": "comp-mm9019vr",
+        "paragraphs": [
+          "More About Me"
+        ],
+        "text": "More About Me",
+        "html": "<h2>More About Me</h2>"
+      },
+      "comp-mm9019vs13": {
+        "id": "comp-mm9019vs13",
+        "paragraphs": [
+          "Behind the Design"
+        ],
+        "text": "Behind the Design",
+        "html": "<p><span>Behind the Design</span></p>"
+      },
+      "comp-mm9019vx": {
+        "id": "comp-mm9019vx",
+        "paragraphs": [
+          "I enjoy the challenge of taking complex ideas and making them easy for players to understand. My background in UX helps me focus on usability, while my game design studies allow me to think about mechanics and fun.",
+          "When I’m not designing, I’m usually expanding my game engine knowledge like Unity and Unreal Engine. I’m currently looking for opportunities to grow and contribute to a team."
+        ],
+        "text": "I enjoy the challenge of taking complex ideas and making them easy for players to understand. My background in UX helps me focus on usability, while my game design studies allow me to think about mechanics and fun.\n\nWhen I’m not designing, I’m usually expanding my game engine knowledge like Unity and Unreal Engine. I’m currently looking for opportunities to grow and contribute to a team.",
+        "html": "<p>I enjoy the challenge of taking complex ideas and making them easy for players to understand. My background in UX helps me focus on usability, while my game design studies allow me to think about mechanics and fun.</p>\n\n<p><span>​</span></p>\n\n<p>When I’m not designing, I’m usually expanding my game engine knowledge like Unity and Unreal Engine. I’m currently looking for opportunities to grow and contribute to a team.</p>"
+      },
+      "comp-mm9019wn": {
+        "id": "comp-mm9019wn",
+        "paragraphs": [
+          "Game Projects"
+        ],
+        "text": "Game Projects",
+        "html": "<h2>Game Projects</h2>"
+      },
+      "comp-mm9019wu": {
+        "id": "comp-mm9019wu",
+        "paragraphs": [
+          "Gruntsmith"
+        ],
+        "text": "Gruntsmith",
+        "html": "<h3><span>Gruntsmith</span></h3>"
+      },
+      "comp-mm9019wx21": {
+        "id": "comp-mm9019wx21",
+        "paragraphs": [
+          "Halfblood"
+        ],
+        "text": "Halfblood",
+        "html": "<h3><span>Halfblood</span></h3>"
+      },
+      "comp-mm9019x116": {
+        "id": "comp-mm9019x116",
+        "paragraphs": [
+          "Pirate's Pocket"
+        ],
+        "text": "Pirate's Pocket",
+        "html": "<h3><span>Pirate&#x27;s Pocket</span></h3>"
+      },
+      "comp-mm9019x217": {
+        "id": "comp-mm9019x217",
+        "paragraphs": [
+          "UI/UX Projects"
+        ],
+        "text": "UI/UX Projects",
+        "html": "<h2>UI/UX Projects</h2>"
+      },
+      "comp-mm9019x78": {
+        "id": "comp-mm9019x78",
+        "paragraphs": [
+          "Nibble Cookies"
+        ],
+        "text": "Nibble Cookies",
+        "html": "<h3><span>Nibble Cookies</span></h3>"
+      },
+      "comp-mm9019xb12": {
+        "id": "comp-mm9019xb12",
+        "paragraphs": [
+          "MyTransport.SG"
+        ],
+        "text": "MyTransport.SG",
+        "html": "<h3><span>MyTransport.SG</span></h3>"
+      },
+      "comp-mvhxd0kl": {
+        "id": "comp-mvhxd0kl",
+        "paragraphs": [
+          "InNav (Work in Progress)"
+        ],
+        "text": "InNav (Work in Progress)",
+        "html": "<h3><span>InNav (Work in Progress)</span></h3>"
+      },
+      "comp-m3d2e4qw6": {
+        "id": "comp-m3d2e4qw6",
+        "paragraphs": [
+          "Ang Kai Ming"
+        ],
+        "text": "Ang Kai Ming",
+        "html": "<p><span><a href=\"https://mingkaiang69.wixsite.com/portfolio/home\" target=\"_blank\" rel=\"noopener\">Ang Kai Ming</a></span></p>"
+      },
+      "comp-mk729d14": {
+        "id": "comp-mk729d14",
+        "paragraphs": [
+          "Follow"
+        ],
+        "text": "Follow",
+        "html": "<h3><span>Follow</span></h3>"
+      },
+      "comp-mk72qq68": {
+        "id": "comp-mk72qq68",
+        "paragraphs": [
+          "Contact Me"
+        ],
+        "text": "Contact Me",
+        "html": "<h3><span>Contact Me</span></h3>"
+      },
+      "comp-mk72wb29": {
+        "id": "comp-mk72wb29",
+        "paragraphs": [
+          "mingkaiang69@gmail.com"
+        ],
+        "text": "mingkaiang69@gmail.com",
+        "html": "<p><a href=\"mailto:mingkaiang69@gmail.com\" target=\"_blank\" rel=\"noopener\">mingkaiang69@gmail.com</a></p>"
+      },
+      "comp-m3d2jg1c": {
+        "id": "comp-m3d2jg1c",
+        "paragraphs": [
+          "© 2026 by Ang Kai Ming"
+        ],
+        "text": "© 2026 by Ang Kai Ming",
+        "html": "<p>© 2026 by Ang Kai Ming</p>"
+      },
+      "comp-mkco6agd": {
+        "id": "comp-mkco6agd",
+        "paragraphs": [
+          "More"
+        ],
+        "text": "More",
+        "html": "<h3><span>More</span></h3>"
+      },
+      "comp-mkco6agx": {
+        "id": "comp-mkco6agx",
+        "paragraphs": [
+          "About"
+        ],
+        "text": "About",
+        "html": "<p><span style=\"text-decoration:underline\"><a href=\"https://mingkaiang69.wixsite.com/portfolio/about\" target=\"_blank\" rel=\"noopener\">About</a></span></p>"
+      },
+      "comp-mkco6ahk": {
+        "id": "comp-mkco6ahk",
+        "paragraphs": [
+          "Resume"
+        ],
+        "text": "Resume",
+        "html": "<p><span style=\"text-decoration:underline\"><a href=\"https://cc435e8b-2b08-4a59-99e6-2c1532577d3f.filesusr.com/ugd/ae24a9_e8f758d4d06f4537bbf628da630b28cb.pdf\" target=\"_blank\" rel=\"noopener\">Resume</a></span></p>"
+      }
+    },
+    "images": [
+      {
+        "id": "",
+        "name": "wix-ae24a9_1a48c88785f74fb7892543bbee8cb06af000.jpg",
+        "alt": "",
+        "url": "https://static.wixstatic.com/media/ae24a9_1a48c88785f74fb7892543bbee8cb06af000.jpg"
+      },
+      {
+        "id": "img_comp-mm9019uj",
+        "name": "wix-ae24a9_54c6c4fe32d84abe968b0d0bbc28b435~mv2.jpg",
+        "alt": "photo_2026-01-08_22-26-14_edited.jpg",
+        "url": "https://static.wixstatic.com/media/ae24a9_54c6c4fe32d84abe968b0d0bbc28b435~mv2.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_1a48c88785f74fb7892543bbee8cb06af000.jpg",
+        "alt": "",
+        "url": "https://static.wixstatic.com/media/ae24a9_1a48c88785f74fb7892543bbee8cb06af000.jpg"
+      },
+      {
+        "id": "",
+        "name": "wix-ae24a9_b690ca5cf12b425098d7d79e8c7eca25~mv2.png",
+        "alt": "Halfblood_Background.png",
+        "url": "https://static.wixstatic.com/media/ae24a9_b690ca5cf12b425098d7d79e8c7eca25~mv2.png"
+      },
+      {
+        "id": "img_comp-mm9019wq6",
+        "name": "wix-ae24a9_b6dbe15df7ec45d2871fe185195d0cf7~mv2.png",
+        "alt": "gam100 poster.png",
+        "url": "https://static.wixstatic.com/media/ae24a9_b6dbe15df7ec45d2871fe185195d0cf7~mv2.png"
+      },
+      {
+        "id": "img_comp-mm9019ww4",
+        "name": "wix-ae24a9_65f9fceac39f4492a1f8487d5b840c64~mv2.png",
+        "alt": "halfblood poster.png",
+        "url": "https://static.wixstatic.com/media/ae24a9_65f9fceac39f4492a1f8487d5b840c64~mv2.png"
+      },
+      {
+        "id": "img_comp-mm9019x01",
+        "name": "wix-ae24a9_2d17b6bdd10f4f3aa7dd436753972cf0~mv2.png",
+        "alt": "pirates pocket poster.png",
+        "url": "https://static.wixstatic.com/media/ae24a9_2d17b6bdd10f4f3aa7dd436753972cf0~mv2.png"
+      },
+      {
+        "id": "img_comp-mm9019x57",
+        "name": "wix-ae24a9_2109af0ca6244bbfa8a1675220e67fac~mv2.png",
+        "alt": "nibble.png",
+        "url": "https://static.wixstatic.com/media/ae24a9_2109af0ca6244bbfa8a1675220e67fac~mv2.png"
+      },
+      {
+        "id": "img_comp-mm9019xa",
+        "name": "wix-ae24a9_c82b0239ff6d40f8af10542613e50acc~mv2.png",
+        "alt": "mytransport.png",
+        "url": "https://static.wixstatic.com/media/ae24a9_c82b0239ff6d40f8af10542613e50acc~mv2.png"
+      },
+      {
+        "id": "img_comp-mvhxd0jg",
+        "name": "wix-ae24a9_c6ad18c56d51484f9ed9715b3bef0109~mv2.png",
+        "alt": "favicon.png",
+        "url": "https://static.wixstatic.com/media/ae24a9_c6ad18c56d51484f9ed9715b3bef0109~mv2.png"
+      },
+      {
+        "id": "img_0_comp-mk8i752z",
+        "name": "wix-01c3aff52f2a4dffa526d7a9843d46ea.png",
+        "alt": "Instagram",
+        "url": "https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png"
+      },
+      {
+        "id": "img_1_comp-mk8i752z",
+        "name": "wix-6ea5b4a88f0b4f91945b40499aa0af00.png",
+        "alt": "LinkedIn",
+        "url": "https://static.wixstatic.com/media/6ea5b4a88f0b4f91945b40499aa0af00.png"
+      }
+    ]
+  }
+}
