@@ -51,3 +51,6 @@ Lucide repeat-2, chess-pawn and speech SVGs were converted into transparent PNGs
 
 Project browsing: homepage Game and UI/UX projects are horizontal scroll rows. Scroll or swipe, or focus a row and use the left/right arrow keys. All Projects remains a card grid with category and year filters that work together. Both layouts show newest years first; the editor project order breaks ties within the same year. Year ranges match every year in the range and sort by their latest year. New year options appear automatically when you add projects.
 
+
+Case-study still images and slideshow image areas use matching 16:9 frames with black letterboxing. Images fit inside the frame without cropping; captions sit below. Popups retain the original full-resolution image and zoom controls.
+

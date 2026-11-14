@@ -1768,8 +1768,8 @@
     "summary": "Wukong vs Khaimera is a short combat encounter set in a jungle, using Unreal Engine's Paragon characters.",
     "theme": "Cinematic Action | Combat Encounter",
     "status": "Prototype",
-    "cover": "wukong-vs-khaimera-cover.jpg",
-    "homeCover": "wukong-vs-khaimera-cover.jpg",
+    "cover": "wukong-vs-khaimera-splash.jpg",
+    "homeCover": "wukong-vs-khaimera-splash.jpg",
     "overviewHeading": "About the Game",
     "contributionsHeading": "My Contributions",
     "intro": "Wukong vs Khaimera is a short combat encounter set in a jungle, using Unreal Engine's Paragon characters. The project focuses on keeping the player immersed as the game moves between cinematic scenes and player-controlled combat. Working on one encounter allowed me to look closely at how the game takes control, gives it back and brings the fight to an end.\n\nA cinematic can feel disconnected from gameplay if a character suddenly changes position, the camera jumps or movement feels different afterwards. I wanted the action to carry on naturally when control changes. This meant paying attention to where the characters stand, how their movements connect and what the player can see and do at each point.\n\nThe player walks into the encounter, watches Khaimera emerge, takes part in the weapon clash and then returns to normal combat. Defeating Khaimera leads into the final sequence. My aim was for these moments to feel like parts of the same fight. The player should also understand when they are expected to act, even when the game is directing the scene.",
@@ -1810,7 +1810,7 @@
         {
           "type": "video",
           "name": "wukong-vs-khaimera-gameplay.mp4",
-          "poster": "wukong-vs-khaimera-cover.jpg",
+          "poster": "wukong-vs-khaimera-splash.jpg",
           "title": "Wukong vs Khaimera — gameplay showcase",
           "width": 1280,
           "height": 720,
@@ -1872,7 +1872,7 @@
           "media": [
             {
               "type": "image",
-              "name": "wukong-menu.jpg",
+              "name": "wukong-main-menu.jpg",
               "alt": "Wukong vs Khaimera main menu"
             }
           ]
