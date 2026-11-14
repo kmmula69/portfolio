@@ -5,16 +5,14 @@ on:
   workflow_dispatch:
 permissions:
   contents: read
+  actions: read
   pages: write
   id-token: write
 concurrency:
   group: github-pages
   cancel-in-progress: false
 jobs:
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
@@ -33,6 +31,36 @@ jobs:
       - uses: actions/upload-pages-artifact@v4
         with:
           path: _site
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wait for uploaded build to be available
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          node <<'NODE'
+          (async () => {
+            const url = `https://api.github.com/repos/${process.env.GITHUB_REPOSITORY}/actions/runs/${process.env.GITHUB_RUN_ID}/artifacts`;
+            for (let attempt = 0; attempt < 12; attempt++) {
+              const response = await fetch(url, {headers: {
+                Authorization: `Bearer ${process.env.GH_TOKEN}`,
+                Accept: 'application/vnd.github+json'
+              }});
+              if (!response.ok) throw new Error(`Build lookup failed: ${response.status}`);
+              const data = await response.json();
+              if (data.artifacts?.some(a => a.name === 'github-pages' && !a.expired)) {
+                console.log('Uploaded build is ready.');
+                return;
+              }
+              await new Promise(resolve => setTimeout(resolve, 3000));
+            }
+            throw new Error('Uploaded build did not become available.');
+          })().catch(error => { console.error(error.message); process.exit(1); });
+          NODE
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
