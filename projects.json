@@ -1792,7 +1792,7 @@
       ],
       [
         "Encounter Flow and Results",
-        "The prototype has a complete encounter from the approach to the ending. The player enters the confrontation, watches the reveal, takes part in the E-mashing struggle and returns to normal combat after the push-off. Defeating Khaimera leads into a 6.2-second finish. Wukong's defeat uses his existing death animation. Both return to the main menu, ready for a new encounter.\n\nThe results below describe what the current encounter does and what I observed in recordings and editor checks."
+        "The prototype has a complete encounter from the approach to the ending. The player enters the confrontation, watches the reveal, takes part in the E-mashing struggle and returns to normal combat after the push-off. Defeating Khaimera leads into a 6.2-second finish. Wukong's defeat uses his existing death animation. Both return to the main menu, ready for a new encounter."
       ],
       [
         "Evaluation and Next Steps",
@@ -1882,6 +1882,7 @@
         }
       ]
     },
-    "report": "Wukong-vs-Khaimera-Design.pdf"
+    "report": "Wukong-vs-Khaimera-Design.pdf",
+    "background": "wukong-environment.jpg"
   }
 ]
