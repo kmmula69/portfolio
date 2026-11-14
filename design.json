@@ -24,5 +24,20 @@
     "about-interests-section": {
       "background": "#fff9f2"
     }
+  },
+  "projects/wukong-vs-khaimera.html": {
+    "source-rich-13": {},
+    "media-gallery-1": {
+      "before": 24
+    },
+    "source-media-2": {
+      "before": 24
+    },
+    "media-gallery-2": {
+      "before": 24
+    },
+    "source-media-3": {
+      "before": 24
+    }
   }
 }
