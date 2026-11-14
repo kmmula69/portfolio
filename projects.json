@@ -1753,5 +1753,135 @@
     "listItem": "item-a444d961-d8a7-427c-825f-326887b79ed1",
     "listTitle": "InNav (WIP)",
     "listLabel": "UI/UX | 2026"
+  },
+  {
+    "slug": "wukong-vs-khaimera",
+    "title": "Wukong vs Khaimera",
+    "homeTitle": "Wukong vs Khaimera",
+    "listTitle": "Wukong vs Khaimera",
+    "listLabel": "Game Design | 2026",
+    "category": "Game Design",
+    "year": "2026",
+    "role": "Interactive Design",
+    "tools": "Unreal Engine 5 | Blueprints | Sequencer",
+    "source": "",
+    "summary": "Wukong vs Khaimera is a short combat encounter set in a jungle, using Unreal Engine's Paragon characters.",
+    "theme": "Cinematic Action | Combat Encounter",
+    "status": "Prototype",
+    "cover": "wukong-vs-khaimera-cover.jpg",
+    "homeCover": "wukong-vs-khaimera-cover.jpg",
+    "overviewHeading": "About the Game",
+    "contributionsHeading": "My Contributions",
+    "intro": "Wukong vs Khaimera is a short combat encounter set in a jungle, using Unreal Engine's Paragon characters. The project focuses on keeping the player immersed as the game moves between cinematic scenes and player-controlled combat. Working on one encounter allowed me to look closely at how the game takes control, gives it back and brings the fight to an end.\n\nA cinematic can feel disconnected from gameplay if a character suddenly changes position, the camera jumps or movement feels different afterwards. I wanted the action to carry on naturally when control changes. This meant paying attention to where the characters stand, how their movements connect and what the player can see and do at each point.\n\nThe player walks into the encounter, watches Khaimera emerge, takes part in the weapon clash and then returns to normal combat. Defeating Khaimera leads into the final sequence. My aim was for these moments to feel like parts of the same fight. The player should also understand when they are expected to act, even when the game is directing the scene.",
+    "sections": [
+      [
+        "Cinematic Continuity",
+        "I used Sequencer to arrange the cinematic scenes and Blueprints to manage input, movement settings and health bar visibility. Animation montages let the player's attack finish its movement before the final sequence begins. Matching character positions and blending the camera helped connect gameplay to the cinematic. These choices were made to support the experience across the whole encounter."
+      ],
+      [
+        "Weapon Clash and Participation",
+        "During the weapon struggle, repeated E-pressing was meant to suggest the effort of pushing Khaimera back and keep the player involved in the scene. The prompt tells the player what to do, the progress display shows their input taking effect and the push-off gives them a visible result. It is a simple interaction, though repeating one input gives the player limited choice.\n\nProblem: The guard snapped into place, but slowing it left Wukong waiting.\nChange: Shortened a 1.0-second lift to 0.5 seconds and revised the contact pose.\nCheck: Later replays showed a visible lift into contact without the waiting pose.\n\nProblem: Khaimera stumbled before button mashing ended.\nChange: Started the stumble after successful completion.\nCheck: The reviewed sequence continued the struggle until success, followed by the push-off and stumble."
+      ],
+      [
+        "Restoring Player Control",
+        "Problem: Max Walk Speed stayed at 250 cm/s after the opening.\nChange: Saved the previous speed and restored it afterwards.\nCheck: Speed before / during / after the cinematic (cm/s): Original: 400 / 250 / 250, Fixed: 400 / 250 / 400\n\nThe E prompt tells the player what to press during the clash, and the progress display leads into the push-off when the struggle is completed. Floating health bars are hidden during cinematic scenes. Normal combat brings back the boss and player health displays, including delayed damage trails. The prompt is shown during the struggle, while the health display returns for normal combat. This gives each stage its own visible feedback."
+      ],
+      [
+        "Final-Hit Sequence",
+        "Problem: A sudden camera change separated the ending from the final hit.\nChange: Kept attack follow-through and the starting gameplay view.\nCheck: The lethal-hit test waited for follow-through and matched the starting camera position, rotation and field of view.\n\nProblem: Wukong's arms looked distorted and Khaimera reacted stiffly.\nChange: Adjusted their arm movements and Khaimera's body reactions.\nCheck: Twelve staged poses and a normal-speed replay showed revised arm positions and more movement during impacts."
+      ],
+      [
+        "Encounter Flow and Results",
+        "The prototype has a complete encounter from the approach to the ending. The player enters the confrontation, watches the reveal, takes part in the E-mashing struggle and returns to normal combat after the push-off. Defeating Khaimera leads into a 6.2-second finish. Wukong's defeat uses his existing death animation. Both return to the main menu, ready for a new encounter.\n\nThe results below describe what the current encounter does and what I observed in recordings and editor checks."
+      ],
+      [
+        "Evaluation and Next Steps",
+        "The project explores the transition between watching and playing, but some parts are more developed than others. I spent more time revising the parry, contact, button mashing and return to control than the regular combat. The fight still needs more depth. Even if a transition looks smooth, the player may have few interesting decisions afterwards. Presentation alone is not enough to make the encounter engaging.\n\nBefore adding more combat mechanics, I would watch unfamiliar players complete the encounter without explaining it first. I would note whether they need help with the E prompt, how easily they return to moving or attacking after the push-off, and where they find combat repetitive or their choices limited. Counting requests for help and noting what happens at each change of control would make comparisons easier. I would then make one focused change and repeat the same task. This is a plan for future testing, not a study I have already completed."
+      ]
+    ],
+    "gallery": [],
+    "videos": [],
+    "documents": [],
+    "mediaGroups": [],
+    "layout": {
+      "sourcePage": "",
+      "ids": {},
+      "overviewMedia": [
+        {
+          "type": "video",
+          "name": "wukong-vs-khaimera-gameplay.mp4",
+          "poster": "wukong-vs-khaimera-cover.jpg",
+          "title": "Wukong vs Khaimera — gameplay showcase",
+          "width": 1280,
+          "height": 720,
+          "gap": 0
+        }
+      ],
+      "rows": [
+        {
+          "media": []
+        },
+        {
+          "media": [
+            {
+              "type": "gallery",
+              "width": 419,
+              "height": 233,
+              "images": [
+                {
+                  "name": "wukong-contact-earlier.png",
+                  "alt": "Earlier contact pose"
+                },
+                {
+                  "name": "wukong-contact-revised.png",
+                  "alt": "Revised contact pose"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "media": [
+            {
+              "type": "image",
+              "name": "wukong-combat.jpg",
+              "alt": "Normal combat and health feedback"
+            }
+          ]
+        },
+        {
+          "media": [
+            {
+              "type": "gallery",
+              "width": 478,
+              "height": 189,
+              "images": [
+                {
+                  "name": "wukong-finisher-earlier.png",
+                  "alt": "Earlier finisher"
+                },
+                {
+                  "name": "wukong-finisher-revised.png",
+                  "alt": "Revised finisher"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "media": [
+            {
+              "type": "image",
+              "name": "wukong-menu.jpg",
+              "alt": "Wukong vs Khaimera main menu"
+            }
+          ]
+        },
+        {
+          "media": []
+        }
+      ]
+    },
+    "report": "Wukong-vs-Khaimera-Design.pdf"
   }
 ]

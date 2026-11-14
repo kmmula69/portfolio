@@ -28,3 +28,5 @@ html[data-theme=dark] .source-about{--ink:#111}html[data-theme=dark] .source-abo
 @media(max-width:600px){.contributions-title{padding-block:24px}.lightbox{padding:10px;width:96vw;max-width:96vw}.viewer-toolbar{gap:8px;margin-bottom:8px}.viewer-toolbar button{min-width:34px;min-height:38px;padding:5px 8px}.viewer-stage{height:68dvh}.viewer-document{font-size:11px}.viewer-count{min-width:34px}}
 
 @media(max-width:700px){.source-contributions>.source-rows,.source-contributions>.source-more{width:calc(100% - 36px)}}
+/* Larger project filters with comfortable mouse and touch targets. */
+.filter-bar{gap:clamp(14px,3vw,32px);flex-wrap:wrap;align-items:center}.filter-bar button{font-size:18px;font-weight:500;line-height:1.4;min-height:48px;padding:10px 12px;border-bottom-width:2px}.filter-bar button[aria-pressed=true]{font-weight:700}@media(max-width:600px){.filter-bar{gap:8px}.filter-bar button{font-size:16px;padding:10px;min-height:46px}}

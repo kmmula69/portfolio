@@ -2,8 +2,8 @@
 
 Public links:
 - https://kmmula69.github.io/portfolio/
-- https://kmmula69.github.io/games/
-- https://kmmula69.github.io/ui/
+- https://kmmula69.github.io/portfolio/games/
+- https://kmmula69.github.io/portfolio/ui/
 
 ## Edit and publish
 
@@ -32,7 +32,7 @@ The source repository is public. Published text, files and media in it are publi
 Install Git and Node.js LTS, then clone:
 
 ```text
-git clone https://github.com/kmmula69/kmmula69.github.io.git
+git clone https://github.com/kmmula69/portfolio.git
 ```
 
 Open the cloned folder and run Open Editor.cmd. On macOS/Linux, run `node editor-server.mjs` and open the address it prints.
