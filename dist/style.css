@@ -44,3 +44,8 @@ html[data-theme=dark] .source-about{--ink:#111}html[data-theme=dark] .source-abo
 .source-row-body .gallery-track figure img,.source-overview-media .gallery-track figure img{width:100%;height:100%;aspect-ratio:auto;object-fit:contain;background:#000}
 .source-row-body .gallery-track figcaption,.source-overview-media .gallery-track figcaption{position:static;min-height:29px;background:var(--bg)}
 .source-row-body .media-gallery,.source-overview-media .media-gallery{border:0;outline:1px solid #111;outline-offset:-1px}
+/* Arrow-controlled rows advance by one complete card and gap. */
+.project-carousel{position:relative}.work .project-group .project-strip{padding:0;scrollbar-width:none;scroll-snap-type:x mandatory;scroll-padding-inline:0}.project-strip::-webkit-scrollbar{display:none}
+.work .project-group .project-strip>.project-card{flex:0 0 calc((100% - 64px)/3);min-width:0;max-width:none}
+.project-carousel-controls[hidden]{display:none}.project-carousel-controls button{position:absolute;top:40%;transform:translateY(-50%);z-index:1;width:44px;height:44px;display:flex;align-items:center;justify-content:center;border:1px solid #111;border-radius:50%;background:#fff9f2;color:#111;font-size:32px;line-height:1;padding:0;box-shadow:0 2px 8px #0002}.project-strip-prev{left:-22px}.project-strip-next{right:-22px}.project-carousel-controls button:disabled{opacity:.3;cursor:default;box-shadow:none}
+@media(max-width:900px){.work .project-group .project-strip>.project-card{flex-basis:calc((100% - 32px)/2)}}@media(max-width:600px){.work .project-group .project-strip>.project-card{flex-basis:100%;min-width:0;max-width:none}.project-strip-prev{left:-12px}.project-strip-next{right:-12px}}
