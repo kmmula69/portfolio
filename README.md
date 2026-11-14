@@ -48,3 +48,6 @@ The homepage video silently loops; case-study videos play only after a click. Th
 ## Attribution
 
 Lucide repeat-2, chess-pawn and speech SVGs were converted into transparent PNGs. Their SVG sources and ISC licence are in icon-sources; a licence copy is in dist/assets. Portfolio projects and other media remain subject to their respective owners' rights. This repository does not grant a blanket licence to redistribute the portfolio artwork.
+
+Project browsing: homepage Game and UI/UX projects are horizontal scroll rows. Scroll or swipe, or focus a row and use the left/right arrow keys. All Projects remains a card grid with category and year filters that work together. Both layouts show newest years first; the editor project order breaks ties within the same year. Year ranges match every year in the range and sort by their latest year. New year options appear automatically when you add projects.
+
