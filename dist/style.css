@@ -49,3 +49,7 @@ html[data-theme=dark] .source-about{--ink:#111}html[data-theme=dark] .source-abo
 .work .project-group .project-strip>.project-card{flex:0 0 calc((100% - 64px)/3);min-width:0;max-width:none}
 .project-carousel-controls[hidden]{display:none}.project-carousel-controls button{position:absolute;top:40%;transform:translateY(-50%);z-index:1;width:44px;height:44px;display:flex;align-items:center;justify-content:center;border:1px solid #111;border-radius:50%;background:#fff9f2;color:#111;font-size:32px;line-height:1;padding:0;box-shadow:0 2px 8px #0002}.project-strip-prev{left:-22px}.project-strip-next{right:-22px}.project-carousel-controls button:disabled{opacity:.3;cursor:default;box-shadow:none}
 @media(max-width:900px){.work .project-group .project-strip>.project-card{flex-basis:calc((100% - 32px)/2)}}@media(max-width:600px){.work .project-group .project-strip>.project-card{flex-basis:100%;min-width:0;max-width:none}.project-strip-prev{left:-12px}.project-strip-next{right:-12px}}
+
+/* Keep paragraph breaks and typed spacing in editor-authored text. */
+.source-rich[data-editor-text]>p{white-space:pre-wrap}
+.source-rich[data-editor-text]>p+p{margin-top:1em}
