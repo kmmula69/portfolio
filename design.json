@@ -38,6 +38,10 @@
     },
     "source-media-3": {
       "before": 24
+    },
+    "source-overview-1": {},
+    "source-rich-8": {
+      "after": 24
     }
   }
 }
